@@ -1,3 +1,4 @@
+use std::io;
 fn main() {
     let mut s = String::from("hello");
     s.push_str(", world");
@@ -7,6 +8,8 @@ fn main() {
     ownership_test();
     reference_as_argument_test();
     mutable_references();
+    get_first_word();
+    get_nth_word_by_input();
 }
 fn move_drop_implementing(){
     let s1 = String::from("hello");
@@ -64,6 +67,9 @@ fn mutable_references(){
     let reference = &s_mutable;
     println!("{:p}",&reference);
     let r1 = &mut s_mutable;
+    //I am trying to change the address of the r1 reference in the call stack but it seems that the
+    //runtime is using some form of optimisation and is using always the same stack position for
+    //the just_print frame
     println!("The address of r1 in main fn is {:p}",&r1);
     just_print(r1);
     let local = [0u8; 10000];
@@ -79,4 +85,51 @@ fn just_print(non_mutable_reference:&String){
     println!("The address of the local array: {:p}",&local);
 
     println!("The address of r1 in just_print fn is {:p}",&non_mutable_reference);
+}
+
+//write a function that takes a string of words separated by spaces and returns the first word it finds in that string. If the function doesn’t find a space in the string, the whole string must be one word, so the entire string should be returned.
+fn get_nth_word(input_string:&str,word_number:i32)->(usize,usize){
+   let bytes = input_string.as_bytes();
+   let mut word_counter=0;
+   let mut last_space_index=0;
+   for (i,&byte) in bytes.iter().enumerate(){
+       if byte == b' '{
+           word_counter+=1;
+           if word_counter ==word_number {
+               return (last_space_index,i);
+           }else{
+               last_space_index =i;
+           }
+       }
+   }
+   return (0, input_string.len());
+}
+fn get_nth_word_by_input(){
+   let mut input_string=String::new();
+   println!("Enter the text to find the word for");
+   io::stdin()
+       .read_line(&mut input_string)
+       .expect("Invalid input");
+   input_string= (input_string.trim()).to_string();
+   let mut word_number=String::new();
+   println!("Enter the word number you want to extract");
+   io::stdin()
+       .read_line(&mut word_number)
+       .expect("Invalid input");
+   let word_number:i32 = word_number.trim().parse().expect("Please inser a number");
+   let (first_index,last_index) = get_nth_word(&input_string,word_number);
+   let word = &input_string[first_index..last_index];
+   println!("The {}th number of {} is {}",word_number,input_string,word);
+    
+}
+fn get_first_word(){
+   let mut input_string=String::new();
+   println!("Enter the text to find the first word for");
+   io::stdin()
+       .read_line(&mut input_string)
+       .expect("Invalid input");
+   input_string= (input_string.trim()).to_string();
+   let (first_index,last_index) = get_nth_word(&input_string,1);
+   let first_word = &input_string[first_index..last_index];
+   println!("The first word of {} is '{}'",input_string,first_word);
 }

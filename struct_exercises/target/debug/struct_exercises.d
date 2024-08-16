@@ -1,0 +1,1 @@
+/home/klaus/Desktop/rust-learning/struct_exercises/target/debug/struct_exercises: /home/klaus/Desktop/rust-learning/struct_exercises/src/area_calculator.rs /home/klaus/Desktop/rust-learning/struct_exercises/src/main.rs
