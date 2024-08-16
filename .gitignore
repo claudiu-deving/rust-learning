@@ -1,5 +1,5 @@
 # Rust build directory
-/target/
+**/target/
 
 # Rust package manager directory
 /Cargo.lock
