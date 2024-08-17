@@ -1,0 +1,5006 @@
+[
+  {
+    "name": "Alba",
+    "cities": []
+  },
+  {
+    "name": "Arad",
+    "cities": [
+      {
+        "name": "Aldesti"
+      },
+      {
+        "name": "Almas"
+      },
+      {
+        "name": "Apateu"
+      },
+      {
+        "name": "Arad"
+      },
+      {
+        "name": "Archis"
+      },
+      {
+        "name": "Barsa"
+      },
+      {
+        "name": "Barzava"
+      },
+      {
+        "name": "Barzesti"
+      },
+      {
+        "name": "Bata"
+      },
+      {
+        "name": "Batuta"
+      },
+      {
+        "name": "Beliu"
+      },
+      {
+        "name": "Benesti"
+      },
+      {
+        "name": "Berechiu"
+      },
+      {
+        "name": "Birchis"
+      },
+      {
+        "name": "Bochia"
+      },
+      {
+        "name": "Bulci"
+      },
+      {
+        "name": "Capalnas"
+      },
+      {
+        "name": "Capruta"
+      },
+      {
+        "name": "Chisineu-Cris"
+      },
+      {
+        "name": "Cil"
+      },
+      {
+        "name": "Curtici"
+      },
+      {
+        "name": "Dumbravita"
+      },
+      {
+        "name": "Groseni"
+      },
+      {
+        "name": "Hodis"
+      },
+      {
+        "name": "Ineu"
+      },
+      {
+        "name": "Lalasint"
+      },
+      {
+        "name": "Lipova"
+      },
+      {
+        "name": "Monorostia"
+      },
+      {
+        "name": "Motiori"
+      },
+      {
+        "name": "Nadlac"
+      },
+      {
+        "name": "Nermis"
+      },
+      {
+        "name": "Pancota"
+      },
+      {
+        "name": "Pecica"
+      },
+      {
+        "name": "Radesti"
+      },
+      {
+        "name": "Santana"
+      },
+      {
+        "name": "Sebis"
+      },
+      {
+        "name": "Secaci"
+      },
+      {
+        "name": "Tagadau"
+      },
+      {
+        "name": "Tela"
+      },
+      {
+        "name": "Voivodeni"
+      }
+    ]
+  },
+  {
+    "name": "Arges",
+    "cities": [
+      {
+        "name": "Albesti"
+      },
+      {
+        "name": "Albota"
+      },
+      {
+        "name": "Anghinesti"
+      },
+      {
+        "name": "Aninoasa"
+      },
+      {
+        "name": "Arefu"
+      },
+      {
+        "name": "Argesani"
+      },
+      {
+        "name": "Babana"
+      },
+      {
+        "name": "Baiculesti"
+      },
+      {
+        "name": "Bajanesti"
+      },
+      {
+        "name": "Bajesti"
+      },
+      {
+        "name": "Bratesti"
+      },
+      {
+        "name": "Campulung"
+      },
+      {
+        "name": "Candesti"
+      },
+      {
+        "name": "Cerbu"
+      },
+      {
+        "name": "Ciobanesti"
+      },
+      {
+        "name": "Costesti"
+      },
+      {
+        "name": "Costesti"
+      },
+      {
+        "name": "Cotmenita"
+      },
+      {
+        "name": "Curtea de Arges"
+      },
+      {
+        "name": "Doblea"
+      },
+      {
+        "name": "Dobrotu"
+      },
+      {
+        "name": "Dumiresti"
+      },
+      {
+        "name": "Florieni"
+      },
+      {
+        "name": "Fratesti"
+      },
+      {
+        "name": "Grosi"
+      },
+      {
+        "name": "Lupueni"
+      },
+      {
+        "name": "Manicesti"
+      },
+      {
+        "name": "Mares"
+      },
+      {
+        "name": "Mioveni"
+      },
+      {
+        "name": "Pitesti"
+      },
+      {
+        "name": "Poienita"
+      },
+      {
+        "name": "Priboaia"
+      },
+      {
+        "name": "Slanic"
+      },
+      {
+        "name": "Slatioarele"
+      },
+      {
+        "name": "Stefanesti"
+      },
+      {
+        "name": "Stejari"
+      },
+      {
+        "name": "Topoloveni"
+      },
+      {
+        "name": "Tutana"
+      },
+      {
+        "name": "Ulita"
+      },
+      {
+        "name": "Zigoneni"
+      }
+    ]
+  },
+  {
+    "name": "Bacau",
+    "cities": [
+      {
+        "name": "Agas"
+      },
+      {
+        "name": "Albele"
+      },
+      {
+        "name": "Ardeoani"
+      },
+      {
+        "name": "Asau"
+      },
+      {
+        "name": "Bacau"
+      },
+      {
+        "name": "Balcani"
+      },
+      {
+        "name": "Barsanesti"
+      },
+      {
+        "name": "Beleghet"
+      },
+      {
+        "name": "Beresti-Bistrita"
+      },
+      {
+        "name": "Beresti-Tazlau"
+      },
+      {
+        "name": "Berzunti"
+      },
+      {
+        "name": "Bosoteni"
+      },
+      {
+        "name": "Bratesti"
+      },
+      {
+        "name": "Buhusi"
+      },
+      {
+        "name": "Caraclau"
+      },
+      {
+        "name": "Ciobanus"
+      },
+      {
+        "name": "Climesti"
+      },
+      {
+        "name": "Comanesti"
+      },
+      {
+        "name": "Cosnea"
+      },
+      {
+        "name": "Cotumba"
+      },
+      {
+        "name": "Darmanesti"
+      },
+      {
+        "name": "Diaconesti"
+      },
+      {
+        "name": "Dragomir"
+      },
+      {
+        "name": "Enachesti"
+      },
+      {
+        "name": "Frumoasa"
+      },
+      {
+        "name": "Goioasa"
+      },
+      {
+        "name": "Leontinesti"
+      },
+      {
+        "name": "Ludasi"
+      },
+      {
+        "name": "Moinesti"
+      },
+      {
+        "name": "Onesti"
+      },
+      {
+        "name": "Paltinis"
+      },
+      {
+        "name": "Preluci"
+      },
+      {
+        "name": "Prisaca"
+      },
+      {
+        "name": "Romanesti"
+      },
+      {
+        "name": "Slanic-Moldova"
+      },
+      {
+        "name": "Straja"
+      },
+      {
+        "name": "Sulta"
+      },
+      {
+        "name": "Targu Ocna"
+      },
+      {
+        "name": "Tescani"
+      },
+      {
+        "name": "Turluianu"
+      }
+    ]
+  },
+  {
+    "name": "Bihor",
+    "cities": [
+      {
+        "name": "Abram"
+      },
+      {
+        "name": "Abramut"
+      },
+      {
+        "name": "Alesd"
+      },
+      {
+        "name": "Ant"
+      },
+      {
+        "name": "Arpasel"
+      },
+      {
+        "name": "Astileu"
+      },
+      {
+        "name": "Auseu"
+      },
+      {
+        "name": "Batar"
+      },
+      {
+        "name": "Beius"
+      },
+      {
+        "name": "Biharia"
+      },
+      {
+        "name": "Calatea"
+      },
+      {
+        "name": "Chistag"
+      },
+      {
+        "name": "Codrisoru"
+      },
+      {
+        "name": "Cohani"
+      },
+      {
+        "name": "Crestur"
+      },
+      {
+        "name": "Delani"
+      },
+      {
+        "name": "Dijir"
+      },
+      {
+        "name": "Fancica"
+      },
+      {
+        "name": "Gheghie"
+      },
+      {
+        "name": "Ghida"
+      },
+      {
+        "name": "Grosi"
+      },
+      {
+        "name": "Iteu"
+      },
+      {
+        "name": "Luncsoara"
+      },
+      {
+        "name": "Marghita"
+      },
+      {
+        "name": "Margine"
+      },
+      {
+        "name": "Nucet"
+      },
+      {
+        "name": "Oradea"
+      },
+      {
+        "name": "Pestere"
+      },
+      {
+        "name": "Pestis"
+      },
+      {
+        "name": "Petreu"
+      },
+      {
+        "name": "Sacueni"
+      },
+      {
+        "name": "Salonta"
+      },
+      {
+        "name": "Stei"
+      },
+      {
+        "name": "Suiug"
+      },
+      {
+        "name": "Talpos"
+      },
+      {
+        "name": "Tamasda"
+      },
+      {
+        "name": "Taut"
+      },
+      {
+        "name": "Tinaud"
+      },
+      {
+        "name": "Valea lui Mihai"
+      },
+      {
+        "name": "Vascau"
+      }
+    ]
+  },
+  {
+    "name": "Bistrita-Nasaud",
+    "cities": [
+      {
+        "name": "Apatiu"
+      },
+      {
+        "name": "Beclean"
+      },
+      {
+        "name": "Bistrita"
+      },
+      {
+        "name": "Bozies"
+      },
+      {
+        "name": "Branistea"
+      },
+      {
+        "name": "Budesti"
+      },
+      {
+        "name": "Budesti-Fanate"
+      },
+      {
+        "name": "Budus"
+      },
+      {
+        "name": "Cetate"
+      },
+      {
+        "name": "Chetiu"
+      },
+      {
+        "name": "Chiochis"
+      },
+      {
+        "name": "Chiuza"
+      },
+      {
+        "name": "Ciceu-Poieni"
+      },
+      {
+        "name": "Ciresoaia"
+      },
+      {
+        "name": "Coldau"
+      },
+      {
+        "name": "Colibita"
+      },
+      {
+        "name": "Dobric"
+      },
+      {
+        "name": "Figa"
+      },
+      {
+        "name": "Ghinda"
+      },
+      {
+        "name": "Jelna"
+      },
+      {
+        "name": "Jimbor"
+      },
+      {
+        "name": "Malut"
+      },
+      {
+        "name": "Manic"
+      },
+      {
+        "name": "Mires"
+      },
+      {
+        "name": "Monariu"
+      },
+      {
+        "name": "Nasaud"
+      },
+      {
+        "name": "Petris"
+      },
+      {
+        "name": "Piatra"
+      },
+      {
+        "name": "Sangeorz-Bai"
+      },
+      {
+        "name": "Sannicoara"
+      },
+      {
+        "name": "Sarata"
+      },
+      {
+        "name": "Sigmir"
+      },
+      {
+        "name": "Simionesti"
+      },
+      {
+        "name": "Slatinita"
+      },
+      {
+        "name": "Strugureni"
+      },
+      {
+        "name": "Tagsoru"
+      },
+      {
+        "name": "Tagu"
+      },
+      {
+        "name": "Tentea"
+      },
+      {
+        "name": "Unirea"
+      },
+      {
+        "name": "Viisoara"
+      }
+    ]
+  },
+  {
+    "name": "Botosani",
+    "cities": [
+      {
+        "name": "Adaseni"
+      },
+      {
+        "name": "Albesti"
+      },
+      {
+        "name": "Avrameni"
+      },
+      {
+        "name": "Baluseni"
+      },
+      {
+        "name": "Blandesti"
+      },
+      {
+        "name": "Bohoghina"
+      },
+      {
+        "name": "Botosani"
+      },
+      {
+        "name": "Braesti"
+      },
+      {
+        "name": "Broscauti"
+      },
+      {
+        "name": "Bucecea"
+      },
+      {
+        "name": "Buimaceni"
+      },
+      {
+        "name": "Buzeni"
+      },
+      {
+        "name": "Calarasi"
+      },
+      {
+        "name": "Candesti"
+      },
+      {
+        "name": "Cerbu"
+      },
+      {
+        "name": "Cerchejeni"
+      },
+      {
+        "name": "Concesti"
+      },
+      {
+        "name": "Copalau"
+      },
+      {
+        "name": "Costiugeni"
+      },
+      {
+        "name": "Cosuleni"
+      },
+      {
+        "name": "Darabani"
+      },
+      {
+        "name": "Dorohoi"
+      },
+      {
+        "name": "Draxini"
+      },
+      {
+        "name": "Flamanzi"
+      },
+      {
+        "name": "Ichimeni"
+      },
+      {
+        "name": "Jijia"
+      },
+      {
+        "name": "Libertatea"
+      },
+      {
+        "name": "Mascateni"
+      },
+      {
+        "name": "Movileni"
+      },
+      {
+        "name": "Panaitoaia"
+      },
+      {
+        "name": "Plesani"
+      },
+      {
+        "name": "Saveni"
+      },
+      {
+        "name": "Soldanesti"
+      },
+      {
+        "name": "Stefanesti"
+      },
+      {
+        "name": "Talpa"
+      },
+      {
+        "name": "Timus"
+      },
+      {
+        "name": "Valcelele"
+      },
+      {
+        "name": "Vitcani"
+      },
+      {
+        "name": "Zaicesti"
+      },
+      {
+        "name": "Zoitani"
+      }
+    ]
+  },
+  {
+    "name": "Braila",
+    "cities": [
+      {
+        "name": "Baraganul"
+      },
+      {
+        "name": "Batogu"
+      },
+      {
+        "name": "Berlesti"
+      },
+      {
+        "name": "Braila"
+      },
+      {
+        "name": "Bumbacari"
+      },
+      {
+        "name": "Cazasu"
+      },
+      {
+        "name": "Chichinetu"
+      },
+      {
+        "name": "Chioibasesti"
+      },
+      {
+        "name": "Chiscani"
+      },
+      {
+        "name": "Ciocile"
+      },
+      {
+        "name": "Ciresu"
+      },
+      {
+        "name": "Cistia"
+      },
+      {
+        "name": "Drogu"
+      },
+      {
+        "name": "Dudesti"
+      },
+      {
+        "name": "Faurei"
+      },
+      {
+        "name": "Filiu"
+      },
+      {
+        "name": "Frecatei"
+      },
+      {
+        "name": "Galbenu"
+      },
+      {
+        "name": "Gavani"
+      },
+      {
+        "name": "Gemenele"
+      },
+      {
+        "name": "Gradistea"
+      },
+      {
+        "name": "Gropeni"
+      },
+      {
+        "name": "Ianca"
+      },
+      {
+        "name": "Ibrianu"
+      },
+      {
+        "name": "Insuratei"
+      },
+      {
+        "name": "Ionesti"
+      },
+      {
+        "name": "Liscoteanca"
+      },
+      {
+        "name": "Maraloiu"
+      },
+      {
+        "name": "Nicolesti"
+      },
+      {
+        "name": "Odaieni"
+      },
+      {
+        "name": "Pantecani"
+      },
+      {
+        "name": "Salcia"
+      },
+      {
+        "name": "Satuc"
+      },
+      {
+        "name": "Scarlatesti"
+      },
+      {
+        "name": "Stoienesti"
+      },
+      {
+        "name": "Tataru"
+      },
+      {
+        "name": "Titcov"
+      },
+      {
+        "name": "Varsatura"
+      },
+      {
+        "name": "Vultureni"
+      },
+      {
+        "name": "Zamfiresti"
+      }
+    ]
+  },
+  {
+    "name": "Brasov",
+    "cities": [
+      {
+        "name": "Apata"
+      },
+      {
+        "name": "Augustin"
+      },
+      {
+        "name": "Beia"
+      },
+      {
+        "name": "Bod"
+      },
+      {
+        "name": "Boholt"
+      },
+      {
+        "name": "Bran"
+      },
+      {
+        "name": "Brasov"
+      },
+      {
+        "name": "Budila"
+      },
+      {
+        "name": "Bunesti"
+      },
+      {
+        "name": "Calbor"
+      },
+      {
+        "name": "Cata"
+      },
+      {
+        "name": "Cincu"
+      },
+      {
+        "name": "Codlea"
+      },
+      {
+        "name": "Comana"
+      },
+      {
+        "name": "Crihalma"
+      },
+      {
+        "name": "Cristian"
+      },
+      {
+        "name": "Crit"
+      },
+      {
+        "name": "Crizbav"
+      },
+      {
+        "name": "Cutus"
+      },
+      {
+        "name": "Dragus"
+      },
+      {
+        "name": "Drauseni"
+      },
+      {
+        "name": "Fagaras"
+      },
+      {
+        "name": "Ghimbav"
+      },
+      {
+        "name": "Hurez"
+      },
+      {
+        "name": "Ionesti"
+      },
+      {
+        "name": "Luta"
+      },
+      {
+        "name": "Mesendorf"
+      },
+      {
+        "name": "Palos"
+      },
+      {
+        "name": "Predeal"
+      },
+      {
+        "name": "Predelut"
+      },
+      {
+        "name": "Rasnov"
+      },
+      {
+        "name": "Roades"
+      },
+      {
+        "name": "Rupea"
+      },
+      {
+        "name": "Sacele"
+      },
+      {
+        "name": "Simon"
+      },
+      {
+        "name": "Sohodol"
+      },
+      {
+        "name": "Toarcla"
+      },
+      {
+        "name": "Victoria"
+      },
+      {
+        "name": "Viscri"
+      },
+      {
+        "name": "Zarnesti"
+      }
+    ]
+  },
+  {
+    "name": "Bucuresti - Ilfov",
+    "cities": [
+      {
+        "name": "Afumati"
+      },
+      {
+        "name": "Balaceanca"
+      },
+      {
+        "name": "Balotesti"
+      },
+      {
+        "name": "Berceni"
+      },
+      {
+        "name": "Bragadiru"
+      },
+      {
+        "name": "Branesti"
+      },
+      {
+        "name": "Buciumeni"
+      },
+      {
+        "name": "Bucuresti"
+      },
+      {
+        "name": "Buda"
+      },
+      {
+        "name": "Buftea"
+      },
+      {
+        "name": "Caldararu"
+      },
+      {
+        "name": "Cernica"
+      },
+      {
+        "name": "Chiajna"
+      },
+      {
+        "name": "Chitila"
+      },
+      {
+        "name": "Ciolpani"
+      },
+      {
+        "name": "Ciorogarla"
+      },
+      {
+        "name": "Clinceni"
+      },
+      {
+        "name": "Copaceni"
+      },
+      {
+        "name": "Corbeanca"
+      },
+      {
+        "name": "Cornetu"
+      },
+      {
+        "name": "Darasti-Ilfov"
+      },
+      {
+        "name": "Darvari"
+      },
+      {
+        "name": "Dudu"
+      },
+      {
+        "name": "Dumbraveni"
+      },
+      {
+        "name": "Ilfov"
+      },
+      {
+        "name": "Islaz"
+      },
+      {
+        "name": "Izvorani"
+      },
+      {
+        "name": "Luparia"
+      },
+      {
+        "name": "Olteni"
+      },
+      {
+        "name": "Ordoreanu"
+      },
+      {
+        "name": "Ostratu"
+      },
+      {
+        "name": "Pasarea"
+      },
+      {
+        "name": "Petresti"
+      },
+      {
+        "name": "Piscu"
+      },
+      {
+        "name": "Posta"
+      },
+      {
+        "name": "Rosu"
+      },
+      {
+        "name": "Rudeni"
+      },
+      {
+        "name": "Saftica"
+      },
+      {
+        "name": "Tamasi"
+      },
+      {
+        "name": "Tanganu"
+      }
+    ]
+  },
+  {
+    "name": "Buzau",
+    "cities": [
+      {
+        "name": "Amara"
+      },
+      {
+        "name": "Amaru"
+      },
+      {
+        "name": "Arbanasi"
+      },
+      {
+        "name": "Baceni"
+      },
+      {
+        "name": "Baile"
+      },
+      {
+        "name": "Balaceanu"
+      },
+      {
+        "name": "Baltagari"
+      },
+      {
+        "name": "Beceni"
+      },
+      {
+        "name": "Berca"
+      },
+      {
+        "name": "Bisoca"
+      },
+      {
+        "name": "Blajani"
+      },
+      {
+        "name": "Boldu"
+      },
+      {
+        "name": "Buzau"
+      },
+      {
+        "name": "Campeni"
+      },
+      {
+        "name": "Carpinistea"
+      },
+      {
+        "name": "Cojanu"
+      },
+      {
+        "name": "Dogari"
+      },
+      {
+        "name": "Dulbanu"
+      },
+      {
+        "name": "Floresti"
+      },
+      {
+        "name": "Joseni"
+      },
+      {
+        "name": "Lacurile"
+      },
+      {
+        "name": "Lopatareasa"
+      },
+      {
+        "name": "Margariti"
+      },
+      {
+        "name": "Nehoiu"
+      },
+      {
+        "name": "Paclele"
+      },
+      {
+        "name": "Patarlagele"
+      },
+      {
+        "name": "Plescoi"
+      },
+      {
+        "name": "Plesi"
+      },
+      {
+        "name": "Pogoanele"
+      },
+      {
+        "name": "Ramnicu Sarat"
+      },
+      {
+        "name": "Ratesti"
+      },
+      {
+        "name": "Recea"
+      },
+      {
+        "name": "Sarile"
+      },
+      {
+        "name": "Satuc"
+      },
+      {
+        "name": "Scorteanca"
+      },
+      {
+        "name": "Sindrila"
+      },
+      {
+        "name": "Soresti"
+      },
+      {
+        "name": "Stavarasti"
+      },
+      {
+        "name": "Tatarligu"
+      },
+      {
+        "name": "Viforata"
+      }
+    ]
+  },
+  {
+    "name": "Calarasi",
+    "cities": [
+      {
+        "name": "Aprozi"
+      },
+      {
+        "name": "Belciugatele"
+      },
+      {
+        "name": "Bogdana"
+      },
+      {
+        "name": "Borcea"
+      },
+      {
+        "name": "Bosneagu"
+      },
+      {
+        "name": "Buciumeni"
+      },
+      {
+        "name": "Budesti"
+      },
+      {
+        "name": "Calarasi"
+      },
+      {
+        "name": "Candeasca"
+      },
+      {
+        "name": "Cascioarele"
+      },
+      {
+        "name": "Ceacu"
+      },
+      {
+        "name": "Chiselet"
+      },
+      {
+        "name": "Ciocanesti"
+      },
+      {
+        "name": "Ciulnita-Gara"
+      },
+      {
+        "name": "Cojesti"
+      },
+      {
+        "name": "Coslogeni"
+      },
+      {
+        "name": "Crivat"
+      },
+      {
+        "name": "Curatesti"
+      },
+      {
+        "name": "Curcani"
+      },
+      {
+        "name": "Dalga"
+      },
+      {
+        "name": "Dalga-Gara"
+      },
+      {
+        "name": "Danesti"
+      },
+      {
+        "name": "Dichiseni"
+      },
+      {
+        "name": "Dragalina"
+      },
+      {
+        "name": "Frasinet"
+      },
+      {
+        "name": "Fundulea"
+      },
+      {
+        "name": "Galatui"
+      },
+      {
+        "name": "Gruiu"
+      },
+      {
+        "name": "Infratirea"
+      },
+      {
+        "name": "Lehliu-Gara"
+      },
+      {
+        "name": "Libertatea"
+      },
+      {
+        "name": "Mariuta"
+      },
+      {
+        "name": "Mataraua"
+      },
+      {
+        "name": "Ogoru"
+      },
+      {
+        "name": "Oltenita"
+      },
+      {
+        "name": "Pelinu"
+      },
+      {
+        "name": "Salcioara"
+      },
+      {
+        "name": "Satnoeni"
+      },
+      {
+        "name": "Socoalele"
+      },
+      {
+        "name": "Varasti"
+      }
+    ]
+  },
+  {
+    "name": "Caras-Severin",
+    "cities": [
+      {
+        "name": "Anina"
+      },
+      {
+        "name": "Apadia"
+      },
+      {
+        "name": "Armenis"
+      },
+      {
+        "name": "Baile Herculane"
+      },
+      {
+        "name": "Bania"
+      },
+      {
+        "name": "Bautar"
+      },
+      {
+        "name": "Berliste"
+      },
+      {
+        "name": "Berzasca"
+      },
+      {
+        "name": "Berzovia"
+      },
+      {
+        "name": "Bigar"
+      },
+      {
+        "name": "Bocsa"
+      },
+      {
+        "name": "Bolvasnita"
+      },
+      {
+        "name": "Bozovici"
+      },
+      {
+        "name": "Brebu"
+      },
+      {
+        "name": "Buchin"
+      },
+      {
+        "name": "Bucova"
+      },
+      {
+        "name": "Caransebes"
+      },
+      {
+        "name": "Cornisoru"
+      },
+      {
+        "name": "Cozla"
+      },
+      {
+        "name": "Drencova"
+      },
+      {
+        "name": "Fenes"
+      },
+      {
+        "name": "Fizes"
+      },
+      {
+        "name": "Garana"
+      },
+      {
+        "name": "Garbovat"
+      },
+      {
+        "name": "Ghertenis"
+      },
+      {
+        "name": "Iam"
+      },
+      {
+        "name": "Liubcova"
+      },
+      {
+        "name": "Milcoveni"
+      },
+      {
+        "name": "Moldova Noua"
+      },
+      {
+        "name": "Oravita"
+      },
+      {
+        "name": "Otelu Rosu"
+      },
+      {
+        "name": "Pecinisca"
+      },
+      {
+        "name": "Plopu"
+      },
+      {
+        "name": "Poneasca"
+      },
+      {
+        "name": "Preveciori"
+      },
+      {
+        "name": "Prilipet"
+      },
+      {
+        "name": "Resita"
+      },
+      {
+        "name": "Steierdorf"
+      },
+      {
+        "name": "Valeadeni"
+      },
+      {
+        "name": "Varciorova"
+      }
+    ]
+  },
+  {
+    "name": "Cluj",
+    "cities": [
+      {
+        "name": "Aghiresu"
+      },
+      {
+        "name": "Aghiresu-Fabrici"
+      },
+      {
+        "name": "Aiton"
+      },
+      {
+        "name": "Alunis"
+      },
+      {
+        "name": "Apahida"
+      },
+      {
+        "name": "Arghisu"
+      },
+      {
+        "name": "Aschileu"
+      },
+      {
+        "name": "Baciu"
+      },
+      {
+        "name": "Bagara"
+      },
+      {
+        "name": "Bodrog"
+      },
+      {
+        "name": "Campenesti"
+      },
+      {
+        "name": "Campia Turzii"
+      },
+      {
+        "name": "Cluj-Napoca"
+      },
+      {
+        "name": "Corneni"
+      },
+      {
+        "name": "Corpadea"
+      },
+      {
+        "name": "Corusu"
+      },
+      {
+        "name": "Cristorel"
+      },
+      {
+        "name": "Dancu"
+      },
+      {
+        "name": "Dej"
+      },
+      {
+        "name": "Dezmir"
+      },
+      {
+        "name": "Dorna"
+      },
+      {
+        "name": "Doroltu"
+      },
+      {
+        "name": "Fodora"
+      },
+      {
+        "name": "Gherla"
+      },
+      {
+        "name": "Ghirolt"
+      },
+      {
+        "name": "Huedin"
+      },
+      {
+        "name": "Inucu"
+      },
+      {
+        "name": "Leghia"
+      },
+      {
+        "name": "Macau"
+      },
+      {
+        "name": "Mera"
+      },
+      {
+        "name": "Pata"
+      },
+      {
+        "name": "Popesti"
+      },
+      {
+        "name": "Pruneni"
+      },
+      {
+        "name": "Radaia"
+      },
+      {
+        "name": "Rediu"
+      },
+      {
+        "name": "Sannicoara"
+      },
+      {
+        "name": "Ticu"
+      },
+      {
+        "name": "Ticu-Colonie"
+      },
+      {
+        "name": "Turda"
+      },
+      {
+        "name": "Vale"
+      }
+    ]
+  },
+  {
+    "name": "Constanta",
+    "cities": [
+      {
+        "name": "Abrud"
+      },
+      {
+        "name": "Adamclisi"
+      },
+      {
+        "name": "Agigea"
+      },
+      {
+        "name": "Albesti"
+      },
+      {
+        "name": "Aliman"
+      },
+      {
+        "name": "Amzacea"
+      },
+      {
+        "name": "Arsa"
+      },
+      {
+        "name": "Baneasa"
+      },
+      {
+        "name": "Baraganu"
+      },
+      {
+        "name": "Cascioarele"
+      },
+      {
+        "name": "Casicea"
+      },
+      {
+        "name": "Castelu"
+      },
+      {
+        "name": "Cerchezu"
+      },
+      {
+        "name": "Cernavoda"
+      },
+      {
+        "name": "Constanta"
+      },
+      {
+        "name": "Coroana"
+      },
+      {
+        "name": "Dulcesti"
+      },
+      {
+        "name": "Dunareni"
+      },
+      {
+        "name": "Eforie"
+      },
+      {
+        "name": "Faurei"
+      },
+      {
+        "name": "Floriile"
+      },
+      {
+        "name": "Harsova"
+      },
+      {
+        "name": "Hateg"
+      },
+      {
+        "name": "Lanurile"
+      },
+      {
+        "name": "Lazu"
+      },
+      {
+        "name": "Magura"
+      },
+      {
+        "name": "Mangalia"
+      },
+      {
+        "name": "Medgidia"
+      },
+      {
+        "name": "Mosneni"
+      },
+      {
+        "name": "Murfatlar"
+      },
+      {
+        "name": "Navodari"
+      },
+      {
+        "name": "Negru Voda"
+      },
+      {
+        "name": "Negureni"
+      },
+      {
+        "name": "Nisipari"
+      },
+      {
+        "name": "Ovidiu"
+      },
+      {
+        "name": "Techirghiol"
+      },
+      {
+        "name": "Urluia"
+      },
+      {
+        "name": "Vartop"
+      },
+      {
+        "name": "Vlahii"
+      },
+      {
+        "name": "Zorile"
+      }
+    ]
+  },
+  {
+    "name": "Covasna",
+    "cities": [
+      {
+        "name": "Albis"
+      },
+      {
+        "name": "Baraolt"
+      },
+      {
+        "name": "Barcani"
+      },
+      {
+        "name": "Batani"
+      },
+      {
+        "name": "Belin"
+      },
+      {
+        "name": "Belin-Vale"
+      },
+      {
+        "name": "Biborteni"
+      },
+      {
+        "name": "Bixad"
+      },
+      {
+        "name": "Bodoc"
+      },
+      {
+        "name": "Bodos"
+      },
+      {
+        "name": "Bradut"
+      },
+      {
+        "name": "Brates"
+      },
+      {
+        "name": "Bretcu"
+      },
+      {
+        "name": "Capeni"
+      },
+      {
+        "name": "Catalina"
+      },
+      {
+        "name": "Cernat"
+      },
+      {
+        "name": "Covasna"
+      },
+      {
+        "name": "Doboseni"
+      },
+      {
+        "name": "Filia"
+      },
+      {
+        "name": "Hatuica"
+      },
+      {
+        "name": "Herculian"
+      },
+      {
+        "name": "Imeni"
+      },
+      {
+        "name": "Intorsura Buzaului"
+      },
+      {
+        "name": "Ladauti"
+      },
+      {
+        "name": "Let"
+      },
+      {
+        "name": "Marcusa"
+      },
+      {
+        "name": "Martanus"
+      },
+      {
+        "name": "Martineni"
+      },
+      {
+        "name": "Miclosoara"
+      },
+      {
+        "name": "Oituz"
+      },
+      {
+        "name": "Olteni"
+      },
+      {
+        "name": "Ozunca-Bai"
+      },
+      {
+        "name": "Pachia"
+      },
+      {
+        "name": "Saramas"
+      },
+      {
+        "name": "Sfantu Gheorghe"
+      },
+      {
+        "name": "Talisoara"
+      },
+      {
+        "name": "Targu Secuiesc"
+      },
+      {
+        "name": "Telechia"
+      },
+      {
+        "name": "Tufalau"
+      },
+      {
+        "name": "Zalan"
+      }
+    ]
+  },
+  {
+    "name": "Dambovita",
+    "cities": [
+      {
+        "name": "Aninoasa"
+      },
+      {
+        "name": "Aninosani"
+      },
+      {
+        "name": "Baleni"
+      },
+      {
+        "name": "Baleni-Romani"
+      },
+      {
+        "name": "Baleni-Sarbi"
+      },
+      {
+        "name": "Barbuceanu"
+      },
+      {
+        "name": "Barbuletu"
+      },
+      {
+        "name": "Bezdead"
+      },
+      {
+        "name": "Bilciuresti"
+      },
+      {
+        "name": "Branesti"
+      },
+      {
+        "name": "Branistea"
+      },
+      {
+        "name": "Brezoaele"
+      },
+      {
+        "name": "Brezoaia"
+      },
+      {
+        "name": "Buciumeni"
+      },
+      {
+        "name": "Bucsani"
+      },
+      {
+        "name": "Butimanu"
+      },
+      {
+        "name": "Candesti"
+      },
+      {
+        "name": "Candesti-Deal"
+      },
+      {
+        "name": "Candesti-Vale"
+      },
+      {
+        "name": "Cetatuia"
+      },
+      {
+        "name": "Ciocanesti"
+      },
+      {
+        "name": "Costisata"
+      },
+      {
+        "name": "Dambovicioara"
+      },
+      {
+        "name": "Dragodanesti"
+      },
+      {
+        "name": "Fieni"
+      },
+      {
+        "name": "Gaesti"
+      },
+      {
+        "name": "Habeni"
+      },
+      {
+        "name": "Lucianca"
+      },
+      {
+        "name": "Moreni"
+      },
+      {
+        "name": "Pucioasa"
+      },
+      {
+        "name": "Racari"
+      },
+      {
+        "name": "Racovita"
+      },
+      {
+        "name": "Ratoaia"
+      },
+      {
+        "name": "Sateni"
+      },
+      {
+        "name": "Savesti"
+      },
+      {
+        "name": "Suseni-Socetu"
+      },
+      {
+        "name": "Targoviste"
+      },
+      {
+        "name": "Titu"
+      },
+      {
+        "name": "Tunari"
+      },
+      {
+        "name": "Viforata"
+      }
+    ]
+  },
+  {
+    "name": "Dolj",
+    "cities": [
+      {
+        "name": "Afumati"
+      },
+      {
+        "name": "Almaj"
+      },
+      {
+        "name": "Argetoaia"
+      },
+      {
+        "name": "Bailesti"
+      },
+      {
+        "name": "Balasan"
+      },
+      {
+        "name": "Baranu"
+      },
+      {
+        "name": "Barca"
+      },
+      {
+        "name": "Bechet"
+      },
+      {
+        "name": "Berbesu"
+      },
+      {
+        "name": "Bistret"
+      },
+      {
+        "name": "Bogea"
+      },
+      {
+        "name": "Botosesti-Paia"
+      },
+      {
+        "name": "Boureni"
+      },
+      {
+        "name": "Brabova"
+      },
+      {
+        "name": "Bradesti"
+      },
+      {
+        "name": "Brandusa"
+      },
+      {
+        "name": "Calafat"
+      },
+      {
+        "name": "Caraiman"
+      },
+      {
+        "name": "Covei"
+      },
+      {
+        "name": "Craiova"
+      },
+      {
+        "name": "Dabuleni"
+      },
+      {
+        "name": "Filiasi"
+      },
+      {
+        "name": "Iordachesti"
+      },
+      {
+        "name": "Leordoasa"
+      },
+      {
+        "name": "Malumnic"
+      },
+      {
+        "name": "Meteu"
+      },
+      {
+        "name": "Mosna"
+      },
+      {
+        "name": "Mosneni"
+      },
+      {
+        "name": "Novac"
+      },
+      {
+        "name": "Ocolna"
+      },
+      {
+        "name": "Piria"
+      },
+      {
+        "name": "Plosca"
+      },
+      {
+        "name": "Prapor"
+      },
+      {
+        "name": "Salcia"
+      },
+      {
+        "name": "Segarcea"
+      },
+      {
+        "name": "Sitoaia"
+      },
+      {
+        "name": "Urdinita"
+      },
+      {
+        "name": "Ursoaia"
+      },
+      {
+        "name": "Voita"
+      },
+      {
+        "name": "Zvorsca"
+      }
+    ]
+  },
+  {
+    "name": "Galati",
+    "cities": [
+      {
+        "name": "Aldesti"
+      },
+      {
+        "name": "Balabanesti"
+      },
+      {
+        "name": "Balasesti"
+      },
+      {
+        "name": "Baleni"
+      },
+      {
+        "name": "Balintesti"
+      },
+      {
+        "name": "Baneasa"
+      },
+      {
+        "name": "Barcea"
+      },
+      {
+        "name": "Beresti"
+      },
+      {
+        "name": "Beresti-Meria"
+      },
+      {
+        "name": "Brahasesti"
+      },
+      {
+        "name": "Buciumeni"
+      },
+      {
+        "name": "Bursucani"
+      },
+      {
+        "name": "Carlomanesti"
+      },
+      {
+        "name": "Cavadinesti"
+      },
+      {
+        "name": "Ciuresti"
+      },
+      {
+        "name": "Comanesti"
+      },
+      {
+        "name": "Corcioveni"
+      },
+      {
+        "name": "Cositeni"
+      },
+      {
+        "name": "Galati"
+      },
+      {
+        "name": "Ganesti"
+      },
+      {
+        "name": "Hantesti"
+      },
+      {
+        "name": "Lozova"
+      },
+      {
+        "name": "Lungesti"
+      },
+      {
+        "name": "Onciu"
+      },
+      {
+        "name": "Plesa"
+      },
+      {
+        "name": "Podoleni"
+      },
+      {
+        "name": "Prodanesti"
+      },
+      {
+        "name": "Pupezeni"
+      },
+      {
+        "name": "Puricani"
+      },
+      {
+        "name": "Roscani"
+      },
+      {
+        "name": "Saseni"
+      },
+      {
+        "name": "Sipote"
+      },
+      {
+        "name": "Slivna"
+      },
+      {
+        "name": "Targu Bujor"
+      },
+      {
+        "name": "Tecuci"
+      },
+      {
+        "name": "Toflea"
+      },
+      {
+        "name": "Traian"
+      },
+      {
+        "name": "Vadeni"
+      },
+      {
+        "name": "Vizuresti"
+      },
+      {
+        "name": "Zimbru"
+      }
+    ]
+  },
+  {
+    "name": "Giurgiu",
+    "cities": [
+      {
+        "name": "Adunatii-Copaceni"
+      },
+      {
+        "name": "Anghelesti"
+      },
+      {
+        "name": "Baneasa"
+      },
+      {
+        "name": "Bolintin-Deal"
+      },
+      {
+        "name": "Bolintin-Vale"
+      },
+      {
+        "name": "Branistari"
+      },
+      {
+        "name": "Bucsani"
+      },
+      {
+        "name": "Budeni"
+      },
+      {
+        "name": "Bulbucata"
+      },
+      {
+        "name": "Buturugeni"
+      },
+      {
+        "name": "Calugareni"
+      },
+      {
+        "name": "Campurelu"
+      },
+      {
+        "name": "Clejani"
+      },
+      {
+        "name": "Colibasi"
+      },
+      {
+        "name": "Comana"
+      },
+      {
+        "name": "Cosoba"
+      },
+      {
+        "name": "Coteni"
+      },
+      {
+        "name": "Crivina"
+      },
+      {
+        "name": "Darasti-Vlasca"
+      },
+      {
+        "name": "Facau"
+      },
+      {
+        "name": "Falastoaca"
+      },
+      {
+        "name": "Frasinu"
+      },
+      {
+        "name": "Giurgiu"
+      },
+      {
+        "name": "Goleasca"
+      },
+      {
+        "name": "Gradistea"
+      },
+      {
+        "name": "Hulubesti"
+      },
+      {
+        "name": "Mihailesti"
+      },
+      {
+        "name": "Mogosesti"
+      },
+      {
+        "name": "Neajlovu"
+      },
+      {
+        "name": "Obedeni"
+      },
+      {
+        "name": "Padureni"
+      },
+      {
+        "name": "Pietrele"
+      },
+      {
+        "name": "Podisor"
+      },
+      {
+        "name": "Posta"
+      },
+      {
+        "name": "Sterea"
+      },
+      {
+        "name": "Suseni"
+      },
+      {
+        "name": "Teisori"
+      },
+      {
+        "name": "Uiesti"
+      },
+      {
+        "name": "Uzunu"
+      },
+      {
+        "name": "Varlaam"
+      }
+    ]
+  },
+  {
+    "name": "Gorj",
+    "cities": [
+      {
+        "name": "Albeni"
+      },
+      {
+        "name": "Alimpesti"
+      },
+      {
+        "name": "Aninoasa"
+      },
+      {
+        "name": "Arcani"
+      },
+      {
+        "name": "Balanesti"
+      },
+      {
+        "name": "Balesti"
+      },
+      {
+        "name": "Blidari"
+      },
+      {
+        "name": "Bobaia"
+      },
+      {
+        "name": "Bolbocesti"
+      },
+      {
+        "name": "Bumbesti-Jiu"
+      },
+      {
+        "name": "Campofeni"
+      },
+      {
+        "name": "Canepesti"
+      },
+      {
+        "name": "Ceauru"
+      },
+      {
+        "name": "Cernadia"
+      },
+      {
+        "name": "Cornesti"
+      },
+      {
+        "name": "Corsoru"
+      },
+      {
+        "name": "Costesti"
+      },
+      {
+        "name": "Doseni"
+      },
+      {
+        "name": "Gavanesti"
+      },
+      {
+        "name": "Glodeni"
+      },
+      {
+        "name": "Groserea"
+      },
+      {
+        "name": "Mirosloveni"
+      },
+      {
+        "name": "Motru"
+      },
+      {
+        "name": "Nistoresti"
+      },
+      {
+        "name": "Novaci"
+      },
+      {
+        "name": "Ohaba"
+      },
+      {
+        "name": "Prunesti"
+      },
+      {
+        "name": "Rovinari"
+      },
+      {
+        "name": "Sanatesti"
+      },
+      {
+        "name": "Sterpoaia"
+      },
+      {
+        "name": "Stolojani"
+      },
+      {
+        "name": "Stroiesti"
+      },
+      {
+        "name": "Talpasesti"
+      },
+      {
+        "name": "Tamasesti"
+      },
+      {
+        "name": "Targu Carbunesti"
+      },
+      {
+        "name": "Targu Jiu"
+      },
+      {
+        "name": "Ticleni"
+      },
+      {
+        "name": "Tismana"
+      },
+      {
+        "name": "Turceni"
+      },
+      {
+        "name": "Voinigesti"
+      }
+    ]
+  },
+  {
+    "name": "Harghita",
+    "cities": [
+      {
+        "name": "Andreeni"
+      },
+      {
+        "name": "Armaseni"
+      },
+      {
+        "name": "Atid"
+      },
+      {
+        "name": "Avramesti"
+      },
+      {
+        "name": "Baile Tusnad"
+      },
+      {
+        "name": "Balan"
+      },
+      {
+        "name": "Bancu"
+      },
+      {
+        "name": "Bilbor"
+      },
+      {
+        "name": "Borsec"
+      },
+      {
+        "name": "Bradesti"
+      },
+      {
+        "name": "Capalnita"
+      },
+      {
+        "name": "Carpitus"
+      },
+      {
+        "name": "Carta"
+      },
+      {
+        "name": "Cechesti"
+      },
+      {
+        "name": "Ciaracio"
+      },
+      {
+        "name": "Ciceu"
+      },
+      {
+        "name": "Ciobanis"
+      },
+      {
+        "name": "Ciucsangeorgiu"
+      },
+      {
+        "name": "Ciumani"
+      },
+      {
+        "name": "Cotormani"
+      },
+      {
+        "name": "Criseni"
+      },
+      {
+        "name": "Cristuru Secuiesc"
+      },
+      {
+        "name": "Cusmed"
+      },
+      {
+        "name": "Eghersec"
+      },
+      {
+        "name": "Firtanus"
+      },
+      {
+        "name": "Gheorgheni"
+      },
+      {
+        "name": "Ghiurche"
+      },
+      {
+        "name": "Goagiu"
+      },
+      {
+        "name": "Ineu"
+      },
+      {
+        "name": "Inlaceni"
+      },
+      {
+        "name": "Laz-Firtanus"
+      },
+      {
+        "name": "Laz-Soimus"
+      },
+      {
+        "name": "Miercurea-Ciuc"
+      },
+      {
+        "name": "Odorheiu Secuiesc"
+      },
+      {
+        "name": "Potiond"
+      },
+      {
+        "name": "Rachitis"
+      },
+      {
+        "name": "Siclod"
+      },
+      {
+        "name": "Tarnovita"
+      },
+      {
+        "name": "Toplita"
+      },
+      {
+        "name": "Vlahita"
+      }
+    ]
+  },
+  {
+    "name": "Hunedoara",
+    "cities": [
+      {
+        "name": "Aninoasa"
+      },
+      {
+        "name": "Ardeu"
+      },
+      {
+        "name": "Bacia"
+      },
+      {
+        "name": "Baita"
+      },
+      {
+        "name": "Baldovin"
+      },
+      {
+        "name": "Balsa"
+      },
+      {
+        "name": "Barbura"
+      },
+      {
+        "name": "Brad"
+      },
+      {
+        "name": "Bunesti"
+      },
+      {
+        "name": "Calan"
+      },
+      {
+        "name": "Caraci"
+      },
+      {
+        "name": "Carastau"
+      },
+      {
+        "name": "Craciunesti"
+      },
+      {
+        "name": "Deva"
+      },
+      {
+        "name": "Fizes"
+      },
+      {
+        "name": "Galbina"
+      },
+      {
+        "name": "Geoagiu"
+      },
+      {
+        "name": "Hartagani"
+      },
+      {
+        "name": "Hateg"
+      },
+      {
+        "name": "Hunedoara"
+      },
+      {
+        "name": "Iscroni"
+      },
+      {
+        "name": "Lupeni"
+      },
+      {
+        "name": "Mada"
+      },
+      {
+        "name": "Oprisesti"
+      },
+      {
+        "name": "Orastie"
+      },
+      {
+        "name": "Ormindea"
+      },
+      {
+        "name": "Petreni"
+      },
+      {
+        "name": "Petrila"
+      },
+      {
+        "name": "Petrosani"
+      },
+      {
+        "name": "Poiana"
+      },
+      {
+        "name": "Risca"
+      },
+      {
+        "name": "Risculita"
+      },
+      {
+        "name": "Saliste"
+      },
+      {
+        "name": "Simeria"
+      },
+      {
+        "name": "Tampa"
+      },
+      {
+        "name": "Tebea"
+      },
+      {
+        "name": "Totia"
+      },
+      {
+        "name": "Trestia"
+      },
+      {
+        "name": "Uricani"
+      },
+      {
+        "name": "Vulcan"
+      }
+    ]
+  },
+  {
+    "name": "Ialomita",
+    "cities": [
+      {
+        "name": "Adancata"
+      },
+      {
+        "name": "Albesti"
+      },
+      {
+        "name": "Alexeni"
+      },
+      {
+        "name": "Amara"
+      },
+      {
+        "name": "Andrasesti"
+      },
+      {
+        "name": "Armasesti"
+      },
+      {
+        "name": "Axintele"
+      },
+      {
+        "name": "Balaciu"
+      },
+      {
+        "name": "Barbatescu"
+      },
+      {
+        "name": "Barbulesti"
+      },
+      {
+        "name": "Barcanesti"
+      },
+      {
+        "name": "Bataluri"
+      },
+      {
+        "name": "Boranesti"
+      },
+      {
+        "name": "Borduselu"
+      },
+      {
+        "name": "Bucu"
+      },
+      {
+        "name": "Buesti"
+      },
+      {
+        "name": "Cazanesti"
+      },
+      {
+        "name": "Cegani"
+      },
+      {
+        "name": "Chiroiu-Pamanteni"
+      },
+      {
+        "name": "Ciochina"
+      },
+      {
+        "name": "Cocora"
+      },
+      {
+        "name": "Colelia"
+      },
+      {
+        "name": "Condeesti"
+      },
+      {
+        "name": "Copuzu"
+      },
+      {
+        "name": "Cosambesti"
+      },
+      {
+        "name": "Fetesti"
+      },
+      {
+        "name": "Fierbinti-Targ"
+      },
+      {
+        "name": "Gimbasani"
+      },
+      {
+        "name": "Horia"
+      },
+      {
+        "name": "Ivanesti"
+      },
+      {
+        "name": "Marsilieni"
+      },
+      {
+        "name": "Nenisori"
+      },
+      {
+        "name": "Orboesti"
+      },
+      {
+        "name": "Orezu"
+      },
+      {
+        "name": "Piersica"
+      },
+      {
+        "name": "Poiana"
+      },
+      {
+        "name": "Sintesti"
+      },
+      {
+        "name": "Slobozia"
+      },
+      {
+        "name": "Tandarei"
+      },
+      {
+        "name": "Urziceni"
+      }
+    ]
+  },
+  {
+    "name": "Iasi",
+    "cities": [
+      {
+        "name": "Albesti"
+      },
+      {
+        "name": "Andrieseni"
+      },
+      {
+        "name": "Aroneanu"
+      },
+      {
+        "name": "Bals"
+      },
+      {
+        "name": "Baltati"
+      },
+      {
+        "name": "Barnova"
+      },
+      {
+        "name": "Belcesti"
+      },
+      {
+        "name": "Bivolari"
+      },
+      {
+        "name": "Braesti"
+      },
+      {
+        "name": "Buhaeni"
+      },
+      {
+        "name": "Buruienesti"
+      },
+      {
+        "name": "Cercu"
+      },
+      {
+        "name": "Cotargaci"
+      },
+      {
+        "name": "Dorobant"
+      },
+      {
+        "name": "Draganesti"
+      },
+      {
+        "name": "Filiasi"
+      },
+      {
+        "name": "Glavanesti"
+      },
+      {
+        "name": "Harlau"
+      },
+      {
+        "name": "Iasi"
+      },
+      {
+        "name": "Kogalniceni"
+      },
+      {
+        "name": "Liteni"
+      },
+      {
+        "name": "Madarjesti"
+      },
+      {
+        "name": "Munteni"
+      },
+      {
+        "name": "Pascani"
+      },
+      {
+        "name": "Paun"
+      },
+      {
+        "name": "Pietraria"
+      },
+      {
+        "name": "Podisu"
+      },
+      {
+        "name": "Podu Iloaiei"
+      },
+      {
+        "name": "Sarca"
+      },
+      {
+        "name": "Scheia"
+      },
+      {
+        "name": "Solonet"
+      },
+      {
+        "name": "Sorogari"
+      },
+      {
+        "name": "Spineni"
+      },
+      {
+        "name": "Tabara"
+      },
+      {
+        "name": "Targu Frumos"
+      },
+      {
+        "name": "Todirel"
+      },
+      {
+        "name": "Traian"
+      },
+      {
+        "name": "Ulmi"
+      },
+      {
+        "name": "Visan"
+      },
+      {
+        "name": "Volintiresti"
+      }
+    ]
+  },
+  {
+    "name": "Maramures",
+    "cities": [
+      {
+        "name": "Ardusat"
+      },
+      {
+        "name": "Arinis"
+      },
+      {
+        "name": "Baia Mare"
+      },
+      {
+        "name": "Baia Sprie"
+      },
+      {
+        "name": "Baiut"
+      },
+      {
+        "name": "Barsana"
+      },
+      {
+        "name": "Basesti"
+      },
+      {
+        "name": "Bicaz"
+      },
+      {
+        "name": "Bistra"
+      },
+      {
+        "name": "Blidari"
+      },
+      {
+        "name": "Bocicoel"
+      },
+      {
+        "name": "Borsa"
+      },
+      {
+        "name": "Botiza"
+      },
+      {
+        "name": "Cavnic"
+      },
+      {
+        "name": "Chiuzbaia"
+      },
+      {
+        "name": "Ciuta"
+      },
+      {
+        "name": "Coltirea"
+      },
+      {
+        "name": "Corni"
+      },
+      {
+        "name": "Craciunesti"
+      },
+      {
+        "name": "Dragomiresti"
+      },
+      {
+        "name": "Firiza"
+      },
+      {
+        "name": "Nanesti"
+      },
+      {
+        "name": "Odesti"
+      },
+      {
+        "name": "Prislop"
+      },
+      {
+        "name": "Rodina"
+      },
+      {
+        "name": "Romanesti"
+      },
+      {
+        "name": "Saliste"
+      },
+      {
+        "name": "Salistea de Sus"
+      },
+      {
+        "name": "Seini"
+      },
+      {
+        "name": "Sighetu Marmatiei"
+      },
+      {
+        "name": "Somcuta Mare"
+      },
+      {
+        "name": "Strambu-Baiut"
+      },
+      {
+        "name": "Stremt"
+      },
+      {
+        "name": "Tamasesti"
+      },
+      {
+        "name": "Targu Lapus"
+      },
+      {
+        "name": "Tautii-Magheraus"
+      },
+      {
+        "name": "Tisa"
+      },
+      {
+        "name": "Ulmeni"
+      },
+      {
+        "name": "Urmenis"
+      },
+      {
+        "name": "Viseu de Sus"
+      }
+    ]
+  },
+  {
+    "name": "Mehedinti",
+    "cities": [
+      {
+        "name": "Bacles"
+      },
+      {
+        "name": "Baia de Arama"
+      },
+      {
+        "name": "Bala"
+      },
+      {
+        "name": "Balacita"
+      },
+      {
+        "name": "Balta"
+      },
+      {
+        "name": "Bratesul"
+      },
+      {
+        "name": "Bratilovu"
+      },
+      {
+        "name": "Brativoesti"
+      },
+      {
+        "name": "Brebina"
+      },
+      {
+        "name": "Carsu"
+      },
+      {
+        "name": "Comanesti"
+      },
+      {
+        "name": "Corzu"
+      },
+      {
+        "name": "Costesti"
+      },
+      {
+        "name": "Crainici"
+      },
+      {
+        "name": "Dalma"
+      },
+      {
+        "name": "Dobra"
+      },
+      {
+        "name": "Drobeta-Turnu Severin"
+      },
+      {
+        "name": "Giura"
+      },
+      {
+        "name": "Gornovita"
+      },
+      {
+        "name": "Gvardinita"
+      },
+      {
+        "name": "Iupca"
+      },
+      {
+        "name": "Marasesti"
+      },
+      {
+        "name": "Molani"
+      },
+      {
+        "name": "Negoesti"
+      },
+      {
+        "name": "Nevatu"
+      },
+      {
+        "name": "Orsova"
+      },
+      {
+        "name": "Petra"
+      },
+      {
+        "name": "Pistrita"
+      },
+      {
+        "name": "Prejna"
+      },
+      {
+        "name": "Rudina"
+      },
+      {
+        "name": "Runcusoru"
+      },
+      {
+        "name": "Sardanesti"
+      },
+      {
+        "name": "Selistiuta"
+      },
+      {
+        "name": "Sfodea"
+      },
+      {
+        "name": "Smadovita"
+      },
+      {
+        "name": "Stanesti"
+      },
+      {
+        "name": "Strehaia"
+      },
+      {
+        "name": "Titerlesti"
+      },
+      {
+        "name": "Vanju Mare"
+      },
+      {
+        "name": "Vidimiresti"
+      }
+    ]
+  },
+  {
+    "name": "Mures",
+    "cities": [
+      {
+        "name": "Acatari"
+      },
+      {
+        "name": "Adamus"
+      },
+      {
+        "name": "Albesti"
+      },
+      {
+        "name": "Alunis"
+      },
+      {
+        "name": "Apold"
+      },
+      {
+        "name": "Atintis"
+      },
+      {
+        "name": "Barlibasoaia"
+      },
+      {
+        "name": "Boiu"
+      },
+      {
+        "name": "Botez"
+      },
+      {
+        "name": "Cecalaca"
+      },
+      {
+        "name": "Chincius"
+      },
+      {
+        "name": "Corbesti"
+      },
+      {
+        "name": "Craiesti"
+      },
+      {
+        "name": "Dambau"
+      },
+      {
+        "name": "Fitcau"
+      },
+      {
+        "name": "Gaiesti"
+      },
+      {
+        "name": "Gruisor"
+      },
+      {
+        "name": "Herepea"
+      },
+      {
+        "name": "Iernut"
+      },
+      {
+        "name": "Istihaza"
+      },
+      {
+        "name": "Jacu"
+      },
+      {
+        "name": "Ludus"
+      },
+      {
+        "name": "Miercurea Nirajului"
+      },
+      {
+        "name": "Murgesti"
+      },
+      {
+        "name": "Reghin"
+      },
+      {
+        "name": "Roteni"
+      },
+      {
+        "name": "Saes"
+      },
+      {
+        "name": "Sangeorgiu de Padure"
+      },
+      {
+        "name": "Sapartoc"
+      },
+      {
+        "name": "Sarmasu"
+      },
+      {
+        "name": "Sighisoara"
+      },
+      {
+        "name": "Sovata"
+      },
+      {
+        "name": "Stejeris"
+      },
+      {
+        "name": "Suveica"
+      },
+      {
+        "name": "Targu-Mures"
+      },
+      {
+        "name": "Tarnaveni"
+      },
+      {
+        "name": "Topa"
+      },
+      {
+        "name": "Ungheni"
+      },
+      {
+        "name": "Valenii"
+      },
+      {
+        "name": "Vulcan"
+      }
+    ]
+  },
+  {
+    "name": "Neamt",
+    "cities": [
+      {
+        "name": "Agapia"
+      },
+      {
+        "name": "Agapia-Manastire"
+      },
+      {
+        "name": "Agarcia"
+      },
+      {
+        "name": "Aramesti"
+      },
+      {
+        "name": "Bahna"
+      },
+      {
+        "name": "Bahnisoara"
+      },
+      {
+        "name": "Balanesti"
+      },
+      {
+        "name": "Baltatesti"
+      },
+      {
+        "name": "Bara"
+      },
+      {
+        "name": "Baratca"
+      },
+      {
+        "name": "Bargauani"
+      },
+      {
+        "name": "Bicaz"
+      },
+      {
+        "name": "Bisericani"
+      },
+      {
+        "name": "Bistrita"
+      },
+      {
+        "name": "Breaza"
+      },
+      {
+        "name": "Brosteni"
+      },
+      {
+        "name": "Capsa"
+      },
+      {
+        "name": "Certieni"
+      },
+      {
+        "name": "Chilia"
+      },
+      {
+        "name": "Darloaia"
+      },
+      {
+        "name": "Dodeni"
+      },
+      {
+        "name": "Filioara"
+      },
+      {
+        "name": "Ghelaiesti"
+      },
+      {
+        "name": "Hartop"
+      },
+      {
+        "name": "Homiceni"
+      },
+      {
+        "name": "Liliac"
+      },
+      {
+        "name": "Piatra Neamt"
+      },
+      {
+        "name": "Potoci"
+      },
+      {
+        "name": "Rediu"
+      },
+      {
+        "name": "Roman"
+      },
+      {
+        "name": "Roznov"
+      },
+      {
+        "name": "Sacalusesti"
+      },
+      {
+        "name": "Scaricica"
+      },
+      {
+        "name": "Secu"
+      },
+      {
+        "name": "Talpa"
+      },
+      {
+        "name": "Targu Neamt"
+      },
+      {
+        "name": "Vaduri"
+      },
+      {
+        "name": "Varatec"
+      },
+      {
+        "name": "Viisoara"
+      },
+      {
+        "name": "Vladiceni"
+      }
+    ]
+  },
+  {
+    "name": "Olt",
+    "cities": [
+      {
+        "name": "Babiciu"
+      },
+      {
+        "name": "Baldovinesti"
+      },
+      {
+        "name": "Bals"
+      },
+      {
+        "name": "Balteni"
+      },
+      {
+        "name": "Beculesti"
+      },
+      {
+        "name": "Belgun"
+      },
+      {
+        "name": "Bobicesti"
+      },
+      {
+        "name": "Boroesti"
+      },
+      {
+        "name": "Brancoveni"
+      },
+      {
+        "name": "Branet"
+      },
+      {
+        "name": "Brastavatu"
+      },
+      {
+        "name": "Brebeni"
+      },
+      {
+        "name": "Bucinisu"
+      },
+      {
+        "name": "Calui"
+      },
+      {
+        "name": "Caracal"
+      },
+      {
+        "name": "Carlogani"
+      },
+      {
+        "name": "Chintesti"
+      },
+      {
+        "name": "Ciocanesti"
+      },
+      {
+        "name": "Comanesti"
+      },
+      {
+        "name": "Corabia"
+      },
+      {
+        "name": "Corbeni"
+      },
+      {
+        "name": "Crusovu"
+      },
+      {
+        "name": "Draganesti-Olt"
+      },
+      {
+        "name": "Govora"
+      },
+      {
+        "name": "Gubandru"
+      },
+      {
+        "name": "Lazaresti"
+      },
+      {
+        "name": "Leotesti"
+      },
+      {
+        "name": "Margheni"
+      },
+      {
+        "name": "Mereni"
+      },
+      {
+        "name": "Mirila"
+      },
+      {
+        "name": "Motoesti"
+      },
+      {
+        "name": "Ociogi"
+      },
+      {
+        "name": "Piatra-Olt"
+      },
+      {
+        "name": "Pietris"
+      },
+      {
+        "name": "Potcoava"
+      },
+      {
+        "name": "Romana"
+      },
+      {
+        "name": "Scornicesti"
+      },
+      {
+        "name": "Slatina"
+      },
+      {
+        "name": "Teis"
+      },
+      {
+        "name": "Teiusu"
+      }
+    ]
+  },
+  {
+    "name": "Prahova",
+    "cities": [
+      {
+        "name": "Adunati"
+      },
+      {
+        "name": "Albesti-Muru"
+      },
+      {
+        "name": "Albesti-Paleologu"
+      },
+      {
+        "name": "Albinari"
+      },
+      {
+        "name": "Alunis"
+      },
+      {
+        "name": "Apostolache"
+      },
+      {
+        "name": "Azuga"
+      },
+      {
+        "name": "Baicoi"
+      },
+      {
+        "name": "Baltesti"
+      },
+      {
+        "name": "Banesti"
+      },
+      {
+        "name": "Bara"
+      },
+      {
+        "name": "Boldesti-Scaeni"
+      },
+      {
+        "name": "Breaza"
+      },
+      {
+        "name": "Busteni"
+      },
+      {
+        "name": "Buzota"
+      },
+      {
+        "name": "Campina"
+      },
+      {
+        "name": "Cioceni"
+      },
+      {
+        "name": "Ciresanu"
+      },
+      {
+        "name": "Comarnic"
+      },
+      {
+        "name": "Conduratu"
+      },
+      {
+        "name": "Crangurile"
+      },
+      {
+        "name": "Curcubeu"
+      },
+      {
+        "name": "Dambu"
+      },
+      {
+        "name": "Izesti"
+      },
+      {
+        "name": "Liliesti"
+      },
+      {
+        "name": "Marlogea"
+      },
+      {
+        "name": "Mizil"
+      },
+      {
+        "name": "Nedelea"
+      },
+      {
+        "name": "Ostrovu"
+      },
+      {
+        "name": "Ploiesti"
+      },
+      {
+        "name": "Plopeni"
+      },
+      {
+        "name": "Schela"
+      },
+      {
+        "name": "Sinaia"
+      },
+      {
+        "name": "Slanic"
+      },
+      {
+        "name": "Stoenesti"
+      },
+      {
+        "name": "Tintea"
+      },
+      {
+        "name": "Tufeni"
+      },
+      {
+        "name": "Udresti"
+      },
+      {
+        "name": "Urlati"
+      },
+      {
+        "name": "Valenii de Munte"
+      }
+    ]
+  },
+  {
+    "name": "Salaj",
+    "cities": [
+      {
+        "name": "Agrij"
+      },
+      {
+        "name": "Almasu"
+      },
+      {
+        "name": "Alunis"
+      },
+      {
+        "name": "Babeni"
+      },
+      {
+        "name": "Babiu"
+      },
+      {
+        "name": "Balan"
+      },
+      {
+        "name": "Ban"
+      },
+      {
+        "name": "Banisor"
+      },
+      {
+        "name": "Benesat"
+      },
+      {
+        "name": "Biusa"
+      },
+      {
+        "name": "Bobota"
+      },
+      {
+        "name": "Bocsa"
+      },
+      {
+        "name": "Bodia"
+      },
+      {
+        "name": "Bogdana"
+      },
+      {
+        "name": "Boghis"
+      },
+      {
+        "name": "Borla"
+      },
+      {
+        "name": "Bozies"
+      },
+      {
+        "name": "Buciumi"
+      },
+      {
+        "name": "Campia"
+      },
+      {
+        "name": "Cehu Silvaniei"
+      },
+      {
+        "name": "Chechis"
+      },
+      {
+        "name": "Chendrea"
+      },
+      {
+        "name": "Ciocmani"
+      },
+      {
+        "name": "Clit"
+      },
+      {
+        "name": "Cutis"
+      },
+      {
+        "name": "Dersida"
+      },
+      {
+        "name": "Galpaia"
+      },
+      {
+        "name": "Jebucu"
+      },
+      {
+        "name": "Jibou"
+      },
+      {
+        "name": "Mesteacanu"
+      },
+      {
+        "name": "Peceiu"
+      },
+      {
+        "name": "Petrinzel"
+      },
+      {
+        "name": "Pirosa"
+      },
+      {
+        "name": "Poienita"
+      },
+      {
+        "name": "Salajeni"
+      },
+      {
+        "name": "Sfaras"
+      },
+      {
+        "name": "Simleu Silvaniei"
+      },
+      {
+        "name": "Taudu"
+      },
+      {
+        "name": "Zalau"
+      },
+      {
+        "name": "Zalnoc"
+      }
+    ]
+  },
+  {
+    "name": "Satu Mare",
+    "cities": [
+      {
+        "name": "Acas"
+      },
+      {
+        "name": "Andrid"
+      },
+      {
+        "name": "Apa"
+      },
+      {
+        "name": "Ardud"
+      },
+      {
+        "name": "Ardud-VII"
+      },
+      {
+        "name": "Babta"
+      },
+      {
+        "name": "Batarci"
+      },
+      {
+        "name": "Beltiug"
+      },
+      {
+        "name": "Berveni"
+      },
+      {
+        "name": "Bogdand"
+      },
+      {
+        "name": "Boinesti"
+      },
+      {
+        "name": "Bolda"
+      },
+      {
+        "name": "Botiz"
+      },
+      {
+        "name": "Calinesti-Oas"
+      },
+      {
+        "name": "Camarzana"
+      },
+      {
+        "name": "Camin"
+      },
+      {
+        "name": "Capleni"
+      },
+      {
+        "name": "Carei"
+      },
+      {
+        "name": "Ciuperceni"
+      },
+      {
+        "name": "Coca"
+      },
+      {
+        "name": "Comlausa"
+      },
+      {
+        "name": "Dindesti"
+      },
+      {
+        "name": "Ganas"
+      },
+      {
+        "name": "Gerausa"
+      },
+      {
+        "name": "Ghirisa"
+      },
+      {
+        "name": "Giungi"
+      },
+      {
+        "name": "Irina"
+      },
+      {
+        "name": "Livada"
+      },
+      {
+        "name": "Lucaceni"
+      },
+      {
+        "name": "Mihaieni"
+      },
+      {
+        "name": "Negresti-Oas"
+      },
+      {
+        "name": "Sandra"
+      },
+      {
+        "name": "Saratura"
+      },
+      {
+        "name": "Satu Mare"
+      },
+      {
+        "name": "Ser"
+      },
+      {
+        "name": "Sirlau"
+      },
+      {
+        "name": "Someseni"
+      },
+      {
+        "name": "Tasnad"
+      },
+      {
+        "name": "Trip"
+      },
+      {
+        "name": "Unimat"
+      }
+    ]
+  },
+  {
+    "name": "Sibiu",
+    "cities": [
+      {
+        "name": "Agarbiciu"
+      },
+      {
+        "name": "Agnita"
+      },
+      {
+        "name": "Alma"
+      },
+      {
+        "name": "Altina"
+      },
+      {
+        "name": "Apos"
+      },
+      {
+        "name": "Atel"
+      },
+      {
+        "name": "Avrig"
+      },
+      {
+        "name": "Barghis"
+      },
+      {
+        "name": "Bazna"
+      },
+      {
+        "name": "Benesti"
+      },
+      {
+        "name": "Biertan"
+      },
+      {
+        "name": "Blajel"
+      },
+      {
+        "name": "Boian"
+      },
+      {
+        "name": "Boita"
+      },
+      {
+        "name": "Bradu"
+      },
+      {
+        "name": "Cisnadie"
+      },
+      {
+        "name": "Copsa Mica"
+      },
+      {
+        "name": "Coves"
+      },
+      {
+        "name": "Dumbraveni"
+      },
+      {
+        "name": "Dupus"
+      },
+      {
+        "name": "Giacas"
+      },
+      {
+        "name": "Glamboaca"
+      },
+      {
+        "name": "Medias"
+      },
+      {
+        "name": "Miercurea Sibiului"
+      },
+      {
+        "name": "Ocna Sibiului"
+      },
+      {
+        "name": "Paucea"
+      },
+      {
+        "name": "Pelisor"
+      },
+      {
+        "name": "Richis"
+      },
+      {
+        "name": "Romanesti"
+      },
+      {
+        "name": "Ruja"
+      },
+      {
+        "name": "Sacadate"
+      },
+      {
+        "name": "Saliste"
+      },
+      {
+        "name": "Sangatin"
+      },
+      {
+        "name": "Sibiu"
+      },
+      {
+        "name": "Smig"
+      },
+      {
+        "name": "Soala"
+      },
+      {
+        "name": "Talmaciu"
+      },
+      {
+        "name": "Vecerd"
+      },
+      {
+        "name": "Velt"
+      },
+      {
+        "name": "Zlagna"
+      }
+    ]
+  },
+  {
+    "name": "Suceava",
+    "cities": [
+      {
+        "name": "Adancata"
+      },
+      {
+        "name": "Arbore"
+      },
+      {
+        "name": "Baia"
+      },
+      {
+        "name": "Balaceana"
+      },
+      {
+        "name": "Balcauti"
+      },
+      {
+        "name": "Barasti"
+      },
+      {
+        "name": "Berchisesti"
+      },
+      {
+        "name": "Bilca"
+      },
+      {
+        "name": "Bodnareni"
+      },
+      {
+        "name": "Bogata"
+      },
+      {
+        "name": "Bogdanesti"
+      },
+      {
+        "name": "Boroaia"
+      },
+      {
+        "name": "Bosanci"
+      },
+      {
+        "name": "Botosana"
+      },
+      {
+        "name": "Brosteni"
+      },
+      {
+        "name": "Cajvana"
+      },
+      {
+        "name": "Calugareni"
+      },
+      {
+        "name": "Campulung Moldovenesc"
+      },
+      {
+        "name": "Clit"
+      },
+      {
+        "name": "Corlata"
+      },
+      {
+        "name": "Cumparatura"
+      },
+      {
+        "name": "Dolhasca"
+      },
+      {
+        "name": "Falticeni"
+      },
+      {
+        "name": "Fetesti"
+      },
+      {
+        "name": "Frasin"
+      },
+      {
+        "name": "Giulesti"
+      },
+      {
+        "name": "Gropeni"
+      },
+      {
+        "name": "Gura Humorului"
+      },
+      {
+        "name": "Liteni"
+      },
+      {
+        "name": "Milisauti"
+      },
+      {
+        "name": "Moisa"
+      },
+      {
+        "name": "Negostina"
+      },
+      {
+        "name": "Radauti"
+      },
+      {
+        "name": "Sacuta"
+      },
+      {
+        "name": "Salcea"
+      },
+      {
+        "name": "Siret"
+      },
+      {
+        "name": "Solca"
+      },
+      {
+        "name": "Suceava"
+      },
+      {
+        "name": "Vatra Dornei"
+      },
+      {
+        "name": "Vicovu de Sus"
+      }
+    ]
+  },
+  {
+    "name": "Teleorman",
+    "cities": [
+      {
+        "name": "Alexandria"
+      },
+      {
+        "name": "Antonesti"
+      },
+      {
+        "name": "Babaita"
+      },
+      {
+        "name": "Bacalesti"
+      },
+      {
+        "name": "Baciu"
+      },
+      {
+        "name": "Balaci"
+      },
+      {
+        "name": "Beciu"
+      },
+      {
+        "name": "Beuca"
+      },
+      {
+        "name": "Blejesti"
+      },
+      {
+        "name": "Bogdana"
+      },
+      {
+        "name": "Botoroaga"
+      },
+      {
+        "name": "Bragadiru"
+      },
+      {
+        "name": "Branceni"
+      },
+      {
+        "name": "Brosteanca"
+      },
+      {
+        "name": "Bujoreni"
+      },
+      {
+        "name": "Burdeni"
+      },
+      {
+        "name": "Buzescu"
+      },
+      {
+        "name": "Calinesti"
+      },
+      {
+        "name": "Calmatuiu"
+      },
+      {
+        "name": "Calugaru"
+      },
+      {
+        "name": "Caravaneti"
+      },
+      {
+        "name": "Cervenia"
+      },
+      {
+        "name": "Copaceanca"
+      },
+      {
+        "name": "Darvas"
+      },
+      {
+        "name": "Ionascu"
+      },
+      {
+        "name": "Licuriciu"
+      },
+      {
+        "name": "Marita"
+      },
+      {
+        "name": "Plopi"
+      },
+      {
+        "name": "Prunaru"
+      },
+      {
+        "name": "Rosiori de Vede"
+      },
+      {
+        "name": "Sericu"
+      },
+      {
+        "name": "Smardan"
+      },
+      {
+        "name": "Tarnava"
+      },
+      {
+        "name": "Tecuci"
+      },
+      {
+        "name": "Tunari"
+      },
+      {
+        "name": "Turnu Magurele"
+      },
+      {
+        "name": "Ulmeni"
+      },
+      {
+        "name": "Urluiu"
+      },
+      {
+        "name": "Videle"
+      },
+      {
+        "name": "Zimnicea"
+      }
+    ]
+  },
+  {
+    "name": "Timis",
+    "cities": [
+      {
+        "name": "Babsa"
+      },
+      {
+        "name": "Balint"
+      },
+      {
+        "name": "Banloc"
+      },
+      {
+        "name": "Bara"
+      },
+      {
+        "name": "Barna"
+      },
+      {
+        "name": "Belint"
+      },
+      {
+        "name": "Bethausen"
+      },
+      {
+        "name": "Bodo"
+      },
+      {
+        "name": "Botesti"
+      },
+      {
+        "name": "Botinesti"
+      },
+      {
+        "name": "Buzias"
+      },
+      {
+        "name": "Cherestur"
+      },
+      {
+        "name": "Chizatau"
+      },
+      {
+        "name": "Ciacova"
+      },
+      {
+        "name": "Cladova"
+      },
+      {
+        "name": "Cliciova"
+      },
+      {
+        "name": "Cutina"
+      },
+      {
+        "name": "Deta"
+      },
+      {
+        "name": "Dobresti"
+      },
+      {
+        "name": "Drinova"
+      },
+      {
+        "name": "Fadimac"
+      },
+      {
+        "name": "Faget"
+      },
+      {
+        "name": "Gataia"
+      },
+      {
+        "name": "Gruni"
+      },
+      {
+        "name": "Jimbolia"
+      },
+      {
+        "name": "Juresti"
+      },
+      {
+        "name": "Lapusnic"
+      },
+      {
+        "name": "Lugoj"
+      },
+      {
+        "name": "Ofsenita"
+      },
+      {
+        "name": "Partos"
+      },
+      {
+        "name": "Poganesti"
+      },
+      {
+        "name": "Pordeanu"
+      },
+      {
+        "name": "Radmanesti"
+      },
+      {
+        "name": "Recas"
+      },
+      {
+        "name": "Sannicolau Mare"
+      },
+      {
+        "name": "Sarazani"
+      },
+      {
+        "name": "Soca"
+      },
+      {
+        "name": "Spata"
+      },
+      {
+        "name": "Targoviste"
+      },
+      {
+        "name": "Timisoara"
+      }
+    ]
+  },
+  {
+    "name": "Tulcea",
+    "cities": [
+      {
+        "name": "Ardealu"
+      },
+      {
+        "name": "Atmagea"
+      },
+      {
+        "name": "Babadag"
+      },
+      {
+        "name": "Beidaud"
+      },
+      {
+        "name": "Bestepe"
+      },
+      {
+        "name": "Caraorman"
+      },
+      {
+        "name": "Carcaliu"
+      },
+      {
+        "name": "Cardon"
+      },
+      {
+        "name": "Carjelari"
+      },
+      {
+        "name": "Casimcea"
+      },
+      {
+        "name": "Caslita"
+      },
+      {
+        "name": "Cataloi"
+      },
+      {
+        "name": "Caugagia"
+      },
+      {
+        "name": "Ceatalchioi"
+      },
+      {
+        "name": "Cerna"
+      },
+      {
+        "name": "Ciucurova"
+      },
+      {
+        "name": "Corugea"
+      },
+      {
+        "name": "Daeni"
+      },
+      {
+        "name": "Dorobantu"
+      },
+      {
+        "name": "Frecatei"
+      },
+      {
+        "name": "Haidar"
+      },
+      {
+        "name": "Isaccea"
+      },
+      {
+        "name": "Letea"
+      },
+      {
+        "name": "Lunca"
+      },
+      {
+        "name": "Macin"
+      },
+      {
+        "name": "Mesteru"
+      },
+      {
+        "name": "Neatarnarea"
+      },
+      {
+        "name": "Panduru"
+      },
+      {
+        "name": "Patlageanca"
+      },
+      {
+        "name": "Periprava"
+      },
+      {
+        "name": "Plauru"
+      },
+      {
+        "name": "Posta"
+      },
+      {
+        "name": "Rahman"
+      },
+      {
+        "name": "Salceni"
+      },
+      {
+        "name": "Sfistofca"
+      },
+      {
+        "name": "Stanca"
+      },
+      {
+        "name": "Sulina"
+      },
+      {
+        "name": "Tatanir"
+      },
+      {
+        "name": "Traian"
+      },
+      {
+        "name": "Tulcea"
+      }
+    ]
+  },
+  {
+    "name": "Valcea",
+    "cities": [
+      {
+        "name": "Alunu"
+      },
+      {
+        "name": "Amarasti"
+      },
+      {
+        "name": "Babeni"
+      },
+      {
+        "name": "Baile Govora"
+      },
+      {
+        "name": "Baile Olanesti"
+      },
+      {
+        "name": "Balcesti"
+      },
+      {
+        "name": "Benesti"
+      },
+      {
+        "name": "Berbesti"
+      },
+      {
+        "name": "Berbesti"
+      },
+      {
+        "name": "Bonciu"
+      },
+      {
+        "name": "Brezoi"
+      },
+      {
+        "name": "Calimanesti"
+      },
+      {
+        "name": "Cheia"
+      },
+      {
+        "name": "Coltesti"
+      },
+      {
+        "name": "Comanca"
+      },
+      {
+        "name": "Curaturile"
+      },
+      {
+        "name": "Dragasani"
+      },
+      {
+        "name": "Gatejesti"
+      },
+      {
+        "name": "Gurguiata"
+      },
+      {
+        "name": "Horezu"
+      },
+      {
+        "name": "Igoiu"
+      },
+      {
+        "name": "Ilaciu"
+      },
+      {
+        "name": "Livadia"
+      },
+      {
+        "name": "Meresesti"
+      },
+      {
+        "name": "Mosoroasa"
+      },
+      {
+        "name": "Nemoiu"
+      },
+      {
+        "name": "Ocnele Mari"
+      },
+      {
+        "name": "Ocracu"
+      },
+      {
+        "name": "Olanesti"
+      },
+      {
+        "name": "Padina"
+      },
+      {
+        "name": "Paduretu"
+      },
+      {
+        "name": "Palanga"
+      },
+      {
+        "name": "Pietrisu"
+      },
+      {
+        "name": "Prajila"
+      },
+      {
+        "name": "Ramnicu Valcea"
+      },
+      {
+        "name": "Romani"
+      },
+      {
+        "name": "Rosia"
+      },
+      {
+        "name": "Tatarani"
+      },
+      {
+        "name": "Teiul"
+      },
+      {
+        "name": "Tisa"
+      }
+    ]
+  },
+  {
+    "name": "Vaslui",
+    "cities": [
+      {
+        "name": "Arsita"
+      },
+      {
+        "name": "Arsura"
+      },
+      {
+        "name": "Babusa"
+      },
+      {
+        "name": "Bacani"
+      },
+      {
+        "name": "Bacesti"
+      },
+      {
+        "name": "Baltateni"
+      },
+      {
+        "name": "Balteni"
+      },
+      {
+        "name": "Balteni-Deal"
+      },
+      {
+        "name": "Banca"
+      },
+      {
+        "name": "Barlad"
+      },
+      {
+        "name": "Berezeni"
+      },
+      {
+        "name": "Blagesti"
+      },
+      {
+        "name": "Bogdana"
+      },
+      {
+        "name": "Buda"
+      },
+      {
+        "name": "Chetresti"
+      },
+      {
+        "name": "Corni-Albesti"
+      },
+      {
+        "name": "Crasna"
+      },
+      {
+        "name": "Drujesti"
+      },
+      {
+        "name": "Ghicani"
+      },
+      {
+        "name": "Husi"
+      },
+      {
+        "name": "Igesti"
+      },
+      {
+        "name": "Mitoc"
+      },
+      {
+        "name": "Morareni"
+      },
+      {
+        "name": "Murgeni"
+      },
+      {
+        "name": "Musata"
+      },
+      {
+        "name": "Negresti"
+      },
+      {
+        "name": "Pahnesti"
+      },
+      {
+        "name": "Paltinis"
+      },
+      {
+        "name": "Ranceni"
+      },
+      {
+        "name": "Salcioara"
+      },
+      {
+        "name": "Sarbi"
+      },
+      {
+        "name": "Sipeni"
+      },
+      {
+        "name": "Stoisesti"
+      },
+      {
+        "name": "Stramtura-Mitoc"
+      },
+      {
+        "name": "Stuhulet"
+      },
+      {
+        "name": "Suseni"
+      },
+      {
+        "name": "Tifu"
+      },
+      {
+        "name": "Vaslui"
+      },
+      {
+        "name": "Vovriesti"
+      },
+      {
+        "name": "Vulpaseni"
+      }
+    ]
+  },
+  {
+    "name": "Vrancea",
+    "cities": [
+      {
+        "name": "Adjud"
+      },
+      {
+        "name": "Arsita"
+      },
+      {
+        "name": "Arva"
+      },
+      {
+        "name": "Balesti"
+      },
+      {
+        "name": "Barsesti"
+      },
+      {
+        "name": "Bichesti"
+      },
+      {
+        "name": "Biliesti"
+      },
+      {
+        "name": "Boghesti"
+      },
+      {
+        "name": "Bolotesti"
+      },
+      {
+        "name": "Bontesti"
+      },
+      {
+        "name": "Bordesti"
+      },
+      {
+        "name": "Brosteni"
+      },
+      {
+        "name": "Burcioaia"
+      },
+      {
+        "name": "Calimanesti"
+      },
+      {
+        "name": "Campineanca"
+      },
+      {
+        "name": "Campuri"
+      },
+      {
+        "name": "Carligele"
+      },
+      {
+        "name": "Chitcani"
+      },
+      {
+        "name": "Dalhauti"
+      },
+      {
+        "name": "Fetesti"
+      },
+      {
+        "name": "Fetig"
+      },
+      {
+        "name": "Focsani"
+      },
+      {
+        "name": "Gagesti"
+      },
+      {
+        "name": "Hotaru"
+      },
+      {
+        "name": "Iugani"
+      },
+      {
+        "name": "Ivancesti"
+      },
+      {
+        "name": "Marasesti"
+      },
+      {
+        "name": "Odobesti"
+      },
+      {
+        "name": "Panciu"
+      },
+      {
+        "name": "Pitulusa"
+      },
+      {
+        "name": "Placinteni"
+      },
+      {
+        "name": "Plesesti"
+      },
+      {
+        "name": "Prisecani"
+      },
+      {
+        "name": "Putna"
+      },
+      {
+        "name": "Rachitasu"
+      },
+      {
+        "name": "Siscani"
+      },
+      {
+        "name": "Tabucesti"
+      },
+      {
+        "name": "Titila"
+      },
+      {
+        "name": "Topesti"
+      },
+      {
+        "name": "Valcele"
+      }
+    ]
+  }
+]
