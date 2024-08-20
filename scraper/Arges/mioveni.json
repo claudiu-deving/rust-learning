@@ -1,0 +1,70 @@
+{
+  "name": "mioveni",
+  "apartments": [
+    {
+      "title": "Ofer spre închiriere garsoniera Mioveni mobilata și utilata,etaj 1",
+      "surface": 28,
+      "price": 181
+    },
+    {
+      "title": "Chirie Apartament 2 camere Mioveni, mobilat si utilat",
+      "surface": 50,
+      "price": 231
+    },
+    {
+      "title": "Inchiriez Garsoniera zona robea",
+      "surface": 43,
+      "price": 191
+    },
+    {
+      "title": "Apartament cu 3 camere de inchiriat",
+      "surface": 76,
+      "price": 301
+    },
+    {
+      "title": "Apartament Mioveni, pentru inchiriat",
+      "surface": 60,
+      "price": 250
+    },
+    {
+      "title": "Ofer spre închiriere apartament cu 3 camere,Robea",
+      "surface": 70,
+      "price": 321
+    },
+    {
+      "title": "Chirie 3 camere Mioveni, Et.3, de lux, mobilat si utilat",
+      "surface": 72,
+      "price": 395
+    },
+    {
+      "title": "Apartament cu 3 camere pentru inchiriat Mioveni",
+      "surface": 70,
+      "price": 250
+    },
+    {
+      "title": "Ofer spre inchiriere apt 3 camere",
+      "surface": 59,
+      "price": 261
+    },
+    {
+      "title": "Închiriez apartament modern, 3 camere, zona Robea.",
+      "surface": 67,
+      "price": 400
+    },
+    {
+      "title": "Inchiriezzz garsoniera",
+      "surface": 43,
+      "price": 169
+    },
+    {
+      "title": "Închiriez garsonieră total utilată și mobilată.",
+      "surface": 30,
+      "price": 171
+    },
+    {
+      "title": "4 camere de închiriat",
+      "surface": 120,
+      "price": 375
+    }
+  ]
+}

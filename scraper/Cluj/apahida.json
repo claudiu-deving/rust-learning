@@ -1,0 +1,30 @@
+{
+  "name": "apahida",
+  "apartments": [
+    {
+      "title": "Apartament de inchiriat Apahida",
+      "surface": 50,
+      "price": 301
+    },
+    {
+      "title": "Închiriez apartament Apahida",
+      "surface": 56,
+      "price": 362
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat in Apahida",
+      "surface": 55,
+      "price": 360
+    },
+    {
+      "title": "Închiriez Apartament Apahida, Cluj 1200€ cheltuieli incluse",
+      "surface": 250,
+      "price": 1200
+    },
+    {
+      "title": "Apartament 2 camere, 50 mp utili, Apahida",
+      "surface": 50,
+      "price": 400
+    }
+  ]
+}

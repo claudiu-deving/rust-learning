@@ -1,0 +1,10 @@
+{
+  "name": "jelna",
+  "apartments": [
+    {
+      "title": "Inchiriez apartatament 2 camere",
+      "surface": 55,
+      "price": 221
+    }
+  ]
+}

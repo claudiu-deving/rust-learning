@@ -1,0 +1,20 @@
+{
+  "name": "sacele",
+  "apartments": [
+    {
+      "title": "Inchiriez apartament",
+      "surface": 100,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 dormitoare baie bucatarie sufragerie dressing 2 locuri de",
+      "surface": 100,
+      "price": 400
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 26,
+      "price": 300
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pasarea",
+  "apartments": [
+    {
+      "title": "Inchiriem apartament 2 camere",
+      "surface": 55,
+      "price": 450
+    }
+  ]
+}

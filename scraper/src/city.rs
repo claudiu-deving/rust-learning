@@ -7,9 +7,9 @@ pub struct City {
     pub apartments: Vec<ApartmentData>,
 }
 impl City {
-    pub fn new(name: String) -> Self {
+    pub fn new(name: &String) -> Self {
         City {
-            name,
+            name:name.clone(),
             apartments: Vec::new(),
         }
     }

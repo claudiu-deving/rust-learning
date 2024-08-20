@@ -1,0 +1,25 @@
+{
+  "name": "cristian",
+  "apartments": [
+    {
+      "title": "de inchiriat apartament in CRISTIAN",
+      "surface": 60,
+      "price": 550
+    },
+    {
+      "title": "Apartament 2 camere, decomandat cu gradina de 70m2",
+      "surface": 60,
+      "price": 500
+    },
+    {
+      "title": "Închiriez apartament 2 camere, RÂȘNOV",
+      "surface": 53,
+      "price": 500
+    },
+    {
+      "title": "Închiriez apartament 2 camere",
+      "surface": 61,
+      "price": 520
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "apata",
+  "apartments": [
+    {
+      "title": "Apartament de inchiriat",
+      "surface": 55,
+      "price": 400
+    }
+  ]
+}

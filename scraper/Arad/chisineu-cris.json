@@ -1,0 +1,20 @@
+{
+  "name": "chisineu-cris",
+  "apartments": [
+    {
+      "title": "Apartament de inchiriat",
+      "surface": 60,
+      "price": 300
+    },
+    {
+      "title": "Apartament nou de închiriat cu 2 camere în Chisineu-Cris",
+      "surface": 49,
+      "price": 301
+    },
+    {
+      "title": "Apartament 2 camere de închiriat în Chisineu Cris zona Central",
+      "surface": 64,
+      "price": 300
+    }
+  ]
+}

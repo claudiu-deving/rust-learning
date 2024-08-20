@@ -1,0 +1,35 @@
+{
+  "name": "fagaras",
+  "apartments": [
+    {
+      "title": "Apartament de inchiriat 2 camere decomandat etajul 3 Zona Campului",
+      "surface": 60,
+      "price": 320
+    },
+    {
+      "title": "Inchiriez apartament cu 2 camere complet utilat și mobilat Făgăraş",
+      "surface": 52,
+      "price": 300
+    },
+    {
+      "title": "Apartament 2 camere",
+      "surface": 50,
+      "price": 241
+    },
+    {
+      "title": "Apartament de inchiriat 2 camere decomandat Fagaras Judetul Brasov",
+      "surface": 50,
+      "price": 200
+    },
+    {
+      "title": "Apartament  de inchiriat 2 camere decomandate etaj 3 zona Tabacari",
+      "surface": 50,
+      "price": 220
+    },
+    {
+      "title": "Apartament decomandat  2 camere pentru afacerea ta",
+      "surface": 50,
+      "price": 450
+    }
+  ]
+}

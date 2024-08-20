@@ -1,0 +1,10 @@
+{
+  "name": "cernica",
+  "apartments": [
+    {
+      "title": "Apartament Natura Plus de inchiriat",
+      "surface": 48,
+      "price": 470
+    }
+  ]
+}

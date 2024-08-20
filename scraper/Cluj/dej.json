@@ -1,0 +1,105 @@
+{
+  "name": "dej",
+  "apartments": [
+    {
+      "title": "Apartament de inchiriat in Dej, zona centrala",
+      "surface": 65,
+      "price": 350
+    },
+    {
+      "title": "Închiriez apartament 2 camere Dej str Crângului lângă Lidl",
+      "surface": 55,
+      "price": 250
+    },
+    {
+      "title": "inchiriez apartament la casa",
+      "surface": 70,
+      "price": 301
+    },
+    {
+      "title": "Apartament 2 camere decomandate",
+      "surface": 55,
+      "price": 261
+    },
+    {
+      "title": "Inchiriez apartament 2 camere",
+      "surface": 52,
+      "price": 360
+    },
+    {
+      "title": "Închiriez garsoniera conf. 1, zona Standard, Dej",
+      "surface": 36,
+      "price": 141
+    },
+    {
+      "title": "Dau în chirie apartament 4 camere zona Standard",
+      "surface": 85,
+      "price": 450
+    },
+    {
+      "title": "Chirie Dej - apartament 2 camere",
+      "surface": 38,
+      "price": 161
+    },
+    {
+      "title": "Inchiriez apartament 3 camere",
+      "surface": 68,
+      "price": 502
+    },
+    {
+      "title": "Închiriez apartament 3 camere termen lung doar",
+      "surface": 60,
+      "price": 241
+    },
+    {
+      "title": "Dau în chirie apartament 2 cam.",
+      "surface": 38,
+      "price": 241
+    },
+    {
+      "title": "Inchiriez apartament 3 camere",
+      "surface": 80,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere cartier 1Mai Dej de inchiriat",
+      "surface": 61,
+      "price": 499
+    },
+    {
+      "title": "Apartament de inchiriat 2 Camere Dej",
+      "surface": 50,
+      "price": 320
+    },
+    {
+      "title": "Inchiriez apartament cu o camera str. Pandurilor",
+      "surface": 28,
+      "price": 201
+    },
+    {
+      "title": "Inchiriez apartament 3 camere",
+      "surface": 70,
+      "price": 350
+    },
+    {
+      "title": "Apartament de inchiriat in Dej, zona centrala",
+      "surface": 65,
+      "price": 350
+    },
+    {
+      "title": "Închiriez apartament 2 camere Dej str Crângului lângă Lidl",
+      "surface": 55,
+      "price": 250
+    },
+    {
+      "title": "inchiriez apartament la casa",
+      "surface": 70,
+      "price": 301
+    },
+    {
+      "title": "Apartament 2 camere decomandate",
+      "surface": 55,
+      "price": 261
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "rasnov",
+  "apartments": [
+    {
+      "title": "Inchiriere apartament 2 camere Rasnov",
+      "surface": 55,
+      "price": 550
+    },
+    {
+      "title": "Închiriez garsonieră in Coresi",
+      "surface": 45,
+      "price": 500
+    },
+    {
+      "title": "Comision 0% | Ap. 2 camere de închiriat | Radsor Residence | Rasnov",
+      "surface": 56,
+      "price": 550
+    },
+    {
+      "title": "Apartanent 3C Rasnov Centru Nord utilat mobilat",
+      "surface": 80,
+      "price": 450
+    },
+    {
+      "title": "Prima inchiriere, totul nou, elegant si decomandat, loc parcare, Rasno",
+      "surface": 50,
+      "price": 500
+    },
+    {
+      "title": "Inchiriere apartament 2 camere Rasnov",
+      "surface": 55,
+      "price": 550
+    },
+    {
+      "title": "Închiriez garsonieră in Coresi",
+      "surface": 45,
+      "price": 500
+    },
+    {
+      "title": "Comision 0% | Ap. 2 camere de închiriat | Radsor Residence | Rasnov",
+      "surface": 56,
+      "price": 550
+    }
+  ]
+}

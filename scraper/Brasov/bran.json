@@ -1,0 +1,10 @@
+{
+  "name": "bran",
+  "apartments": [
+    {
+      "title": "Apartament Deosebit - Bran",
+      "surface": 100,
+      "price": 800
+    }
+  ]
+}

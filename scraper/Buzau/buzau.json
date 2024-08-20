@@ -1,0 +1,155 @@
+{
+  "name": "buzau",
+  "apartments": [
+    {
+      "title": "De închiriat  garsoniera Ultracentral !confort 1 sporit/BLOC NOU",
+      "surface": 45,
+      "price": 390
+    },
+    {
+      "title": "Inchiriez apartament independent SPATIOS cu parcare 2-5 persoane",
+      "surface": 100,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere micro 14 Buzau",
+      "surface": 55,
+      "price": 241
+    },
+    {
+      "title": "Apartament 2 camere semidecomandat Cf 2 zona Micro 14",
+      "surface": 40,
+      "price": 300
+    },
+    {
+      "title": "De închiriat ap cu 2 camere, zona N Bălcescu",
+      "surface": 54,
+      "price": 342
+    },
+    {
+      "title": "Apartament 4 camere mobilat",
+      "surface": 100,
+      "price": 402
+    },
+    {
+      "title": "Garsonieră ( camerã de cămin )",
+      "surface": 22,
+      "price": 19000
+    },
+    {
+      "title": "Apartament cu 2 camere zona Dorobanti 2",
+      "surface": 65,
+      "price": 400
+    },
+    {
+      "title": "Garsoniera cf 1 decomandata zona Centru",
+      "surface": 40,
+      "price": 320
+    },
+    {
+      "title": "Inchiriez apartament",
+      "surface": 45,
+      "price": 342
+    },
+    {
+      "title": "Garsoniera de închiriat,ieftina!",
+      "surface": 26,
+      "price": 141
+    },
+    {
+      "title": "Garsoniera cf 1 decomandata in zona Unirii Sud",
+      "surface": 33,
+      "price": 350
+    },
+    {
+      "title": "Apartament Central !",
+      "surface": 65,
+      "price": 600
+    },
+    {
+      "title": "Apartament Ultracentral",
+      "surface": 75,
+      "price": 500
+    },
+    {
+      "title": "Garsoniera cf 1 decomandata zona Centru",
+      "surface": 37,
+      "price": 280
+    },
+    {
+      "title": "Apartament 3 Camere|ORIZONT",
+      "surface": 70,
+      "price": 700
+    },
+    {
+      "title": "Apartament 3 camere",
+      "surface": 76,
+      "price": 600
+    },
+    {
+      "title": "De închiriat apartament 3 camere",
+      "surface": 75,
+      "price": 362
+    },
+    {
+      "title": "Apartament 2 camere Dorobanti 2",
+      "surface": 48,
+      "price": 281
+    },
+    {
+      "title": "Spatiu Comercial de inchiriat Zona Centru",
+      "surface": 98,
+      "price": 500
+    },
+    {
+      "title": "Închiriere garsonieră confort sporit, modernă",
+      "surface": 40,
+      "price": 301
+    },
+    {
+      "title": "Închiriere apartament 3 camere, Spiru Haret",
+      "surface": 75,
+      "price": 450
+    },
+    {
+      "title": "Oferim gazduire elevilor de liceu",
+      "surface": 16,
+      "price": 104
+    },
+    {
+      "title": "Închiriez garsoniera dubla  Parcul Tineretului",
+      "surface": 40,
+      "price": 300
+    },
+    {
+      "title": "Închiriez apartament 2 camere, Micro 5",
+      "surface": 67,
+      "price": 301
+    },
+    {
+      "title": "Inchiriez Apartament Decomandat, zona Micro14",
+      "surface": 60,
+      "price": 300
+    },
+    {
+      "title": "De închiriat  garsoniera Ultracentral !confort 1 sporit/BLOC NOU",
+      "surface": 45,
+      "price": 390
+    },
+    {
+      "title": "Inchiriez apartament independent SPATIOS cu parcare 2-5 persoane",
+      "surface": 100,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere micro 14 Buzau",
+      "surface": 55,
+      "price": 241
+    },
+    {
+      "title": "Apartament 2 camere semidecomandat Cf 2 zona Micro 14",
+      "surface": 40,
+      "price": 300
+    }
+  ]
+}

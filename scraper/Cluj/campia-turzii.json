@@ -1,0 +1,45 @@
+{
+  "name": "campia-turzii",
+  "apartments": [
+    {
+      "title": "Apartament de închiriat",
+      "surface": 70,
+      "price": 362
+    },
+    {
+      "title": "Garsoniera de inchiriat",
+      "surface": 27,
+      "price": 300
+    },
+    {
+      "title": "Apartament cu 2 camere de închiriat",
+      "surface": 56,
+      "price": 301
+    },
+    {
+      "title": "Apartament cu 3 camere de închiriat în Câmpia Turzii",
+      "surface": 64,
+      "price": 342
+    },
+    {
+      "title": "Dau în chirie apartament în Câmpia Turzii Str Republicii Nr 8 Bl D",
+      "surface": 42,
+      "price": 301
+    },
+    {
+      "title": "Închiriez apartament in Câmpia Turzii",
+      "surface": 70,
+      "price": 352
+    },
+    {
+      "title": "apartament de inchiriat",
+      "surface": 47,
+      "price": 250
+    },
+    {
+      "title": "Apartament de inchiriat",
+      "surface": 47,
+      "price": 250
+    }
+  ]
+}

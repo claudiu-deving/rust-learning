@@ -1,0 +1,3200 @@
+{
+  "name": "brasov",
+  "apartments": [
+    {
+      "title": "Ap 2 Cam Lux + Parcare Acoperita - Prima Chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, 53 Mp, Modern, Decomandat, Tractorul",
+      "surface": 53,
+      "price": 519
+    },
+    {
+      "title": "Se inchiriaza, camera/garsoniera la cheie Uzina 2",
+      "surface": 24,
+      "price": 221
+    },
+    {
+      "title": "Proprietar, inchiriez apartament 2 cam, Afi Brasov, mobilat si utilat",
+      "surface": 40,
+      "price": 380
+    },
+    {
+      "title": "Apartament cu 2 camere pe str.Hărmanului  disponibil pentru închiriere",
+      "surface": 45,
+      "price": 450
+    },
+    {
+      "title": "Zona Ultracentrala",
+      "surface": 85,
+      "price": 700
+    },
+    {
+      "title": "Pozitionare Ultracentrala",
+      "surface": 45,
+      "price": 460
+    },
+    {
+      "title": "Acces Facil",
+      "surface": 90,
+      "price": 780
+    },
+    {
+      "title": "Garsoniera mobilata/utilata-zona Grivitei",
+      "surface": 35,
+      "price": 350
+    },
+    {
+      "title": "Apartament cu 3 camere – Centru Istoric – Brașov",
+      "surface": 90,
+      "price": 1150
+    },
+    {
+      "title": "Apartament 3 camere la Mall Unirea in centrul civic",
+      "surface": 55,
+      "price": 530
+    },
+    {
+      "title": "Apartament 2 camere + Parcare acoperita - Prima chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Inchiriez apartament 2 camere decomandat zona Coresi.",
+      "surface": 56,
+      "price": 530
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Coresi AVANTGARDEN I Apartament cu doua camere",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Proprietate noua, Uno Residence, loc parcare cu acces facil",
+      "surface": 50,
+      "price": 500
+    },
+    {
+      "title": "Studio spatios, centrul istoric- Poarta Schei, complet mobilat",
+      "surface": 42,
+      "price": 430
+    },
+    {
+      "title": "Apartament nou Avantgarden3, Bartolomeu",
+      "surface": 50,
+      "price": 560
+    },
+    {
+      "title": "Garsoniera de inchiriat",
+      "surface": 24,
+      "price": 271
+    },
+    {
+      "title": "Tractorul-Coresi|Garsoniera|Mobilata-utilata|Parcare|Prima inchiriere",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Garsonieră în zona Onix, cod 8027",
+      "surface": 35,
+      "price": 350
+    },
+    {
+      "title": "Coresi AVANTGARDEN -Apartament cu doua camere - open space",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Apartament deosebit , 2 camere, Bartolomeu, Brasov",
+      "surface": 67,
+      "price": 575
+    },
+    {
+      "title": "Inchiriez Apartament 2 camere, AFI Mall, Brasov",
+      "surface": 47,
+      "price": 500
+    },
+    {
+      "title": "Apartament in natura, Tampa Gardens",
+      "surface": 56,
+      "price": 550
+    },
+    {
+      "title": "I OFERTA I Apartament 2 camere I Zona  Centrul Civic I",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "Garsoniera de inchiriat, central, Universitate, Brasov",
+      "surface": 26,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere mobilat/utilat-zona Centrul Istoric",
+      "surface": 46,
+      "price": 350
+    },
+    {
+      "title": "apart mobilat, utilat, etaj 1, Astra",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "Apartament de 3 camere zona CIUCAS",
+      "surface": 75,
+      "price": 590
+    },
+    {
+      "title": "Apartament de 3 camere zona Astra,str paraului",
+      "surface": 75,
+      "price": 450
+    },
+    {
+      "title": "NOU!! Prima inchiriere!!",
+      "surface": 62,
+      "price": 800
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 82mp, Parcare, et.4, lângă Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Apartament cu 2 camere pe str.Hărmanului  disponibil pentru închiriere",
+      "surface": 45,
+      "price": 450
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, 53 Mp, Modern, Decomandat, Tractorul",
+      "surface": 53,
+      "price": 519
+    },
+    {
+      "title": "Apartament 2 camere Judetean",
+      "surface": 50,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere Racadau, mobilat",
+      "surface": 65,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere Urban Plaza, Brasov",
+      "surface": 58,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu 2 camere in Centrul Civic, zona Patria",
+      "surface": 59,
+      "price": 385
+    },
+    {
+      "title": "Apartament de inchiriat, Astra, Brasov.",
+      "surface": 70,
+      "price": 600
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Inchiriez ap 2 camere DECOMANDAT zona Centru Civic cu GARAJ",
+      "surface": 65,
+      "price": 490
+    },
+    {
+      "title": "Ap 2 Cam Lux + Parcare Acoperita - Prima Chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, 53 Mp, Modern, Decomandat, Tractorul",
+      "surface": 53,
+      "price": 519
+    },
+    {
+      "title": "Se inchiriaza, camera/garsoniera la cheie Uzina 2",
+      "surface": 24,
+      "price": 221
+    },
+    {
+      "title": "Proprietar, inchiriez apartament 2 cam, Afi Brasov, mobilat si utilat",
+      "surface": 40,
+      "price": 380
+    },
+    {
+      "title": "Apartament cu 2 camere pe str.Hărmanului  disponibil pentru închiriere",
+      "surface": 45,
+      "price": 450
+    },
+    {
+      "title": "Zona Ultracentrala",
+      "surface": 85,
+      "price": 700
+    },
+    {
+      "title": "Pozitionare Ultracentrala",
+      "surface": 45,
+      "price": 460
+    },
+    {
+      "title": "Acces Facil",
+      "surface": 90,
+      "price": 780
+    },
+    {
+      "title": "Garsoniera mobilata/utilata-zona Grivitei",
+      "surface": 35,
+      "price": 350
+    },
+    {
+      "title": "Apartament cu 3 camere – Centru Istoric – Brașov",
+      "surface": 90,
+      "price": 1150
+    },
+    {
+      "title": "Apartament 3 camere la Mall Unirea in centrul civic",
+      "surface": 55,
+      "price": 530
+    },
+    {
+      "title": "Apartament 2 camere + Parcare acoperita - Prima chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Inchiriez apartament 2 camere decomandat zona Coresi.",
+      "surface": 56,
+      "price": 530
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Coresi AVANTGARDEN I Apartament cu doua camere",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Proprietate noua, Uno Residence, loc parcare cu acces facil",
+      "surface": 50,
+      "price": 500
+    },
+    {
+      "title": "Studio spatios, centrul istoric- Poarta Schei, complet mobilat",
+      "surface": 42,
+      "price": 430
+    },
+    {
+      "title": "Apartament nou Avantgarden3, Bartolomeu",
+      "surface": 50,
+      "price": 560
+    },
+    {
+      "title": "Garsoniera de inchiriat",
+      "surface": 24,
+      "price": 271
+    },
+    {
+      "title": "Tractorul-Coresi|Garsoniera|Mobilata-utilata|Parcare|Prima inchiriere",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Garsonieră în zona Onix, cod 8027",
+      "surface": 35,
+      "price": 350
+    },
+    {
+      "title": "Coresi AVANTGARDEN -Apartament cu doua camere - open space",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Apartament deosebit , 2 camere, Bartolomeu, Brasov",
+      "surface": 67,
+      "price": 575
+    },
+    {
+      "title": "Inchiriez Apartament 2 camere, AFI Mall, Brasov",
+      "surface": 47,
+      "price": 500
+    },
+    {
+      "title": "Apartament in natura, Tampa Gardens",
+      "surface": 56,
+      "price": 550
+    },
+    {
+      "title": "I OFERTA I Apartament 2 camere I Zona  Centrul Civic I",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "Garsoniera de inchiriat, central, Universitate, Brasov",
+      "surface": 26,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere mobilat/utilat-zona Centrul Istoric",
+      "surface": 46,
+      "price": 350
+    },
+    {
+      "title": "apart mobilat, utilat, etaj 1, Astra",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "Apartament de 3 camere zona CIUCAS",
+      "surface": 75,
+      "price": 590
+    },
+    {
+      "title": "Apartament de 3 camere zona Astra,str paraului",
+      "surface": 75,
+      "price": 450
+    },
+    {
+      "title": "NOU!! Prima inchiriere!!",
+      "surface": 62,
+      "price": 800
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 82mp, Parcare, et.4, lângă Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Apartament cu 2 camere pe str.Hărmanului  disponibil pentru închiriere",
+      "surface": 45,
+      "price": 450
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, 53 Mp, Modern, Decomandat, Tractorul",
+      "surface": 53,
+      "price": 519
+    },
+    {
+      "title": "Apartament 2 camere Judetean",
+      "surface": 50,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere Racadau, mobilat",
+      "surface": 65,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere Urban Plaza, Brasov",
+      "surface": 58,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu 2 camere in Centrul Civic, zona Patria",
+      "surface": 59,
+      "price": 385
+    },
+    {
+      "title": "Apartament de inchiriat, Astra, Brasov.",
+      "surface": 70,
+      "price": 600
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Inchiriez ap 2 camere DECOMANDAT zona Centru Civic cu GARAJ",
+      "surface": 65,
+      "price": 490
+    },
+    {
+      "title": "Apartament cu 3 camere – Centru Istoric – Brașov",
+      "surface": 90,
+      "price": 1150
+    },
+    {
+      "title": "Coresi AVANTGARDEN -Apartament cu doua camere - open space",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 4 Camere 116mp, Parcare, et.4, lângă Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Inchiriez apartament 4 cam str.Sitei, Centrul Civic .",
+      "surface": 100,
+      "price": 900
+    },
+    {
+      "title": "Bdul Grivitei - apartament 2 camere mobilat si utilat",
+      "surface": 50,
+      "price": 400
+    },
+    {
+      "title": "2 Camere Armoniei",
+      "surface": 60,
+      "price": 450
+    },
+    {
+      "title": "Apartament 2 camere - Cosmopolit Magnolia - Cod Intern 2926",
+      "surface": 65,
+      "price": 480
+    },
+    {
+      "title": "Cautam garsoniera de inchiriat",
+      "surface": 35,
+      "price": 241
+    },
+    {
+      "title": "Apartament de inchiriat, Avantgarden, Brasov.",
+      "surface": 58,
+      "price": 550
+    },
+    {
+      "title": "Apartament 2 camere superb zona Centru Civic",
+      "surface": 68,
+      "price": 600
+    },
+    {
+      "title": "Garsoniera mobilata si utilata - Str. Toamnei - Cod Intern 2925",
+      "surface": 30,
+      "price": 330
+    },
+    {
+      "title": "Apartament de inchiriat, Grivitei, Brasov.",
+      "surface": 57,
+      "price": 570
+    },
+    {
+      "title": "Garsoniera situata pe str. Republicii, Centrul Vechi- Rep. Exclusiva",
+      "surface": 38,
+      "price": 400
+    },
+    {
+      "title": "Apartament NOU 3 camere | parcare subterana-Isaran Residence-Coresi",
+      "surface": 98,
+      "price": 950
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Apartament 3 camere la Mall Unirea in centrul civic",
+      "surface": 55,
+      "price": 530
+    },
+    {
+      "title": "Apartament cochet prima chirie cu parcare acoperita zona Coresi",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Aparatment Inchiriere - Complex Exclusivist",
+      "surface": 80,
+      "price": 980
+    },
+    {
+      "title": "Apartament ultra central petfriendly – 2,5 camere",
+      "surface": 80,
+      "price": 750
+    },
+    {
+      "title": "Închiriez apartament 4 camere,2 locuri de parcare zona Astra Brasov",
+      "surface": 75,
+      "price": 680
+    },
+    {
+      "title": "Garsoniera superba de inchiriat",
+      "surface": 30,
+      "price": 350
+    },
+    {
+      "title": "Exclusiv inchiriere 2 camere decomandat Alphaville Arena",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 4 Camere 116mp, Parcare, et.4, lângă Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Garsoniera noua si spatioasa",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 82mp, Parcare, et.4, lângă Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Apartament de inchirat 2 camere - Zona Astra + loc de parcare",
+      "surface": 42,
+      "price": 400
+    },
+    {
+      "title": "Apartament 2 camere – Centru Vechi – Brașov",
+      "surface": 52,
+      "price": 700
+    },
+    {
+      "title": "Apartament 3 camere cu priveliste zona Bd. Victoriei",
+      "surface": 64,
+      "price": 650
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat, „Transilvania Residence”,  Braso",
+      "surface": 55,
+      "price": 530
+    },
+    {
+      "title": "Apartament cu 2 camere 57mp I Grivitei",
+      "surface": 57,
+      "price": 550
+    },
+    {
+      "title": "I OFERTA I Apartament 3 camere + Loc de parcare  I 13 Decembrie  I",
+      "surface": 78,
+      "price": 420
+    },
+    {
+      "title": "Apartament de inchiriat la Casa, zona Florilor",
+      "surface": 94,
+      "price": 700
+    },
+    {
+      "title": "Inchiriez apartament spatios 2 camere",
+      "surface": 60,
+      "price": 399
+    },
+    {
+      "title": "Private luxury bedrooms for Erasmus students/Camere private studenti",
+      "surface": 25,
+      "price": 150
+    },
+    {
+      "title": "I OFERTA I Garsoniera moderna I Zona 13 Decembrie I",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Apartament cu 2 camere pe str.Hărmanului  disponibil pentru închiriere",
+      "surface": 45,
+      "price": 450
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, 53 Mp, Modern, Decomandat, Tractorul",
+      "surface": 53,
+      "price": 519
+    },
+    {
+      "title": "I OFERTA I Apartament 2 camere I Zona Astra I",
+      "surface": 43,
+      "price": 430
+    },
+    {
+      "title": "I OFERTA I Apartament 2 camere +  Loc de parcare I Zona Astra I",
+      "surface": 42,
+      "price": 400
+    },
+    {
+      "title": "Studio, 41mp, cu Boxa si Parcare, Avantgarden",
+      "surface": 47,
+      "price": 399
+    },
+    {
+      "title": "Particular inchiriez apartament 3 camere Racadau-Valea Cetatii-Tampei",
+      "surface": 80,
+      "price": 530
+    },
+    {
+      "title": "Apartament 2 camere + Parcare acoperita - Prima chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Închiriez apartament 2 camere Centru Civic",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "La prima închiriere",
+      "surface": 42,
+      "price": 380
+    },
+    {
+      "title": "Apartament de 4 camere la casa , zona Centrul Istoric",
+      "surface": 115,
+      "price": 860
+    },
+    {
+      "title": "Garsoniera Zona Centrala- Colina Universitatii - ideal studenti",
+      "surface": 28,
+      "price": 380
+    },
+    {
+      "title": "Apartament 2 camere – Centru Vechi – Brașov",
+      "surface": 52,
+      "price": 700
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Apartament NOU 3 camere | parcare subterana-Isaran Residence-Coresi",
+      "surface": 98,
+      "price": 950
+    },
+    {
+      "title": "Garsoniera Zona Centrala- Colina Universitatii- ideal studenti",
+      "surface": 24,
+      "price": 350
+    },
+    {
+      "title": "Apartament doua camere Centrul Civic",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "Apartament superb | prima inchiriere | Drumul Poienii | Roata Noroculu",
+      "surface": 73,
+      "price": 1500
+    },
+    {
+      "title": "Garsoniera Vasile Goldis",
+      "surface": 40,
+      "price": 450
+    },
+    {
+      "title": "Apartament 2 Camere-Avantgarden 3-Cod 4277",
+      "surface": 58,
+      "price": 520
+    },
+    {
+      "title": "Apartament 2 camere Coresi de închiriat",
+      "surface": 69,
+      "price": 550
+    },
+    {
+      "title": "3 Camere | Astra | Saturn | Centrala proprie | View panoramic |",
+      "surface": 66,
+      "price": 550
+    },
+    {
+      "title": "Apartament modern 2 camere Ultracentral",
+      "surface": 58,
+      "price": 600
+    },
+    {
+      "title": "Garsoniera mobilata si utilata in cartierul Noua.",
+      "surface": 24,
+      "price": 270
+    },
+    {
+      "title": "Apartament Nou | 2 camere - Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat - Imperial Residence - Tractorul",
+      "surface": 60,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 camere + Parcare acoperita - Prima chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Spatiu Comercial Coresi Avantgarden 52 mp",
+      "surface": 52,
+      "price": 800
+    },
+    {
+      "title": "0% Comision | Apartament 2 Camere Open-Space Coresi",
+      "surface": 56,
+      "price": 500
+    },
+    {
+      "title": "I OFERTA I Apartament 3 camere I Zona Racadau I",
+      "surface": 70,
+      "price": 700
+    },
+    {
+      "title": "Inchiriez apartament cu 3 camere in Astra",
+      "surface": 69,
+      "price": 390
+    },
+    {
+      "title": "COMISION 0% Apartament cu 3 camere de închiriat, Astra",
+      "surface": 64,
+      "price": 450
+    },
+    {
+      "title": "Inchiriez apartament",
+      "surface": 58,
+      "price": 530
+    },
+    {
+      "title": "Ap 3 camere mobilat-utilat - zona Centrul Civic",
+      "surface": 65,
+      "price": 600
+    },
+    {
+      "title": "I OFERTA I Apartament 2 camere I Zona Strada Lunga I",
+      "surface": 53,
+      "price": 450
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, 53 Mp, Modern, Decomandat, Tractorul",
+      "surface": 53,
+      "price": 519
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 93mp, Parcare, et.10, lângă Coresi",
+      "surface": 93,
+      "price": 650
+    },
+    {
+      "title": "Inchiriez Garsoniera recent renovata, direct proprietar",
+      "surface": 25,
+      "price": 382
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat - Imperial Residence - Tractorul",
+      "surface": 60,
+      "price": 500
+    },
+    {
+      "title": "Inchiriez apartament 3 camere Avantgarden  3,  500 euro",
+      "surface": 70,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 camere , str Harmanului",
+      "surface": 50,
+      "price": 400
+    },
+    {
+      "title": "I OFERTA I Apartament 2 camere I Zona Triaj I",
+      "surface": 53,
+      "price": 450
+    },
+    {
+      "title": "Apartament cochet cu doua camere Centrul Istoric",
+      "surface": 46,
+      "price": 480
+    },
+    {
+      "title": "Apartament mobilat Alphaville Arena cu parcare",
+      "surface": 58,
+      "price": 650
+    },
+    {
+      "title": "Apartament cu 2 camere in Privilegio Brasov",
+      "surface": 67,
+      "price": 600
+    },
+    {
+      "title": "Garsoniera noua si spatioasa",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Inchiriez apartament 2 camere nou zona coresi",
+      "surface": 56,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 camere,zona Vivamus",
+      "surface": 52,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 Camere-Complex Alpha Ville-Carpatilor-Astra-Cod 4243",
+      "surface": 56,
+      "price": 500
+    },
+    {
+      "title": "Garsoniera de inchiriat, zona Centrul Vechi, Brasov",
+      "surface": 16,
+      "price": 300
+    },
+    {
+      "title": "Apartament 3 camere decomandat, zona Astra",
+      "surface": 80,
+      "price": 500
+    },
+    {
+      "title": "Proprietar inchiriez apartament ultracentral",
+      "surface": 50,
+      "price": 555
+    },
+    {
+      "title": "Inchiriez apartament 2 cam Decomandat ,Racadau",
+      "surface": 65,
+      "price": 450
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Apartament Nou | 2 camere - Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Inchiriez studio ultracentral Nicolae Balcescu",
+      "surface": 25,
+      "price": 350
+    },
+    {
+      "title": "Coresi AVANTGARDEN -Apartament cu doua camere - open space",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Inchiriez apartament Brasov 3 camere",
+      "surface": 75,
+      "price": 600
+    },
+    {
+      "title": "Apartament mobilat trei camere Europe Residence",
+      "surface": 84,
+      "price": 650
+    },
+    {
+      "title": "Garsoniera mobilata si utilata, zona Calea Bucuresti",
+      "surface": 35,
+      "price": 300
+    },
+    {
+      "title": "Apartament cu 2 camere, 53mp, Decomandat, cu Boxa, Triaj",
+      "surface": 50,
+      "price": 420
+    },
+    {
+      "title": "Apartament 3 camere cu gradina generoasa ,Ultracentral",
+      "surface": 90,
+      "price": 950
+    },
+    {
+      "title": "Apartament 2 camere Ultracentral de inchiriat",
+      "surface": 46,
+      "price": 500
+    },
+    {
+      "title": "Apartament NOU 3 camere | parcare subterana-Isaran Residence-Coresi",
+      "surface": 98,
+      "price": 950
+    },
+    {
+      "title": "Apartament 5 camere de inchiriat LUX zona Centrul Civic.",
+      "surface": 120,
+      "price": 1000
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, 53 Mp, Modern, Decomandat, Tractorul",
+      "surface": 53,
+      "price": 519
+    },
+    {
+      "title": "Apartament de inchirat 2 camere - Zona Astra + loc de parcare",
+      "surface": 42,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere la Mall Unirea in centrul civic",
+      "surface": 55,
+      "price": 530
+    },
+    {
+      "title": "Apartament cu 2 camere de închiriat în zona Racadau",
+      "surface": 61,
+      "price": 650
+    },
+    {
+      "title": "Apartament 4 camere, Racadau - Parcul Trandafirilor cu garaj",
+      "surface": 75,
+      "price": 490
+    },
+    {
+      "title": "PROPRIETAR inchiriez apartament 2 camere cu loc de parcare. CORESI",
+      "surface": 50,
+      "price": 460
+    },
+    {
+      "title": "Inchirieri garsoniere",
+      "surface": 30,
+      "price": 301
+    },
+    {
+      "title": "I OFERTA I Apartament 2 camere I Zona Bartolomeu I",
+      "surface": 55,
+      "price": 550
+    },
+    {
+      "title": "OFERTA I Apartament 3 camere I Zona Astra I",
+      "surface": 75,
+      "price": 750
+    },
+    {
+      "title": "Apartament la casă cu 3 camere în zona Spitalului de Copii, cod 8011",
+      "surface": 110,
+      "price": 500
+    },
+    {
+      "title": "Inchiriez studio ultracentral Nicolae Balcescu",
+      "surface": 25,
+      "price": 350
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 82mp, Parcare, et.4, lângă Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Apartament 2 camere la casa - Cod 8010",
+      "surface": 80,
+      "price": 350
+    },
+    {
+      "title": "Închiriez apartament luminos - 2 camere",
+      "surface": 53,
+      "price": 450
+    },
+    {
+      "title": "Apartament 3 Camere Inchiriere - Priveliste Deosebita",
+      "surface": 85,
+      "price": 950
+    },
+    {
+      "title": "Apartament centru istoric cu garaj și loc de parcare",
+      "surface": 70,
+      "price": 900
+    },
+    {
+      "title": "Apartament 2 Camere - Prima Inchiriere - Cod 4047",
+      "surface": 55,
+      "price": 650
+    },
+    {
+      "title": "Garsoniera mobilata Centru Civic Brasov",
+      "surface": 38,
+      "price": 400
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 93mp, Parcare, et.10, lângă Coresi",
+      "surface": 93,
+      "price": 650
+    },
+    {
+      "title": "Apartament semidecomandat de inchiriat",
+      "surface": 34,
+      "price": 380
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 93mp, Parcare, et.10, lângă Coresi",
+      "surface": 93,
+      "price": 650
+    },
+    {
+      "title": "Apartament 2 camere – Centru Vechi – Brașov",
+      "surface": 52,
+      "price": 700
+    },
+    {
+      "title": "Coresi AVANTGARDEN -Apartament cu doua camere - open space",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "I OFERTA I Apartament 3 camere I Zona Astra I",
+      "surface": 67,
+      "price": 575
+    },
+    {
+      "title": "Inchiriez Apartament 2 camere tip studio, zona Tractoru / Coresi",
+      "surface": 45,
+      "price": 510
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat in Olimpic, Bd Garii",
+      "surface": 49,
+      "price": 470
+    },
+    {
+      "title": "Apartament 2 camere zona centru nou",
+      "surface": 42,
+      "price": 400
+    },
+    {
+      "title": "Apartament 2 camere Anunt",
+      "surface": 55,
+      "price": 500
+    },
+    {
+      "title": "Ap 2 Cam Lux + Parcare Acoperita - Prima Chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu 3 camere – Centru Istoric – Brașov",
+      "surface": 90,
+      "price": 1150
+    },
+    {
+      "title": "Apartament 2 camere - Brașovul Vechi - pretabil pt muncitori",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Garsoniera zona Coresi",
+      "surface": 39,
+      "price": 420
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 93mp, Parcare, et.10, lângă Coresi",
+      "surface": 93,
+      "price": 650
+    },
+    {
+      "title": "Apartament decomandat cu 4 Camere, 2 bai, centrul civic, Brașov",
+      "surface": 100,
+      "price": 600
+    },
+    {
+      "title": "Private luxury bedrooms for Erasmus students/Camere private studenti",
+      "surface": 25,
+      "price": 150
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 24,
+      "price": 300
+    },
+    {
+      "title": "Apartament de inchirat 2 camere - Zona Astra + loc de parcare",
+      "surface": 42,
+      "price": 400
+    },
+    {
+      "title": "Inchiriez Garsoniera Brasov - Maurer Residence",
+      "surface": 40,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 camere nou, la prima inchiriere in zona centrala",
+      "surface": 58,
+      "price": 500
+    },
+    {
+      "title": "Penthouse Coresi 4 camere + Parcare",
+      "surface": 90,
+      "price": 850
+    },
+    {
+      "title": "Apartament de pretabil afaccere",
+      "surface": 150,
+      "price": 1500
+    },
+    {
+      "title": "Decomandat pe 3 camere, elegant si confortabil, cu parcare subterana s",
+      "surface": 78,
+      "price": 1100
+    },
+    {
+      "title": "Apartament cu 2 camere str. Mircea cel Batran",
+      "surface": 50,
+      "price": 380
+    },
+    {
+      "title": "Garsoniera, prima inchiriere, Platinum Residence.",
+      "surface": 42,
+      "price": 400
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Particular, apartament 3 camere, Racadau",
+      "surface": 70,
+      "price": 700
+    },
+    {
+      "title": "Apartament de închiriat",
+      "surface": 65,
+      "price": 430
+    },
+    {
+      "title": "Apartament De Inchiriat Cu Vedere Panoramica",
+      "surface": 58,
+      "price": 680
+    },
+    {
+      "title": "Apartament modern în complexul Bellevue, Drumul Poienii, Brașov",
+      "surface": 90,
+      "price": 1000
+    },
+    {
+      "title": "Apartament 3 camere Judetean mobilat și utilat 650 euro",
+      "surface": 65,
+      "price": 650
+    },
+    {
+      "title": "Apartament 3 Camere-Tractorul-Cod 4241",
+      "surface": 65,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu 3 camere de închiriat în zona Tractorul!",
+      "surface": 79,
+      "price": 900
+    },
+    {
+      "title": "Garsoniera | Tractorul | Open Space |&nbsp;Balcon",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Apartament Deosebit, Langa Cetate",
+      "surface": 100,
+      "price": 1100
+    },
+    {
+      "title": "Apartament Nou | 2 camere - Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Apartament NOU 3 camere | parcare subterana-Isaran Residence-Coresi",
+      "surface": 98,
+      "price": 950
+    },
+    {
+      "title": "Inchiriez garsoniera in zona Astra",
+      "surface": 32,
+      "price": 350
+    },
+    {
+      "title": "Apartament 3 camere, zona Ceasu Rau",
+      "surface": 90,
+      "price": 800
+    },
+    {
+      "title": "Apartament cu 3 camere la prima inchiriere I Maurer Villas I Tractorul",
+      "surface": 65,
+      "price": 800
+    },
+    {
+      "title": "Chirie apartament studio",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Garsoniera Ultracentral de închiriat",
+      "surface": 38,
+      "price": 360
+    },
+    {
+      "title": "Apartament decomandat cu 4 Camere, 2 bai, centrul civic, Brașov",
+      "surface": 100,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu 2 camere de închiriat, zona Coresi, Tractorul",
+      "surface": 52,
+      "price": 550
+    },
+    {
+      "title": "Suprafata Generoasa",
+      "surface": 87,
+      "price": 1100
+    },
+    {
+      "title": "Închiriez apartament 2 camere decomandat",
+      "surface": 54,
+      "price": 390
+    },
+    {
+      "title": "Apartament de inchirat 2 camere - Zona Astra + loc de parcare",
+      "surface": 42,
+      "price": 400
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat - Imperial Residence - Tractorul",
+      "surface": 60,
+      "price": 500
+    },
+    {
+      "title": "Apartament de inchirat 3 camere zona Tractorul bloc nou",
+      "surface": 65,
+      "price": 620
+    },
+    {
+      "title": "Suprafata Generoasa",
+      "surface": 55,
+      "price": 500
+    },
+    {
+      "title": "Inchiriez apartament 2 camere 65 mp",
+      "surface": 65,
+      "price": 425
+    },
+    {
+      "title": "Apartament cochet - prima inchiriere - Urban Plaza",
+      "surface": 60,
+      "price": 600
+    },
+    {
+      "title": "Apartament spatios in C.Civic",
+      "surface": 48,
+      "price": 400
+    },
+    {
+      "title": "Apartament modern ,4 camere Calea Bucuresti",
+      "surface": 116,
+      "price": 800
+    },
+    {
+      "title": "Apartament 2 camere de închiriat, Bobalna Residence",
+      "surface": 65,
+      "price": 595
+    },
+    {
+      "title": "Garsoniera mobilata cartier Noua Brasov",
+      "surface": 25,
+      "price": 350
+    },
+    {
+      "title": "Garsoniera de inchiriat, la BSW, in Centrul Brasovului",
+      "surface": 42,
+      "price": 500
+    },
+    {
+      "title": "Zona Centrala",
+      "surface": 58,
+      "price": 700
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 4 Camere 116mp, Parcare, et.4, lângă Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, 53 Mp, Modern, Decomandat, Tractorul",
+      "surface": 53,
+      "price": 519
+    },
+    {
+      "title": "Apartament cu 3 camere mobilat, zona Garii Brasov",
+      "surface": 70,
+      "price": 450
+    },
+    {
+      "title": "3 Camere | Florilor | Decomandat |&nbsp;Balcon",
+      "surface": 72,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat zona Tractorul",
+      "surface": 53,
+      "price": 500
+    },
+    {
+      "title": "Apartament spatios cu 3 camere in cartierul Tractorul, Mosaic Residenc",
+      "surface": 76,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere open space Coresi ( KASPER )",
+      "surface": 45,
+      "price": 420
+    },
+    {
+      "title": "2 camere de inchiriat | Cartier Rezidential Natura | Green Valley",
+      "surface": 60,
+      "price": 450
+    },
+    {
+      "title": "Apartament cu 2 camere de închiriat în zona Harmanului",
+      "surface": 45,
+      "price": 350
+    },
+    {
+      "title": "Garsoniera mobilata str. Mihai Viteazul",
+      "surface": 30,
+      "price": 340
+    },
+    {
+      "title": "3 Camere, proprietar, Aula Universitatii, Loc parcare.",
+      "surface": 92,
+      "price": 700
+    },
+    {
+      "title": "Apartament cu 2 camere pe str.Hărmanului  disponibil pentru închiriere",
+      "surface": 45,
+      "price": 450
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 93mp, Parcare, et.10, lângă Coresi",
+      "surface": 93,
+      "price": 650
+    },
+    {
+      "title": "Inchiriez apartament Qualis 2",
+      "surface": 66,
+      "price": 800
+    },
+    {
+      "title": "Decomandat, elegant si confortabil, cu parcare si terasa de 16 mp",
+      "surface": 78,
+      "price": 1100
+    },
+    {
+      "title": "Garsoniera Piata Sfatului",
+      "surface": 36,
+      "price": 400
+    },
+    {
+      "title": "LUX | Apartament cu 2 camere Mihai Viteazu | VITUS RESIDENCE!",
+      "surface": 67,
+      "price": 950
+    },
+    {
+      "title": "Apartament 2 camere CENTRAL superb",
+      "surface": 57,
+      "price": 690
+    },
+    {
+      "title": "Apartament mobilat 3 camere cu parcare subterana",
+      "surface": 69,
+      "price": 600
+    },
+    {
+      "title": "Urban | Tractorul | 3 camere | Decomandat | Parcare",
+      "surface": 90,
+      "price": 780
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, Gradina 157 Mp, Mobilat, Decom,Sanpetru",
+      "surface": 53,
+      "price": 499
+    },
+    {
+      "title": "Tractorul | 2 Camere | Open Space |&nbsp;Parcare",
+      "surface": 65,
+      "price": 500
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Apartament 2 camere – Centru Vechi – Brașov",
+      "surface": 52,
+      "price": 700
+    },
+    {
+      "title": "Apartament superb 2 camere si parcare Urban Coresi",
+      "surface": 67,
+      "price": 599
+    },
+    {
+      "title": "Apartament 2 camere Subcetate Residence, loc de parcare.",
+      "surface": 50,
+      "price": 422
+    },
+    {
+      "title": "Penthouse New Coresi Proprietar",
+      "surface": 130,
+      "price": 1600
+    },
+    {
+      "title": "Inchiriez camera de camin cu baie",
+      "surface": 24,
+      "price": 281
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat zona Astra",
+      "surface": 43,
+      "price": 430
+    },
+    {
+      "title": "2 Camere, Privilegio, Renovat, Parcare, 66 mp",
+      "surface": 70,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu 2 Camere in Zona Centrala Renovat 55mp",
+      "surface": 55,
+      "price": 450
+    },
+    {
+      "title": "Apartament cu 3 camere de inchiriat, PET-FRIENDLY!",
+      "surface": 65,
+      "price": 470
+    },
+    {
+      "title": "Apartament cu 3 camere – Centru Istoric – Brașov",
+      "surface": 90,
+      "price": 1150
+    },
+    {
+      "title": "Private luxury bedrooms for Erasmus students/Camere private studenti",
+      "surface": 25,
+      "price": 150
+    },
+    {
+      "title": "Apartament Nou | 2 camere - Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Apartament 2 camere decomandat | Central",
+      "surface": 45,
+      "price": 350
+    },
+    {
+      "title": "Apartament 3 camere decomandat | Central",
+      "surface": 120,
+      "price": 500
+    },
+    {
+      "title": "3 Camere 2 Bai, Bartolomeu Nord, Proaspat Zugravit",
+      "surface": 75,
+      "price": 500
+    },
+    {
+      "title": "4 Camere 2 Bai, Grivitei, Pet Friendly, 4 Min Centru Nou",
+      "surface": 90,
+      "price": 780
+    },
+    {
+      "title": "2 Camere, Prima Inchiriere, Avantgarden Bartolomeu, Parcare",
+      "surface": 49,
+      "price": 600
+    },
+    {
+      "title": "2 Camere, Racadau, Incalzire Pardoseala, Parcare, Bloc Nou",
+      "surface": 55,
+      "price": 500
+    },
+    {
+      "title": "Apartament 3 camere de inchiriat",
+      "surface": 68,
+      "price": 550
+    },
+    {
+      "title": "Apartament 3 camere zona Racadau la casa(Foisor in curte)",
+      "surface": 130,
+      "price": 1000
+    },
+    {
+      "title": "Apartament doua camere Maior Cranta cu loc parcare",
+      "surface": 80,
+      "price": 900
+    },
+    {
+      "title": "2 camere Isaran/ complet Mobilat si Utilat",
+      "surface": 75,
+      "price": 570
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 4 Camere 116mp, Parcare, et.4, lângă Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 93mp, Parcare, et.10, lângă Coresi",
+      "surface": 93,
+      "price": 650
+    },
+    {
+      "title": "Inchiriez apartament 4 camere 116 mp Cal Bucuresti 3",
+      "surface": 116,
+      "price": 800
+    },
+    {
+      "title": "SE inchiriaza apartament 2 camere. Subcetate",
+      "surface": 53,
+      "price": 362
+    },
+    {
+      "title": "Apartament de 3 camere de inchiriat, zona Florilor",
+      "surface": 73,
+      "price": 600
+    },
+    {
+      "title": "Garsoniera Centru, Cosmopolit, Incalzire Pardoseala, Parcare",
+      "surface": 46,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere zona COLINEI UNIVERSITATII",
+      "surface": 60,
+      "price": 500
+    },
+    {
+      "title": "Inchiriez apartament 2 camere, zona Grivitei",
+      "surface": 55,
+      "price": 450
+    },
+    {
+      "title": "Apartament 2 camere decomandate, zona Coresi",
+      "surface": 65,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 camere – Centru Vechi – Brașov",
+      "surface": 52,
+      "price": 700
+    },
+    {
+      "title": "Apartament de inchirat 2 camere - Zona Astra + loc de parcare",
+      "surface": 42,
+      "price": 400
+    },
+    {
+      "title": "Priveliste Deosebita",
+      "surface": 119,
+      "price": 1850
+    },
+    {
+      "title": "Garsoniera superba | Complet mobilată &amp;utilată| Cosmopolit",
+      "surface": 46,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere Zona Centrul Civic !",
+      "surface": 60,
+      "price": 450
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat,zona Afi Mall",
+      "surface": 50,
+      "price": 540
+    },
+    {
+      "title": "Studio Urban Coresi pretabil Regim Hotelier",
+      "surface": 45,
+      "price": 500
+    },
+    {
+      "title": "Apartament 3 camere - Blvd. Victoriei - Cod intern 2924",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Brasov centru, langa mag.STAR apartament mobilat si utilat, 450euro",
+      "surface": 48,
+      "price": 450
+    },
+    {
+      "title": "Inchiriez studio ultracentral Nicolae Balcescu",
+      "surface": 25,
+      "price": 350
+    },
+    {
+      "title": "Private luxury bedrooms for Erasmus students/Camere private studenti",
+      "surface": 25,
+      "price": 150
+    },
+    {
+      "title": "Apartament 2 camere + Parcare acoperita - Prima chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere+parcare, pet friendly, short/long term",
+      "surface": 50,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 Camere Tractorul - Urban Splendor",
+      "surface": 52,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 camere de lux, parcare subterana, BSW Residence",
+      "surface": 64,
+      "price": 750
+    },
+    {
+      "title": "Ap 3 camere mobilat-utilat - zona Tractorul",
+      "surface": 98,
+      "price": 700
+    },
+    {
+      "title": "Garsoniera cocheta in Centrul Vechi al Brasovului",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Inchiriez Garsoniera de lux centru",
+      "surface": 46,
+      "price": 600
+    },
+    {
+      "title": "Apartament 3 camere + parcare, prima inchiriere Coresi",
+      "surface": 78,
+      "price": 800
+    },
+    {
+      "title": "Apartament 3 camere modern",
+      "surface": 74,
+      "price": 500
+    },
+    {
+      "title": "Racadau - Apartament 4 camere, 2 bai, mobilat, utilat, parcare!",
+      "surface": 85,
+      "price": 700
+    },
+    {
+      "title": "Apartament mobilat si cu loc de parcare",
+      "surface": 50,
+      "price": 480
+    },
+    {
+      "title": "Apartament cu 2 camere pe str.Hărmanului  disponibil pentru închiriere",
+      "surface": 45,
+      "price": 450
+    },
+    {
+      "title": "Apartament Nou | 2 camere - Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Coresi AVANTGARDEN -Apartament cu doua camere - open space",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Prima inchiriere | 2 camere termen 6 12 luni Tractorul",
+      "surface": 60,
+      "price": 600
+    },
+    {
+      "title": "Apartament 3 camere Strada Postavarului",
+      "surface": 60,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 camere, parcare subterana, Complex Privilegio, Judetean",
+      "surface": 68,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu doua camere 50mp, Str. De Mijloc, Bartolomeu",
+      "surface": 50,
+      "price": 500
+    },
+    {
+      "title": "Exclusivitate - Apartament în bloc nou, cu loc de parcare",
+      "surface": 61,
+      "price": 550
+    },
+    {
+      "title": "Garsoniera-Urban Plaza-Prima Inchiriere-Cod 4184",
+      "surface": 38,
+      "price": 440
+    },
+    {
+      "title": "Apartament 2 camere decomandate, zona Avantgarden-Bartolomeu",
+      "surface": 54,
+      "price": 500
+    },
+    {
+      "title": "Inchiriere apartament 2 camere-Tractoru, Coresi",
+      "surface": 56,
+      "price": 510
+    },
+    {
+      "title": "Garsoniera inchiriere",
+      "surface": 25,
+      "price": 280
+    },
+    {
+      "title": "Inchiriez studio ultracentral Nicolae Balcescu",
+      "surface": 25,
+      "price": 350
+    },
+    {
+      "title": "Coresi AVANTGARDEN -Apartament cu doua camere - open space",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Ap 2 Cam Lux + Parcare Acoperita - Prima Chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 Camere Inchiriere - Brasovul Vechi",
+      "surface": 68,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere Mobilat, langa Piata Astra - Prima inchiriere",
+      "surface": 43,
+      "price": 430
+    },
+    {
+      "title": "Exclusiv inchiriere 2 camere decomandat Alphaville Arena",
+      "surface": 58,
+      "price": 550
+    },
+    {
+      "title": "Apartament Premium cu 2 camere decomandate in centrul Brasovului",
+      "surface": 50,
+      "price": 555
+    },
+    {
+      "title": "Închiriere apartament  3 camere",
+      "surface": 78,
+      "price": 422
+    },
+    {
+      "title": "Apartament spatios, mobilat si utilat pe Bulevardul Grivitei",
+      "surface": 68,
+      "price": 600
+    },
+    {
+      "title": "Apartament  3 camere zona Astra",
+      "surface": 74,
+      "price": 499
+    },
+    {
+      "title": "Penthouse pe 3 Etaje: 5 camere + 2 terase, 140 mp utili + 50 mp terase",
+      "surface": 140,
+      "price": 1650
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 93mp, Parcare, et.10, lângă Coresi",
+      "surface": 93,
+      "price": 650
+    },
+    {
+      "title": "Apartament 2 camere + Parcare acoperita - Prima chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Apartament de inchirat 2 camere - Zona Astra + loc de parcare",
+      "surface": 42,
+      "price": 400
+    },
+    {
+      "title": "Apartament 2 camere și Birou sau dormitor copii Avantgarden 3",
+      "surface": 58,
+      "price": 550
+    },
+    {
+      "title": "Apartament de inchiriat pentru birou",
+      "surface": 78,
+      "price": 703
+    },
+    {
+      "title": "Apartament NOU cu 3 camere, mobilat si utilat complet , zona Tractorul",
+      "surface": 84,
+      "price": 800
+    },
+    {
+      "title": "Apartament 2 camere Lux, zona Astra complex Urban cu  loc parcare",
+      "surface": 55,
+      "price": 650
+    },
+    {
+      "title": "Apartament Cochet cu 3 Camere, Maurer Residence -langa Coresi",
+      "surface": 75,
+      "price": 700
+    },
+    {
+      "title": "Inchiriez garsoniera in zona Tractoru Brasov",
+      "surface": 22,
+      "price": 250
+    },
+    {
+      "title": "Apartament 3 Camere-Mircea cel Batran-Grivitei-Cod 4275",
+      "surface": 65,
+      "price": 650
+    },
+    {
+      "title": "Apartament LUX 3 camere  MAURER VILLAS Coresi",
+      "surface": 70,
+      "price": 1000
+    },
+    {
+      "title": "Apartament 2 camere, prima utilizare, loc de parcare, Coresi!",
+      "surface": 49,
+      "price": 590
+    },
+    {
+      "title": "Apartament 3 camere de inchiriat zona ONIX.",
+      "surface": 76,
+      "price": 440
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat - Imperial Residence - Tractorul",
+      "surface": 60,
+      "price": 500
+    },
+    {
+      "title": "Apartament cu 2 camere pe str.Hărmanului  disponibil pentru închiriere",
+      "surface": 45,
+      "price": 450
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "De închiriat duplex modern cu 4 camere, 2 băi,  loc de parcare, Coresi",
+      "surface": 112,
+      "price": 960
+    },
+    {
+      "title": "Garsoniera-Galaxy Residence-Cod 4274",
+      "surface": 43,
+      "price": 500
+    },
+    {
+      "title": "Apartament 3 camere mobilat utilat Mall Coresi",
+      "surface": 70,
+      "price": 700
+    },
+    {
+      "title": "Apartament 2 camere decomandat Molidului /Racadau",
+      "surface": 52,
+      "price": 400
+    },
+    {
+      "title": "Studiou modern Dinamic Rezidence ,Tractorul",
+      "surface": 47,
+      "price": 550
+    },
+    {
+      "title": "Apartament 2 camere recent renovat, zona Zizinului-Judetean!",
+      "surface": 53,
+      "price": 420
+    },
+    {
+      "title": "Apartament modern 2 camere, cu loc de parcare - Maurer Coresi",
+      "surface": 47,
+      "price": 520
+    },
+    {
+      "title": "Chirie 2 camere str Mercur cartier Astra etaj1",
+      "surface": 50,
+      "price": 350
+    },
+    {
+      "title": "Inchiriere 3 camere decomandate, 2 locuri de parcare,",
+      "surface": 70,
+      "price": 550
+    },
+    {
+      "title": "Apartament cochet in Transilvania Residence - Noua!",
+      "surface": 62,
+      "price": 600
+    },
+    {
+      "title": "Apartament Nou | 2 camere - Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Apartament NOU 3 camere | parcare subterana-Isaran Residence-Coresi",
+      "surface": 98,
+      "price": 950
+    },
+    {
+      "title": "Garsoniera noua si spatioasa",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Garsoniera de inchiriat, zona Tractorul, Brasov",
+      "surface": 36,
+      "price": 450
+    },
+    {
+      "title": "Apartament de lux -  De Inchiriat - langa Mall AFI",
+      "surface": 125,
+      "price": 1449
+    },
+    {
+      "title": "Garsonieră de închiriat str.Lungă",
+      "surface": 40,
+      "price": 350
+    },
+    {
+      "title": "Inchiriez apartament cu 2 camere,decomandat, zona TRACTORUL/CORESI!",
+      "surface": 55,
+      "price": 440
+    },
+    {
+      "title": "Garsoniera de inchiriat in Avangarden 3 cu loc de parcare inclus",
+      "surface": 38,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere in zona Tractoru",
+      "surface": 70,
+      "price": 600
+    },
+    {
+      "title": "Garsoniera de inchiriat",
+      "surface": 24,
+      "price": 241
+    },
+    {
+      "title": "Apartament in chirie! Brasov!",
+      "surface": 55,
+      "price": 550
+    },
+    {
+      "title": "| Apartament de 3 camere | Astra | Semidecomandat |",
+      "surface": 62,
+      "price": 500
+    },
+    {
+      "title": "Garsoniera mobilata modern zona Oncocard",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 93mp, Parcare, et.10, lângă Coresi",
+      "surface": 93,
+      "price": 650
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Private luxury bedrooms for Erasmus students/Camere private studenti",
+      "surface": 25,
+      "price": 150
+    },
+    {
+      "title": "Ap. 2 camere,mobilat,Parcare/Racadau/Magnolia",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Apartament 4 camere Noua/Brasov",
+      "surface": 100,
+      "price": 675
+    },
+    {
+      "title": "Apartament 3 camere cartier Florilor Brasov",
+      "surface": 72,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu 3 camere mobilat, Maurer Villas, Tractorul",
+      "surface": 75,
+      "price": 900
+    },
+    {
+      "title": "I OFERTA I Studio modern I Zona Centrul Civic I",
+      "surface": 27,
+      "price": 450
+    },
+    {
+      "title": "Apartament 2 Camere De Inchiriat, Mobilat si Utilat",
+      "surface": 54,
+      "price": 500
+    },
+    {
+      "title": "Proprietar, ofer spre inchiriere apartament mare, 2 cam, in RACADAU.",
+      "surface": 55,
+      "price": 420
+    },
+    {
+      "title": "Apartament Inchiriere - Priveliste Deosebita, Liber din 01 August",
+      "surface": 60,
+      "price": 550
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 4 Camere 116mp, Parcare, et.4, lângă Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Inchiriere Apartament 2 Camere Spitalul Judetean",
+      "surface": 50,
+      "price": 390
+    },
+    {
+      "title": "Apartament la casă cu 3 camere în zona Spitalului de Copii, cod 8002",
+      "surface": 90,
+      "price": 500
+    },
+    {
+      "title": "Apartament spatios Parcul Trandafirilor cu 2 locuri parcare",
+      "surface": 100,
+      "price": 650
+    },
+    {
+      "title": "Avantgarden Bartolomeu, 3 camere, mobilat lux, loc de parcare, prima i",
+      "surface": 90,
+      "price": 700
+    },
+    {
+      "title": "Inchiriere studio modern Top City cu priveliste spre parc",
+      "surface": 40,
+      "price": 500
+    },
+    {
+      "title": "Închiriez garsiniera",
+      "surface": 53,
+      "price": 450
+    },
+    {
+      "title": "Ofer spre inchiriere apartament / studio",
+      "surface": 46,
+      "price": 490
+    },
+    {
+      "title": "Apartament 2 Camere Avantgarden 2",
+      "surface": 50,
+      "price": 500
+    },
+    {
+      "title": "Apartament 3 camere Centru Civic",
+      "surface": 90,
+      "price": 600
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 82mp, Parcare, et.4, lângă Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Apartament 2 camere + Parcare acoperita - Prima chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Eleganta, Istorie si Profitabilitate! Investitie in Centrul Istoric!",
+      "surface": 40,
+      "price": 1500
+    },
+    {
+      "title": "Cotroceni - (Proprietar) Ap 3 camere lângă UMF și Spitalul Universitar",
+      "surface": 60,
+      "price": 1000
+    },
+    {
+      "title": "Apartament 2 camere in Avantgarden3",
+      "surface": 54,
+      "price": 500
+    },
+    {
+      "title": "Inchiriem apartament 3 camere mobilat utilat lux cu parcare subterana",
+      "surface": 67,
+      "price": 1000
+    },
+    {
+      "title": "Inchiriere 2 camere cu parcare subterana URBAN PLAZA",
+      "surface": 52,
+      "price": 850
+    },
+    {
+      "title": "Inchiriere apartament modern aprope de Centrul Istoric",
+      "surface": 52,
+      "price": 500
+    },
+    {
+      "title": "Apartament 3 camere 90mp etaj intermediar bloc 2022",
+      "surface": 98,
+      "price": 650
+    },
+    {
+      "title": "Apartament de 2 camere | prima inchiriere | Alexandru Ioan Cuza,Centru",
+      "surface": 60,
+      "price": 600
+    },
+    {
+      "title": "Garsoniera zona centrala decomandata",
+      "surface": 32,
+      "price": 300
+    },
+    {
+      "title": "Apartament 2 Camere Isaran",
+      "surface": 70,
+      "price": 600
+    },
+    {
+      "title": "Coresi AVANTGARDEN -Apartament cu doua camere - open space",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Apartament 2 camere – Centru Vechi – Brașov",
+      "surface": 52,
+      "price": 700
+    },
+    {
+      "title": "Apartament NOU 3 camere | parcare subterana-Isaran Residence-Coresi",
+      "surface": 98,
+      "price": 950
+    },
+    {
+      "title": "Apartament 2 Camere cu Terasa in Tampa Gardens",
+      "surface": 61,
+      "price": 600
+    },
+    {
+      "title": "Apartament deosebit de doua camere , zona Aula Universitatii Transilva",
+      "surface": 61,
+      "price": 800
+    },
+    {
+      "title": "Apartament de trei camere la casa , zona Florilor",
+      "surface": 100,
+      "price": 700
+    },
+    {
+      "title": "Apartament 2 camere+parcare zona Tractorul",
+      "surface": 50,
+      "price": 550
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat, Racadau",
+      "surface": 52,
+      "price": 405
+    },
+    {
+      "title": "Apartament modern de 2 camere si curte comuna",
+      "surface": 60,
+      "price": 600
+    },
+    {
+      "title": "Apartament 3 camere de inchiriat",
+      "surface": 90,
+      "price": 600
+    },
+    {
+      "title": "Apatament 2 camee Scriitorilor",
+      "surface": 58,
+      "price": 380
+    },
+    {
+      "title": "închiriere apartament 2  camere",
+      "surface": 57,
+      "price": 520
+    },
+    {
+      "title": "Apartament 3 camere la Mall Unirea in centrul civic",
+      "surface": 55,
+      "price": 530
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 4 Camere 116mp, Parcare, et.4, lângă Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat - Imperial Residence - Tractorul",
+      "surface": 60,
+      "price": 500
+    },
+    {
+      "title": "| Apartament | Zona centrala | Terasa | Open space |",
+      "surface": 67,
+      "price": 500
+    },
+    {
+      "title": "Gratie si rafinament,Urban Plaza,zona Mall AFI, parcare si terasa de 1",
+      "surface": 78,
+      "price": 1100
+    },
+    {
+      "title": "Apartament 2 camere Spitalul Judetean/Privilegio",
+      "surface": 68,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu 3 camere Urban Coresi",
+      "surface": 90,
+      "price": 780
+    },
+    {
+      "title": "Apartament 2 camere tip studio zona Coresi de inchiriat",
+      "surface": 52,
+      "price": 550
+    },
+    {
+      "title": "REZERVAT Apartament cu 2 camere de închiriat in Florilor",
+      "surface": 43,
+      "price": 400
+    },
+    {
+      "title": "Inchiriez Ap 4 Cam, Foarte Spatios , Mobilat,Utilat,Cart Noua-Brasov",
+      "surface": 100,
+      "price": 675
+    },
+    {
+      "title": "Inchiriez apartament 2 camere Avantgarden Bartolomeu",
+      "surface": 52,
+      "price": 500
+    },
+    {
+      "title": "Garsoniera generoasa zona centrala cu garaj subteran",
+      "surface": 39,
+      "price": 450
+    },
+    {
+      "title": "Casa 3 camere pe Drumul de Poiana Petfriendly",
+      "surface": 75,
+      "price": 600
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 82mp, Parcare, et.4, lângă Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Apartament decomandat cu 4 Camere, 2 bai, centrul civic, Brașov",
+      "surface": 100,
+      "price": 600
+    },
+    {
+      "title": "Inchiriez studio ultracentral Nicolae Balcescu",
+      "surface": 25,
+      "price": 350
+    },
+    {
+      "title": "Spatiu birou |  superfinisat | Urban Investi | Parcare",
+      "surface": 52,
+      "price": 650
+    },
+    {
+      "title": "Apartament mobilat in Astra",
+      "surface": 50,
+      "price": 380
+    },
+    {
+      "title": "Apartament 2 camere, Ultracentral, str. Spatarul Luca Arbore",
+      "surface": 70,
+      "price": 600
+    },
+    {
+      "title": "Apartament modern mobilat si spatios cu 2 camere - Tractorul",
+      "surface": 55,
+      "price": 500
+    },
+    {
+      "title": "Apartament de închiriat zona Coresi ( saloane, agentii,cabinete etc...",
+      "surface": 58,
+      "price": 570
+    },
+    {
+      "title": "Apartament modern cu 2 camere si priveliste panoramica",
+      "surface": 57,
+      "price": 570
+    },
+    {
+      "title": "Spatiu birouri,cladire destinata  business-ului, zona ITC , Brasov",
+      "surface": 40,
+      "price": 500
+    },
+    {
+      "title": "Închiriez garsonieră Brașov",
+      "surface": 32,
+      "price": 300
+    },
+    {
+      "title": "Apartament cu 3 camere de închiriat în zona Brasovul Vechi",
+      "surface": 75,
+      "price": 450
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, 53 Mp, Modern, Decomandat, Tractorul",
+      "surface": 53,
+      "price": 519
+    },
+    {
+      "title": "Apartament NOU 3 camere | parcare subterana-Isaran Residence-Coresi",
+      "surface": 98,
+      "price": 950
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 93mp, Parcare, et.10, lângă Coresi",
+      "surface": 93,
+      "price": 650
+    },
+    {
+      "title": "Zona Centrala",
+      "surface": 84,
+      "price": 1200
+    },
+    {
+      "title": "Apartamente Premium- Aparthotel",
+      "surface": 78,
+      "price": 1000
+    },
+    {
+      "title": "Aparthotel Pozitionare Centrala",
+      "surface": 72,
+      "price": 1000
+    },
+    {
+      "title": "Închiriez apartament 3 camere, decomandate - Florilor",
+      "surface": 72,
+      "price": 600
+    },
+    {
+      "title": "Garsoniera in Avantgarden 3",
+      "surface": 42,
+      "price": 350
+    },
+    {
+      "title": "Zona Centrala",
+      "surface": 61,
+      "price": 700
+    },
+    {
+      "title": "Apartament BSW RESIDENCE zona Universitatii Transilvania",
+      "surface": 68,
+      "price": 700
+    },
+    {
+      "title": "Zona Linistita",
+      "surface": 60,
+      "price": 600
+    },
+    {
+      "title": "Apartament Lux Livada Postei - Drumul Poienii Brasov",
+      "surface": 100,
+      "price": 690
+    },
+    {
+      "title": "3 camere decomandate, Centrul Civic-Afi, Brașov",
+      "surface": 76,
+      "price": 420
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Apartament 2 Camere-Aleea Lacramioarelor-Cod 4273",
+      "surface": 40,
+      "price": 450
+    },
+    {
+      "title": "Apartament zona centrala cu garaj subteran",
+      "surface": 90,
+      "price": 850
+    },
+    {
+      "title": "Apartament 2 camere Jepilor",
+      "surface": 53,
+      "price": 470
+    },
+    {
+      "title": "Apatament 2 camere +loc de parcare, Urban Plaza",
+      "surface": 65,
+      "price": 650
+    },
+    {
+      "title": "Apartament 2 Camere mobilat utilat Zona Grivitei",
+      "surface": 51,
+      "price": 390
+    },
+    {
+      "title": "Apartament 3 camere modern ,Astra",
+      "surface": 73,
+      "price": 600
+    },
+    {
+      "title": "Locuinta centrala cu vedere si parcare subterana, Centrul Civic, Braso",
+      "surface": 65,
+      "price": 650
+    },
+    {
+      "title": "Private luxury bedrooms for Erasmus students/Camere private studenti",
+      "surface": 25,
+      "price": 150
+    },
+    {
+      "title": "Apartament cu 3 camere – Centru Istoric – Brașov",
+      "surface": 90,
+      "price": 1150
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 82mp, Parcare, et.4, lângă Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Apartament 2 Camere-1 Decembrie 1918-Tractorul-Cod 4270",
+      "surface": 55,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat.",
+      "surface": 50,
+      "price": 400
+    },
+    {
+      "title": "Apartament 2 camere zona Grivitei - cod 5095",
+      "surface": 54,
+      "price": 500
+    },
+    {
+      "title": "Garsoniera - Cuib cu fluturi",
+      "surface": 24,
+      "price": 300
+    },
+    {
+      "title": "Garsoniera premium Urban Plaza, Carpatilor",
+      "surface": 48,
+      "price": 470
+    },
+    {
+      "title": "Imobil nou",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Prima Inchiriere",
+      "surface": 45,
+      "price": 550
+    },
+    {
+      "title": "NOU 3 dormitoare, parcare subterana, jacuzzi in Maurer Villas",
+      "surface": 120,
+      "price": 1750
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 4 Camere 116mp, Parcare, et.5, lângă Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Apartamente Premium",
+      "surface": 74,
+      "price": 1000
+    },
+    {
+      "title": "Garsoniera noua si spatioasa",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Apartament 2 camere – Centru Vechi – Brașov",
+      "surface": 52,
+      "price": 700
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Apartamente Premium- Bellevue Residence",
+      "surface": 81,
+      "price": 1000
+    },
+    {
+      "title": "Apartament 2 camere 52 mp | Str. Nucului | Prima inchiriere",
+      "surface": 52,
+      "price": 590
+    },
+    {
+      "title": "Prima Inchiriere",
+      "surface": 59,
+      "price": 800
+    },
+    {
+      "title": "Apartament,",
+      "surface": 80,
+      "price": 570
+    },
+    {
+      "title": "SVN Romania Brasov: Imobil Nou",
+      "surface": 76,
+      "price": 750
+    },
+    {
+      "title": "Priveliste frumoasa",
+      "surface": 52,
+      "price": 850
+    },
+    {
+      "title": "Apartament Premium- Calea Poienii",
+      "surface": 81,
+      "price": 950
+    },
+    {
+      "title": "Apartament 3 camere 72 , Strada Carpatilor/Brasov",
+      "surface": 72,
+      "price": 600
+    },
+    {
+      "title": "Apartament 3 Camere-Urban Residence-Tractorul-Cod 4268",
+      "surface": 90,
+      "price": 780
+    },
+    {
+      "title": "Structura Generoasa",
+      "surface": 55,
+      "price": 550
+    },
+    {
+      "title": "Apartament NOU 3 camere | parcare subterana-Isaran Residence-Coresi",
+      "surface": 98,
+      "price": 950
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, 53 Mp, Modern, Decomandat, Tractorul",
+      "surface": 53,
+      "price": 519
+    },
+    {
+      "title": "Garsoniera Moderna Zona Centru",
+      "surface": 50,
+      "price": 500
+    },
+    {
+      "title": "Prima Inchiriere - Belveo - Drumul Poienii",
+      "surface": 102,
+      "price": 1450
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat zona Garii-Sala sporturilor",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "Vedere Panoramica - Mobilat Utilat",
+      "surface": 84,
+      "price": 925
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 82mp, Parcare, parter, zona Coresi",
+      "surface": 82,
+      "price": 650
+    },
+    {
+      "title": "Central - Parcare Inclusa",
+      "surface": 55,
+      "price": 550
+    },
+    {
+      "title": "Terasa Generoasa - Drumul Poienii",
+      "surface": 65,
+      "price": 800
+    },
+    {
+      "title": "Priveliste Deosebita - Belveo - Drumul Poienii",
+      "surface": 90,
+      "price": 1100
+    },
+    {
+      "title": "Prima Inchiriere - Mobilat Utilat",
+      "surface": 57,
+      "price": 550
+    },
+    {
+      "title": "Priveliste Deosebita",
+      "surface": 140,
+      "price": 1300
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 4 Camere 116mp, Parcare, et.4, lângă Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Suprafata Generoasa - Mobilat Utilat",
+      "surface": 65,
+      "price": 600
+    },
+    {
+      "title": "Ofer spre inchiriere Apartament 2 camere ,zona Avantgarden-Bartolomeu",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "Apartament 2 camere în Avantgarden3 Brasov, str. Pelicanului nr. 22",
+      "surface": 58,
+      "price": 550
+    },
+    {
+      "title": "Apartament modern închiriere imediata",
+      "surface": 80,
+      "price": 590
+    },
+    {
+      "title": "Isaran 3 camere , mobilat  , 800Euro",
+      "surface": 115,
+      "price": 800
+    },
+    {
+      "title": "Apartament 2 camere decomandat Centrul Istoric - cod 5094",
+      "surface": 65,
+      "price": 700
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat, Tractorul",
+      "surface": 55,
+      "price": 500
+    },
+    {
+      "title": "Apartament 3 camere Carpatilor, Brasov",
+      "surface": 75,
+      "price": 500
+    },
+    {
+      "title": "Apartament in Casa -  centrul Administrativ",
+      "surface": 109,
+      "price": 900
+    },
+    {
+      "title": "Apartament 2 camere mobilat utilat zona Grivitei",
+      "surface": 55,
+      "price": 390
+    },
+    {
+      "title": "Apartament cu 3 camere – Centru Istoric – Brașov",
+      "surface": 90,
+      "price": 1150
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 82mp, Parcare, et.4, lângă Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Garsoniera noua si spatioasa",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Închiriez apartament cu 2 camere decomandat- centru civic",
+      "surface": 75,
+      "price": 500
+    },
+    {
+      "title": "I OFERTA I Garsoniera moderna I Zona Astra I",
+      "surface": 32,
+      "price": 350
+    },
+    {
+      "title": "Închiriez apartament de 2 camere NOU LUX",
+      "surface": 60,
+      "price": 549
+    },
+    {
+      "title": "Garsoniera cocheta in zona centrala, Pet Friendly",
+      "surface": 37,
+      "price": 430
+    },
+    {
+      "title": "Zona Semicentrala",
+      "surface": 70,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 Camere-Avantgarden 3-Bartolomeu Nord-Cod 4267",
+      "surface": 54,
+      "price": 500
+    },
+    {
+      "title": "Zona Semicentrala",
+      "surface": 65,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 Camere, cu Priveliste Deosebita",
+      "surface": 59,
+      "price": 1000
+    },
+    {
+      "title": "Apartament modern 3 camere PET FRIENDLLY",
+      "surface": 74,
+      "price": 545
+    },
+    {
+      "title": "Coresi AVANTGARDEN -Apartament cu doua camere - open space",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Apartament de inchirat 2 camere - Zona Astra + loc de parcare",
+      "surface": 42,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere, mobilat/utilat, Urban Coresi",
+      "surface": 90,
+      "price": 780
+    },
+    {
+      "title": "Apartament de lux cu 2 camere in Centrul Brasovului",
+      "surface": 65,
+      "price": 700
+    },
+    {
+      "title": "Apartament 2 Camere în Centru Civic",
+      "surface": 60,
+      "price": 440
+    },
+    {
+      "title": "Închiriez apartament cu 3 camere decomandate zona spital judetean",
+      "surface": 72,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere in Noua",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "Apartament modern ultracentral , zona Poarta Schei",
+      "surface": 150,
+      "price": 1150
+    },
+    {
+      "title": "NOU, Prima Inchiriere",
+      "surface": 59,
+      "price": 800
+    },
+    {
+      "title": "Inchiriez Apartament 2 Camere Open Space",
+      "surface": 54,
+      "price": 550
+    },
+    {
+      "title": "Garsoniera in Zona Centrala",
+      "surface": 55,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere +loc de parcare -Astra",
+      "surface": 65,
+      "price": 600
+    },
+    {
+      "title": "Inchiriez studio ultracentral Nicolae Balcescu",
+      "surface": 25,
+      "price": 350
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat - Imperial Residence - Tractorul",
+      "surface": 60,
+      "price": 500
+    },
+    {
+      "title": "Private luxury bedrooms for Erasmus students/Camere private studenti",
+      "surface": 25,
+      "price": 150
+    },
+    {
+      "title": "Inchiriez apt 2 camere in Alphaville Racadau (langa Lidl)",
+      "surface": 55,
+      "price": 502
+    },
+    {
+      "title": "Apartament decomandat cu 2 camere I Urban Coresi",
+      "surface": 54,
+      "price": 550
+    },
+    {
+      "title": "Apartament cu 2 camere TRACTORUL - cu intrare separată pe Parter",
+      "surface": 55,
+      "price": 600
+    },
+    {
+      "title": "Garsoniera de inchiriat Brasov",
+      "surface": 28,
+      "price": 260
+    },
+    {
+      "title": "Inchiriez apartament Maurer Villas",
+      "surface": 54,
+      "price": 600
+    },
+    {
+      "title": "Inchiriez apartament 2 camere Avantgarden",
+      "surface": 54,
+      "price": 500
+    },
+    {
+      "title": "Inchiriez apartament trei camere disp:01.09.2024",
+      "surface": 70,
+      "price": 500
+    },
+    {
+      "title": "Doua dormitoare+ living +2bai+loc de parcare(poate fi sediu firma)",
+      "surface": 70,
+      "price": 800
+    },
+    {
+      "title": "Apartament 2 camere | Agriselor",
+      "surface": 56,
+      "price": 600
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 4 Camere 116mp, Parcare, et.4, lângă Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Inchiriem Apartament 2 Camere, 53 Mp, Modern, Decomandat, Tractorul",
+      "surface": 53,
+      "price": 519
+    },
+    {
+      "title": "Apartament modern cu vedere catre Tampa si loc de parcare subteran",
+      "surface": 65,
+      "price": 850
+    },
+    {
+      "title": "Garsoniera mobilata si utilata- zona Noua",
+      "surface": 32,
+      "price": 330
+    },
+    {
+      "title": "Apartament Qualis2 (poate fi sediu firma)",
+      "surface": 50,
+      "price": 800
+    },
+    {
+      "title": "Garsoniera de inchiriat str Toamnei",
+      "surface": 25,
+      "price": 300
+    },
+    {
+      "title": "Garsoniera spatioasa de inchiriat in Centrul Istoric al Brasovului",
+      "surface": 45,
+      "price": 400
+    },
+    {
+      "title": "Frumos mobilat si utilat, Urban,  Tractorul, Brasov",
+      "surface": 90,
+      "price": 780
+    },
+    {
+      "title": "Închiriez apartament 2 camere Râșnov",
+      "surface": 52,
+      "price": 550
+    },
+    {
+      "title": "Apartament nou modern mobilat Top City",
+      "surface": 55,
+      "price": 520
+    },
+    {
+      "title": "Clasa A, decomandat, incantatoare terasa, aria Coresi, Tractorul, Bras",
+      "surface": 62,
+      "price": 600
+    },
+    {
+      "title": "Apartament penthouse 3 camere, Centrul Civic",
+      "surface": 105,
+      "price": 600
+    },
+    {
+      "title": "Apartament 3 camere penthouse, Centrul Civic",
+      "surface": 98,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere + Parcare acoperita - Prima chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Apartament  2 camere centrul civic",
+      "surface": 60,
+      "price": 480
+    },
+    {
+      "title": "Primul Chiriaș! Apartament 2 Camere 93mp, Parcare, et.10, lângă Coresi",
+      "surface": 93,
+      "price": 650
+    },
+    {
+      "title": "Apartament 2 camere, Zona Afi, Modern Mobilat",
+      "surface": 73,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere, decomandat, aria Coresi, Tractorul, Brasov.",
+      "surface": 52,
+      "price": 550
+    },
+    {
+      "title": "Apartament 3 Camere-Liviu Cornel Babes-Astra-4188",
+      "surface": 70,
+      "price": 600
+    },
+    {
+      "title": "Apartament 2 camere Schei Brasov",
+      "surface": 80,
+      "price": 600
+    },
+    {
+      "title": "Studio cochet+boxa, Avantgarden short/long term, pet friendly",
+      "surface": 40,
+      "price": 510
+    },
+    {
+      "title": "Garsoniera-Mihai Viteazul-Zona Grivitei-Cod 4265",
+      "surface": 30,
+      "price": 350
+    },
+    {
+      "title": "Apartament modern de inchiriat, 2 camere, zona Coresi",
+      "surface": 52,
+      "price": 550
+    },
+    {
+      "title": "Inchiriez apartament 3 camere pe drumul Poieni",
+      "surface": 90,
+      "price": 1300
+    },
+    {
+      "title": "Exclusiv inchiriere 2 camere decomandat Alphaville Arena",
+      "surface": 58,
+      "price": 550
+    },
+    {
+      "title": "Racadau 2 camere",
+      "surface": 58,
+      "price": 400
+    },
+    {
+      "title": "Apartament Nou | 2 camere - Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Coresi AVANTGARDEN -Apartament cu doua camere - open space",
+      "surface": 65,
+      "price": 550
+    },
+    {
+      "title": "Ap 2 camere mobilat-utilat LUX - zona Grivitei",
+      "surface": 54,
+      "price": 750
+    },
+    {
+      "title": "Apartament mobilat / utilat zona Garii",
+      "surface": 50,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere - str. Zizinului",
+      "surface": 54,
+      "price": 450
+    },
+    {
+      "title": "I OFERTA I Apartament 2 camere I Zona Astra I",
+      "surface": 48,
+      "price": 400
+    },
+    {
+      "title": "Garsoniera ultracentral, pe strada Postavarului",
+      "surface": 40,
+      "price": 400
+    },
+    {
+      "title": "Apartament Coresi",
+      "surface": 52,
+      "price": 550
+    },
+    {
+      "title": "Apartament Ultracentral cu 3 camere, Petfriendly - REPUBLICII",
+      "surface": 85,
+      "price": 900
+    },
+    {
+      "title": "Apartament 2 camere , Maurer Tractorul , mobilat complet",
+      "surface": 60,
+      "price": 600
+    },
+    {
+      "title": "Apartament Nou | 2 camere | 2 bai - Isaran Residence - Coresi",
+      "surface": 90,
+      "price": 650
+    },
+    {
+      "title": "Apartament Nou | 2 camere | 2 bai - Isaran Residence - Coresi",
+      "surface": 83,
+      "price": 650
+    },
+    {
+      "title": "Private luxury bedrooms for Erasmus students/Camere private studenti",
+      "surface": 25,
+      "price": 150
+    },
+    {
+      "title": "Apartament NOU 3 camere | parcare subterana-Isaran Residence-Coresi",
+      "surface": 98,
+      "price": 950
+    },
+    {
+      "title": "Ap 2 Cam Lux + Parcare Acoperita - Prima Chirie - Tractorul",
+      "surface": 57,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu 3 dormitoare|parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Apartament NOU,4 camere | parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    },
+    {
+      "title": "Apartament superb, zona Centru Civic",
+      "surface": 125,
+      "price": 1300
+    },
+    {
+      "title": "Apartament NOU,4 camere | parcare subterana-Isaran Residence-Coresi",
+      "surface": 116,
+      "price": 1200
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bucuresti",
+  "apartments": [
+    {
+      "title": "Închiriere apartament două camere, Aviatiei / Herastrau",
+      "surface": 65,
+      "price": 850
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "caransebes",
+  "apartments": [
+    {
+      "title": "De inchiriat apartament cu 2 camere",
+      "surface": 52,
+      "price": 201
+    },
+    {
+      "title": "Inchiriez apartament",
+      "surface": 60,
+      "price": 220
+    },
+    {
+      "title": "Inchiriez apartament 2 camere in Caransebes",
+      "surface": 50,
+      "price": 200
+    },
+    {
+      "title": "Inchirez apartamente / garsoniere cu parcare privata in Caransebeș",
+      "surface": 30,
+      "price": 150
+    },
+    {
+      "title": "Închiriez apartament 3 camere.",
+      "surface": 70,
+      "price": 280
+    },
+    {
+      "title": "Inchiriez apartament doua camere zona centrala caransebes",
+      "surface": 54,
+      "price": 250
+    },
+    {
+      "title": "Apartament de inchiriat",
+      "surface": 55,
+      "price": 250
+    }
+  ]
+}

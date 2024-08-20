@@ -1,0 +1,15 @@
+{
+  "name": "predeal",
+  "apartments": [
+    {
+      "title": "Predeal, apartament 3 camere mobilat",
+      "surface": 63,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere de inchiriat",
+      "surface": 60,
+      "price": 280
+    }
+  ]
+}

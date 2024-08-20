@@ -1,0 +1,45 @@
+{
+  "name": "berceni",
+  "apartments": [
+    {
+      "title": "Apartament 2 camere,totul nou, prima inchiriere, grand kristal,parcare",
+      "surface": 64,
+      "price": 450
+    },
+    {
+      "title": "Apartament in vila si cota de teren de 400mp, comuna Berceni",
+      "surface": 141,
+      "price": 948
+    },
+    {
+      "title": "Inchiriez apart 2 camere mobilat , parter zona foarte bună  Big Bercen",
+      "surface": 55,
+      "price": 400
+    },
+    {
+      "title": "Particular inchiriez camera",
+      "surface": 70,
+      "price": 161
+    },
+    {
+      "title": "Inchiriere apartament 2 camere Aviatiei eliberabil dupa 1 septembri",
+      "surface": 56,
+      "price": 500
+    },
+    {
+      "title": "Închiriez apartament cu două camere",
+      "surface": 65,
+      "price": 480
+    },
+    {
+      "title": "Apartament de inchiriat",
+      "surface": 45,
+      "price": 301
+    },
+    {
+      "title": "Inchiriez apartament",
+      "surface": 55,
+      "price": 400
+    }
+  ]
+}

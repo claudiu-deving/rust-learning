@@ -1,0 +1,15 @@
+{
+  "name": "balotesti",
+  "apartments": [
+    {
+      "title": "Inchiriez Camere",
+      "surface": 100,
+      "price": 171
+    },
+    {
+      "title": "Închiriez apartament 2 camere 94 mp Prelungirea Ghencea - București",
+      "surface": 94,
+      "price": 402
+    }
+  ]
+}

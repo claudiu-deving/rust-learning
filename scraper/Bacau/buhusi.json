@@ -1,0 +1,10 @@
+{
+  "name": "buhusi",
+  "apartments": [
+    {
+      "title": "Inchiriez apartament pozitie centrala",
+      "surface": 60,
+      "price": 320
+    }
+  ]
+}

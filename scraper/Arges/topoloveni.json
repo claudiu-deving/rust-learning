@@ -1,0 +1,10 @@
+{
+  "name": "topoloveni",
+  "apartments": [
+    {
+      "title": "Închiriez apartament cu 2 camere",
+      "surface": 55,
+      "price": 300
+    }
+  ]
+}

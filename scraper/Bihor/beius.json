@@ -1,0 +1,20 @@
+{
+  "name": "beius",
+  "apartments": [
+    {
+      "title": "De inchiriat in BEIUS apartament 3 camere DIN DATA 1/10/2024",
+      "surface": 75,
+      "price": 250
+    },
+    {
+      "title": "Apartament cu 3 camere de anchiriat Beius",
+      "surface": 65,
+      "price": 251
+    },
+    {
+      "title": "Apartament 2 camere central",
+      "surface": 50,
+      "price": 170
+    }
+  ]
+}

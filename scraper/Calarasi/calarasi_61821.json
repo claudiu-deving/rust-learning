@@ -1,0 +1,35 @@
+{
+  "name": "calarasi_61821",
+  "apartments": [
+    {
+      "title": "Garsoniera de vanzare",
+      "surface": 27,
+      "price": 200
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat",
+      "surface": 52,
+      "price": 332
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 30,
+      "price": 200
+    },
+    {
+      "title": "Ofer spre inchiriere apartament 4 camere",
+      "surface": 80,
+      "price": 402
+    },
+    {
+      "title": "Apartament 3 camere, 2 bai, 2 balcoane",
+      "surface": 70,
+      "price": 502
+    },
+    {
+      "title": "Nu mai este de actualitate",
+      "surface": 53,
+      "price": 261
+    }
+  ]
+}

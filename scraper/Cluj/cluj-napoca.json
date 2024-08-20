@@ -1,0 +1,10 @@
+{
+  "name": "cluj-napoca",
+  "apartments": [
+    {
+      "title": "Apartament tip studio de inchiriat in bloc nou!",
+      "surface": 51,
+      "price": 500
+    }
+  ]
+}

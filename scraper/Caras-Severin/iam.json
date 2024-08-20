@@ -1,0 +1,10 @@
+{
+  "name": "iam",
+  "apartments": [
+    {
+      "title": "Apartament Spatios cu 3 Camere",
+      "surface": 80,
+      "price": 549
+    }
+  ]
+}

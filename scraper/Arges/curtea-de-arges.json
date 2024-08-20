@@ -1,0 +1,50 @@
+{
+  "name": "curtea-de-arges",
+  "apartments": [
+    {
+      "title": "închiriez apartament curtea de arges",
+      "surface": 53,
+      "price": 181
+    },
+    {
+      "title": "Închiriez apart. dec. cu 2 camere,in zona Vlaicu Voda. .",
+      "surface": 55,
+      "price": 251
+    },
+    {
+      "title": "Apartament de închiriat",
+      "surface": 40,
+      "price": 201
+    },
+    {
+      "title": "Închiriez apartament cu 2 camere decomandat",
+      "surface": 64,
+      "price": 300
+    },
+    {
+      "title": "Apartament de închiriat",
+      "surface": 65,
+      "price": 301
+    },
+    {
+      "title": "Chirie apartament 3 camere Curtea de Argeș",
+      "surface": 70,
+      "price": 402
+    },
+    {
+      "title": "Inchiriez apartament  3 cam. pe termen lung sau in regim hotelier",
+      "surface": 78,
+      "price": 400
+    },
+    {
+      "title": "Închiriez garsonieră",
+      "surface": 38,
+      "price": 240
+    },
+    {
+      "title": "ap.2 camere ultracentral in Curtea de Arges de inchiriat",
+      "surface": 58,
+      "price": 335
+    }
+  ]
+}

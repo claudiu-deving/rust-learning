@@ -1,0 +1,215 @@
+{
+  "name": "botosani",
+  "apartments": [
+    {
+      "title": "Apartament 2 camere zona Bazar",
+      "surface": 48,
+      "price": 320
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 27,
+      "price": 200
+    },
+    {
+      "title": "Inchiriez 1 cameră în zona Casei Sindicatelor-Liceul Laurian",
+      "surface": 100,
+      "price": 120
+    },
+    {
+      "title": "Inchiriez apartament 2 camere",
+      "surface": 54,
+      "price": 300
+    },
+    {
+      "title": "3 Camere | Mobilat modern | CT | Zona llinistita |",
+      "surface": 70,
+      "price": 500
+    },
+    {
+      "title": "Apartament cu 3 camere-Bld Mihai Eminescu",
+      "surface": 70,
+      "price": 500
+    },
+    {
+      "title": "De inchiriat apartament cu 3 camere zona Unirii",
+      "surface": 55,
+      "price": 360
+    },
+    {
+      "title": "Închiriez apartament cu 3 camere mobilat,decomandat zona centrală ,lîn",
+      "surface": 80,
+      "price": 280
+    },
+    {
+      "title": "Apartament 3 camere, bloc tip viluta, zona Bulevardul Mihai Eminescu",
+      "surface": 75,
+      "price": 500
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 27,
+      "price": 281
+    },
+    {
+      "title": "Apartament de închiriat",
+      "surface": 85,
+      "price": 450
+    },
+    {
+      "title": "Apartament 3 camere etaj 2 zona Bazar",
+      "surface": 80,
+      "price": 350
+    },
+    {
+      "title": "Spre inchiriere apartament 2 camere - se accepta doar eleve",
+      "surface": 50,
+      "price": 250
+    },
+    {
+      "title": "Apartament 2 camere,Etaj 4,Octav Bancile 1",
+      "surface": 40,
+      "price": 5150
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat in Bloc Nou, Zona ultracentrala",
+      "surface": 65,
+      "price": 500
+    },
+    {
+      "title": "Primesc in gazda la apartament",
+      "surface": 25,
+      "price": 121
+    },
+    {
+      "title": "Inchiriez garsoniera zona centrala",
+      "surface": 31,
+      "price": 300
+    },
+    {
+      "title": "Închiriez apartament 2 camere primăveri,capătul 1",
+      "surface": 53,
+      "price": 200
+    },
+    {
+      "title": "Primesc în gazdă elevi",
+      "surface": 70,
+      "price": 131
+    },
+    {
+      "title": "Garsoniera complet mobilata și utilată",
+      "surface": 28,
+      "price": 240
+    },
+    {
+      "title": "Apartament cu 2 camere mobilat si utilat",
+      "surface": 70,
+      "price": 400
+    },
+    {
+      "title": "Apartament 2 camere bloc nou zona ultracentrala",
+      "surface": 60,
+      "price": 500
+    },
+    {
+      "title": "Închiriez apartament cu două camere semidecomandat , etaj 3.",
+      "surface": 40,
+      "price": 350
+    },
+    {
+      "title": "Garsoniera ,Botosani",
+      "surface": 27,
+      "price": 241
+    },
+    {
+      "title": "RECO Apartament la casa premium de inchiriat, Oradea",
+      "surface": 120,
+      "price": 700
+    },
+    {
+      "title": "CHIRIE!!! Apartament 3 camere zona Liceului Electrocontact, etaj 5",
+      "surface": 65,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere Piata Mare",
+      "surface": 55,
+      "price": 250
+    },
+    {
+      "title": "Apartament 2 camere zona Bazar",
+      "surface": 48,
+      "price": 320
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 27,
+      "price": 200
+    },
+    {
+      "title": "Inchiriez 1 cameră în zona Casei Sindicatelor-Liceul Laurian",
+      "surface": 100,
+      "price": 120
+    },
+    {
+      "title": "Inchiriez apartament 2 camere",
+      "surface": 54,
+      "price": 300
+    },
+    {
+      "title": "3 Camere | Mobilat modern | CT | Zona llinistita |",
+      "surface": 70,
+      "price": 500
+    },
+    {
+      "title": "Apartament cu 3 camere-Bld Mihai Eminescu",
+      "surface": 70,
+      "price": 500
+    },
+    {
+      "title": "De inchiriat apartament cu 3 camere zona Unirii",
+      "surface": 55,
+      "price": 360
+    },
+    {
+      "title": "Închiriez apartament cu 3 camere mobilat,decomandat zona centrală ,lîn",
+      "surface": 80,
+      "price": 280
+    },
+    {
+      "title": "Apartament 3 camere, bloc tip viluta, zona Bulevardul Mihai Eminescu",
+      "surface": 75,
+      "price": 500
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 27,
+      "price": 281
+    },
+    {
+      "title": "Apartament de închiriat",
+      "surface": 85,
+      "price": 450
+    },
+    {
+      "title": "Apartament 3 camere etaj 2 zona Bazar",
+      "surface": 80,
+      "price": 350
+    },
+    {
+      "title": "Spre inchiriere apartament 2 camere - se accepta doar eleve",
+      "surface": 50,
+      "price": 250
+    },
+    {
+      "title": "Apartament 2 camere,Etaj 4,Octav Bancile 1",
+      "surface": 40,
+      "price": 5150
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat in Bloc Nou, Zona ultracentrala",
+      "surface": 65,
+      "price": 500
+    }
+  ]
+}

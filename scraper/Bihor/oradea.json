@@ -1,0 +1,325 @@
+{
+  "name": "oradea",
+  "apartments": [
+    {
+      "title": "Apartament de inchiriat, 2 camere, Prima Onestilor",
+      "surface": 50,
+      "price": 500
+    },
+    {
+      "title": "Dau in chirie apartament 2 dormitoare, ultracentral, 550 Euro/luna",
+      "surface": 67,
+      "price": 550
+    },
+    {
+      "title": "Apartament lux trei camere ,str Ceyrat",
+      "surface": 72,
+      "price": 800
+    },
+    {
+      "title": "Chirie Garsonieră zona Sovata după 1 Iunie",
+      "surface": 20,
+      "price": 181
+    },
+    {
+      "title": "Apartament de închiriat cu 2 camere în Prima Oneștilor, Oradea",
+      "surface": 58,
+      "price": 550
+    },
+    {
+      "title": "Apartament cu 2 camere, Prima Onestilor. Parcare privata&nbsp;langa&nbsp;intrare",
+      "surface": 41,
+      "price": 500
+    },
+    {
+      "title": "Apartament de inchiriat, 2 camere, decomandat, Nufarul - Prima, Oradea",
+      "surface": 50,
+      "price": 400
+    },
+    {
+      "title": "Apartament Ultracentral 4 camere, rezidential sau birou",
+      "surface": 87,
+      "price": 800
+    },
+    {
+      "title": "3 camere, etaj 1, in blocul cu Mega Image, langa Spitalul Judetean",
+      "surface": 70,
+      "price": 650
+    },
+    {
+      "title": "Dau în chirie garsonieră.",
+      "surface": 27,
+      "price": 170
+    },
+    {
+      "title": "Închiriez apartament cu 2 doua camere Rogerius et 2 parcare domiciliu",
+      "surface": 44,
+      "price": 300
+    },
+    {
+      "title": "Apartament PREMIUM cu 3 camere de inchiriat in ORADEA - WEST RESIDENCE",
+      "surface": 72,
+      "price": 800
+    },
+    {
+      "title": "De Inchiriat Apart 3 camere, decomandat Odobescu, Oradea",
+      "surface": 80,
+      "price": 300
+    },
+    {
+      "title": "Apartament lux cu 2 camere de inchiriat ultracentral, Oradea",
+      "surface": 60,
+      "price": 700
+    },
+    {
+      "title": "Apartament cu 3 camere de închiriat in cartierul Luceafărul, Oradea",
+      "surface": 100,
+      "price": 950
+    },
+    {
+      "title": "De Închiriat: Apartament Ultracentral în Piața Unirii",
+      "surface": 67,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu 3 camere de inchiriat, zona Centrala Oradea",
+      "surface": 100,
+      "price": 360
+    },
+    {
+      "title": "Apartament 2 Camere | De Inchiriat | Eas - Stefan Zweig",
+      "surface": 59,
+      "price": 530
+    },
+    {
+      "title": "Spre inchiriere, apartament cu 2 camere, pe Calea Borșului !",
+      "surface": 42,
+      "price": 340
+    },
+    {
+      "title": "De inchiriat apartament 2 camere Prima Onestilor",
+      "surface": 57,
+      "price": 430
+    },
+    {
+      "title": "Apartament 2 Camere | De Inchiriat | Eas - Stefan Zweig",
+      "surface": 53,
+      "price": 505
+    },
+    {
+      "title": "Inchiriez Ap 2 camere Victoria Residence",
+      "surface": 45,
+      "price": 425
+    },
+    {
+      "title": "Inchiriez apartament Prima-Decebal-Onestilor",
+      "surface": 54,
+      "price": 430
+    },
+    {
+      "title": "Dau in chirie apartament 3 camere, etaj 1, Decebal",
+      "surface": 80,
+      "price": 450
+    },
+    {
+      "title": "Apartament de inchiriat 2 camere, zona Cantemir,  Oradea",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Apartament de inchiriat,2 camere,Oradea",
+      "surface": 40,
+      "price": 370
+    },
+    {
+      "title": "De inchiriat Ap 3 camere",
+      "surface": 110,
+      "price": 500
+    },
+    {
+      "title": "garsoniera de inchiriat",
+      "surface": 24,
+      "price": 201
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat in Luceafarul Oradea",
+      "surface": 43,
+      "price": 350
+    },
+    {
+      "title": "Garsoniera de inchiriat pe strada Aluminei, Rogerius",
+      "surface": 32,
+      "price": 250
+    },
+    {
+      "title": "Gaminvest-Apartament 3 camere de inchiriat ultracentral, Oradea V2711B",
+      "surface": 58,
+      "price": 450
+    },
+    {
+      "title": "Apartament, 3 camere, de inchiriat, in Decebal-Dacia",
+      "surface": 74,
+      "price": 300
+    },
+    {
+      "title": "Apartament de inchiriat, 2 camere, Prima Onestilor",
+      "surface": 50,
+      "price": 500
+    },
+    {
+      "title": "Dau in chirie apartament 2 dormitoare, ultracentral, 550 Euro/luna",
+      "surface": 67,
+      "price": 550
+    },
+    {
+      "title": "Apartament lux trei camere ,str Ceyrat",
+      "surface": 72,
+      "price": 800
+    },
+    {
+      "title": "Chirie Garsonieră zona Sovata după 1 Iunie",
+      "surface": 20,
+      "price": 181
+    },
+    {
+      "title": "Apartament de închiriat cu 2 camere în Prima Oneștilor, Oradea",
+      "surface": 58,
+      "price": 550
+    },
+    {
+      "title": "Apartament cu 2 camere, Prima Onestilor. Parcare privata&nbsp;langa&nbsp;intrare",
+      "surface": 41,
+      "price": 500
+    },
+    {
+      "title": "Apartament de inchiriat, 2 camere, decomandat, Nufarul - Prima, Oradea",
+      "surface": 50,
+      "price": 400
+    },
+    {
+      "title": "Apartament Ultracentral 4 camere, rezidential sau birou",
+      "surface": 87,
+      "price": 800
+    },
+    {
+      "title": "3 camere, etaj 1, in blocul cu Mega Image, langa Spitalul Judetean",
+      "surface": 70,
+      "price": 650
+    },
+    {
+      "title": "Dau în chirie garsonieră.",
+      "surface": 27,
+      "price": 170
+    },
+    {
+      "title": "Închiriez apartament cu 2 doua camere Rogerius et 2 parcare domiciliu",
+      "surface": 44,
+      "price": 300
+    },
+    {
+      "title": "Apartament PREMIUM cu 3 camere de inchiriat in ORADEA - WEST RESIDENCE",
+      "surface": 72,
+      "price": 800
+    },
+    {
+      "title": "De Inchiriat Apart 3 camere, decomandat Odobescu, Oradea",
+      "surface": 80,
+      "price": 300
+    },
+    {
+      "title": "Apartament lux cu 2 camere de inchiriat ultracentral, Oradea",
+      "surface": 60,
+      "price": 700
+    },
+    {
+      "title": "Apartament cu 3 camere de închiriat in cartierul Luceafărul, Oradea",
+      "surface": 100,
+      "price": 950
+    },
+    {
+      "title": "De Închiriat: Apartament Ultracentral în Piața Unirii",
+      "surface": 67,
+      "price": 600
+    },
+    {
+      "title": "Apartament cu 3 camere de inchiriat, zona Centrala Oradea",
+      "surface": 100,
+      "price": 360
+    },
+    {
+      "title": "Apartament 2 Camere | De Inchiriat | Eas - Stefan Zweig",
+      "surface": 59,
+      "price": 530
+    },
+    {
+      "title": "Spre inchiriere, apartament cu 2 camere, pe Calea Borșului !",
+      "surface": 42,
+      "price": 340
+    },
+    {
+      "title": "De inchiriat apartament 2 camere Prima Onestilor",
+      "surface": 57,
+      "price": 430
+    },
+    {
+      "title": "Apartament 2 Camere | De Inchiriat | Eas - Stefan Zweig",
+      "surface": 53,
+      "price": 505
+    },
+    {
+      "title": "Inchiriez Ap 2 camere Victoria Residence",
+      "surface": 45,
+      "price": 425
+    },
+    {
+      "title": "Inchiriez apartament Prima-Decebal-Onestilor",
+      "surface": 54,
+      "price": 430
+    },
+    {
+      "title": "Dau in chirie apartament 3 camere, etaj 1, Decebal",
+      "surface": 80,
+      "price": 450
+    },
+    {
+      "title": "Apartament de inchiriat 2 camere, zona Cantemir,  Oradea",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Apartament de inchiriat,2 camere,Oradea",
+      "surface": 40,
+      "price": 370
+    },
+    {
+      "title": "De inchiriat Ap 3 camere",
+      "surface": 110,
+      "price": 500
+    },
+    {
+      "title": "garsoniera de inchiriat",
+      "surface": 24,
+      "price": 201
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat in Luceafarul Oradea",
+      "surface": 43,
+      "price": 350
+    },
+    {
+      "title": "Garsoniera de inchiriat pe strada Aluminei, Rogerius",
+      "surface": 32,
+      "price": 250
+    },
+    {
+      "title": "Gaminvest-Apartament 3 camere de inchiriat ultracentral, Oradea V2711B",
+      "surface": 58,
+      "price": 450
+    },
+    {
+      "title": "Apartament, 3 camere, de inchiriat, in Decebal-Dacia",
+      "surface": 74,
+      "price": 300
+    }
+  ]
+}

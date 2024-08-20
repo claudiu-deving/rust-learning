@@ -1,0 +1,10 @@
+{
+  "name": "chitila",
+  "apartments": [
+    {
+      "title": "Casa de inchiriat Chitila",
+      "surface": 180,
+      "price": 1500
+    }
+  ]
+}

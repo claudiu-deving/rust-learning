@@ -1,0 +1,25 @@
+{
+  "name": "gherla",
+  "apartments": [
+    {
+      "title": "Apartament de inchiriat",
+      "surface": 48,
+      "price": 201
+    },
+    {
+      "title": "Inchiriez apartament",
+      "surface": 35,
+      "price": 261
+    },
+    {
+      "title": "Apartament de inchiriat",
+      "surface": 60,
+      "price": 261
+    },
+    {
+      "title": "Apartament de inchiriat",
+      "surface": 68,
+      "price": 261
+    }
+  ]
+}

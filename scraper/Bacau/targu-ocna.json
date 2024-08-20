@@ -1,0 +1,10 @@
+{
+  "name": "targu-ocna",
+  "apartments": [
+    {
+      "title": "Apartament 3 camere de inchiriat",
+      "surface": 90,
+      "price": 400
+    }
+  ]
+}

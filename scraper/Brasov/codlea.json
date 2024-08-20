@@ -1,0 +1,35 @@
+{
+  "name": "codlea",
+  "apartments": [
+    {
+      "title": "Apartament de închiriat",
+      "surface": 48,
+      "price": 280
+    },
+    {
+      "title": "Apartament 2 camere",
+      "surface": 55,
+      "price": 321
+    },
+    {
+      "title": "Apartament 2 camere, de inchiriat, Codlea!",
+      "surface": 55,
+      "price": 400
+    },
+    {
+      "title": "Codlea- Ofer spre inchiriere spatiu ideal salon/cabinet/ birou, 2 cam",
+      "surface": 42,
+      "price": 330
+    },
+    {
+      "title": "Inchiriez spatiu 50m2 ultracentral",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "Spatiu comercial/birou ,De inchiriat Codlea",
+      "surface": 47,
+      "price": 370
+    }
+  ]
+}

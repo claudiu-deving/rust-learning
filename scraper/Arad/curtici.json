@@ -1,0 +1,15 @@
+{
+  "name": "curtici",
+  "apartments": [
+    {
+      "title": "Inchiriez ap.2 camere zona Uta, izolat termic, bloc cu Lift.",
+      "surface": 50,
+      "price": 200
+    },
+    {
+      "title": "Închiriez garsoniera",
+      "surface": 34,
+      "price": 150
+    }
+  ]
+}

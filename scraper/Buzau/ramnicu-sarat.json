@@ -1,0 +1,10 @@
+{
+  "name": "ramnicu-sarat",
+  "apartments": [
+    {
+      "title": "Închiriez apartament",
+      "surface": 57,
+      "price": 300
+    }
+  ]
+}

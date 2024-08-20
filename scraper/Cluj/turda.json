@@ -1,0 +1,155 @@
+{
+  "name": "turda",
+  "apartments": [
+    {
+      "title": "Garsonieră de închiriat",
+      "surface": 28,
+      "price": 241
+    },
+    {
+      "title": "Inchiriez apartament",
+      "surface": 48,
+      "price": 350
+    },
+    {
+      "title": "Închiriez apartament cu o camera",
+      "surface": 30,
+      "price": 200
+    },
+    {
+      "title": ". Dau in chirie ap 2 cam, Centru Istoric Turda,incepand cu 01.09.2024.",
+      "surface": 48,
+      "price": 362
+    },
+    {
+      "title": "Închiriez apartament cu 3 camere în Turda",
+      "surface": 70,
+      "price": 500
+    },
+    {
+      "title": "Apartament de inchiriat in Smarald Residence",
+      "surface": 50,
+      "price": 325
+    },
+    {
+      "title": "Chirie Turda Centru - Apartament 1 camera",
+      "surface": 38,
+      "price": 291
+    },
+    {
+      "title": "Apartament de închiriat",
+      "surface": 48,
+      "price": 280
+    },
+    {
+      "title": "Inchiriez apartament",
+      "surface": 42,
+      "price": 201
+    },
+    {
+      "title": "Inchiriez apartament 2 camere",
+      "surface": 50,
+      "price": 241
+    },
+    {
+      "title": "Inchiriez apartament cu 1 camera la Materna",
+      "surface": 37,
+      "price": 241
+    },
+    {
+      "title": "Închiriez apartament cu 2 camere",
+      "surface": 48,
+      "price": 241
+    },
+    {
+      "title": "De inchiriat apartament cu 2 camere",
+      "surface": 40,
+      "price": 220
+    },
+    {
+      "title": "Închiriez Apartament 4 camere",
+      "surface": 78,
+      "price": 380
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 30,
+      "price": 301
+    },
+    {
+      "title": "Garsoniera de inchiriat la casa",
+      "surface": 22,
+      "price": 120
+    },
+    {
+      "title": "Închiriez garsonieră zona Micro 1",
+      "surface": 27,
+      "price": 201
+    },
+    {
+      "title": "Apartament cu două camere pentru chirie",
+      "surface": 36,
+      "price": 281
+    },
+    {
+      "title": "Inchiriez apartament 2 camere zona centrala",
+      "surface": 50,
+      "price": 350
+    },
+    {
+      "title": "Apartament cu 3 camere, Turda",
+      "surface": 80,
+      "price": 450
+    },
+    {
+      "title": "Inchiriere 2 camere, Turda, ultracentral, demisol inalt, clasic",
+      "surface": 42,
+      "price": 270
+    },
+    {
+      "title": "Inchiriez apartament 3 camere",
+      "surface": 60,
+      "price": 452
+    },
+    {
+      "title": "Închiriez apartament 3 camere Decomandat",
+      "surface": 65,
+      "price": 500
+    },
+    {
+      "title": "Închiriez ap 2 camere",
+      "surface": 56,
+      "price": 300
+    },
+    {
+      "title": "Garsoniera de inchiriat",
+      "surface": 28,
+      "price": 250
+    },
+    {
+      "title": "Inchiriez apartament 3 camere in centru",
+      "surface": 70,
+      "price": 500
+    },
+    {
+      "title": "Inchiriez apartament",
+      "surface": 57,
+      "price": 400
+    },
+    {
+      "title": "De închiriat ap. cu 2 camere",
+      "surface": 44,
+      "price": 321
+    },
+    {
+      "title": "Închiriez apartament 2 camere, Turda, zona Micro 2, Materna",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat Turda",
+      "surface": 50,
+      "price": 300
+    }
+  ]
+}

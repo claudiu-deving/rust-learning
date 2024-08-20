@@ -1,0 +1,1010 @@
+{
+  "name": "bacau",
+  "apartments": [
+    {
+      "title": "Apartament 2 camere, mobilat complet, utilat , zona catedrala catolica",
+      "surface": 60,
+      "price": 321
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat strada Prieteniei",
+      "surface": 50,
+      "price": 280
+    },
+    {
+      "title": "Apartament cu 2 camere  de ichiriat, strada Prieteniei",
+      "surface": 50,
+      "price": 280
+    },
+    {
+      "title": "Zona Nord, 2 camere decomandate, modern si spatios, cod CE 242",
+      "surface": 55,
+      "price": 280
+    },
+    {
+      "title": "Închiriez apartament birouri - 3 camere 54 mp UTILI",
+      "surface": 54,
+      "price": 400
+    },
+    {
+      "title": "Inchiriez 3 camere Parcul Catedralei",
+      "surface": 80,
+      "price": 320
+    },
+    {
+      "title": "Apartament modern, 3 camere, Bistrita Lac, Cod CE 970",
+      "surface": 65,
+      "price": 350
+    },
+    {
+      "title": "Inchiriez apartament 3 camere zona Arena Mall",
+      "surface": 81,
+      "price": 550
+    },
+    {
+      "title": "Apartament cu 3 camere de inchiriat - Bacau",
+      "surface": 65,
+      "price": 349
+    },
+    {
+      "title": "Ultracentral, 2 camere, modern, Cod ag CE 102",
+      "surface": 50,
+      "price": 300
+    },
+    {
+      "title": "Aleea Parcului-Teatru de Vara utilat mobilat",
+      "surface": 45,
+      "price": 250
+    },
+    {
+      "title": "Apartament 3 camere, parter cu balcon, zona Mioritei",
+      "surface": 50,
+      "price": 220
+    },
+    {
+      "title": "Unirii - bloc CEC - apartament mobilat - etajul 2",
+      "surface": 68,
+      "price": 350
+    },
+    {
+      "title": "Zona Mioritei , 2 camere MOBILAT si UTILAT, cod CE 56",
+      "surface": 50,
+      "price": 280
+    },
+    {
+      "title": "Apartament cu 3 camere de închiriat strada Carpati, Parter",
+      "surface": 70,
+      "price": 280
+    },
+    {
+      "title": "Inchiriez apartament 2 camere",
+      "surface": 65,
+      "price": 392
+    },
+    {
+      "title": "De inchiriat garsoniera confort 1,mobilata utilata, CURATA, zona URA",
+      "surface": 30,
+      "price": 240
+    },
+    {
+      "title": "Bacau, apartament in centru , mobilat si utilat, 1500 lei",
+      "surface": 46,
+      "price": 301
+    },
+    {
+      "title": "Inchiriere doua camere decomandat George Bacovia",
+      "surface": 55,
+      "price": 221
+    },
+    {
+      "title": "Apartament cu 2 camere decomandat pe Aviatorilor 31",
+      "surface": 55,
+      "price": 250
+    },
+    {
+      "title": "Inchiriez apartament 2 camere",
+      "surface": 54,
+      "price": 250
+    },
+    {
+      "title": "Complexul Elisa ,2 camere decomandate , 58 mp, et 1 , lux, parcare",
+      "surface": 58,
+      "price": 380
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat/ZONA CENTRALA /BLOC NOU",
+      "surface": 46,
+      "price": 440
+    },
+    {
+      "title": "2 camere, elegant, zona Republicii",
+      "surface": 52,
+      "price": 300
+    },
+    {
+      "title": "Apartament de închiriat 3 camere zona centrala",
+      "surface": 60,
+      "price": 349
+    },
+    {
+      "title": "Închiriez 3 camere decomandate,  2 băi",
+      "surface": 76,
+      "price": 350
+    },
+    {
+      "title": "Apartament 3 camere, complex Rezidențial.",
+      "surface": 100,
+      "price": 370
+    },
+    {
+      "title": "Apartament 2 camere, bloc nou, Vadul Bistritei Bacau",
+      "surface": 44,
+      "price": 370
+    },
+    {
+      "title": "Apartament 3 camere decomandat",
+      "surface": 75,
+      "price": 402
+    },
+    {
+      "title": "Închiriez ap cu loc de parcare Colina Măgurii",
+      "surface": 47,
+      "price": 281
+    },
+    {
+      "title": "Închiriez apartament 2 camere",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Apartament 3 camere, 80 mp, zona Ultracentrala",
+      "surface": 80,
+      "price": 479
+    },
+    {
+      "title": "Garsoniera de inchiriat | Mobilat si utilat | AC, Central, Bacau",
+      "surface": 40,
+      "price": 280
+    },
+    {
+      "title": "Apartament 2 camere, mobilat complet, utilat , zona catedrala catolica",
+      "surface": 60,
+      "price": 321
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat strada Prieteniei",
+      "surface": 50,
+      "price": 280
+    },
+    {
+      "title": "Apartament cu 2 camere  de ichiriat, strada Prieteniei",
+      "surface": 50,
+      "price": 280
+    },
+    {
+      "title": "Zona Nord, 2 camere decomandate, modern si spatios, cod CE 242",
+      "surface": 55,
+      "price": 280
+    },
+    {
+      "title": "Închiriez apartament birouri - 3 camere 54 mp UTILI",
+      "surface": 54,
+      "price": 400
+    },
+    {
+      "title": "Inchiriez 3 camere Parcul Catedralei",
+      "surface": 80,
+      "price": 320
+    },
+    {
+      "title": "Apartament modern, 3 camere, Bistrita Lac, Cod CE 970",
+      "surface": 65,
+      "price": 350
+    },
+    {
+      "title": "Inchiriez apartament 3 camere zona Arena Mall",
+      "surface": 81,
+      "price": 550
+    },
+    {
+      "title": "Apartament cu 3 camere de inchiriat - Bacau",
+      "surface": 65,
+      "price": 349
+    },
+    {
+      "title": "Ultracentral, 2 camere, modern, Cod ag CE 102",
+      "surface": 50,
+      "price": 300
+    },
+    {
+      "title": "Aleea Parcului-Teatru de Vara utilat mobilat",
+      "surface": 45,
+      "price": 250
+    },
+    {
+      "title": "Apartament 3 camere, parter cu balcon, zona Mioritei",
+      "surface": 50,
+      "price": 220
+    },
+    {
+      "title": "Unirii - bloc CEC - apartament mobilat - etajul 2",
+      "surface": 68,
+      "price": 350
+    },
+    {
+      "title": "Zona Mioritei , 2 camere MOBILAT si UTILAT, cod CE 56",
+      "surface": 50,
+      "price": 280
+    },
+    {
+      "title": "Apartament cu 3 camere de închiriat strada Carpati, Parter",
+      "surface": 70,
+      "price": 280
+    },
+    {
+      "title": "Inchiriez apartament 2 camere",
+      "surface": 65,
+      "price": 392
+    },
+    {
+      "title": "De inchiriat garsoniera confort 1,mobilata utilata, CURATA, zona URA",
+      "surface": 30,
+      "price": 240
+    },
+    {
+      "title": "Bacau, apartament in centru , mobilat si utilat, 1500 lei",
+      "surface": 46,
+      "price": 301
+    },
+    {
+      "title": "Inchiriere doua camere decomandat George Bacovia",
+      "surface": 55,
+      "price": 221
+    },
+    {
+      "title": "Apartament cu 2 camere decomandat pe Aviatorilor 31",
+      "surface": 55,
+      "price": 250
+    },
+    {
+      "title": "Inchiriez apartament 2 camere",
+      "surface": 54,
+      "price": 250
+    },
+    {
+      "title": "Complexul Elisa ,2 camere decomandate , 58 mp, et 1 , lux, parcare",
+      "surface": 58,
+      "price": 380
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat/ZONA CENTRALA /BLOC NOU",
+      "surface": 46,
+      "price": 440
+    },
+    {
+      "title": "2 camere, elegant, zona Republicii",
+      "surface": 52,
+      "price": 300
+    },
+    {
+      "title": "Apartament de închiriat 3 camere zona centrala",
+      "surface": 60,
+      "price": 349
+    },
+    {
+      "title": "Închiriez 3 camere decomandate,  2 băi",
+      "surface": 76,
+      "price": 350
+    },
+    {
+      "title": "Apartament 3 camere, complex Rezidențial.",
+      "surface": 100,
+      "price": 370
+    },
+    {
+      "title": "Apartament 2 camere, bloc nou, Vadul Bistritei Bacau",
+      "surface": 44,
+      "price": 370
+    },
+    {
+      "title": "Apartament 3 camere decomandat",
+      "surface": 75,
+      "price": 402
+    },
+    {
+      "title": "Închiriez ap cu loc de parcare Colina Măgurii",
+      "surface": 47,
+      "price": 281
+    },
+    {
+      "title": "Închiriez apartament 2 camere",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Apartament 3 camere, 80 mp, zona Ultracentrala",
+      "surface": 80,
+      "price": 479
+    },
+    {
+      "title": "Garsoniera de inchiriat | Mobilat si utilat | AC, Central, Bacau",
+      "surface": 40,
+      "price": 280
+    },
+    {
+      "title": "Apartament 2 camere, mobilat complet, utilat , zona catedrala catolica",
+      "surface": 60,
+      "price": 321
+    },
+    {
+      "title": "PROPRIETAR închiriez apartament 3 camere decomandat BACĂU",
+      "surface": 68,
+      "price": 350
+    },
+    {
+      "title": "2 Deco &amp;Parking NOU Bd.Unirii",
+      "surface": 55,
+      "price": 390
+    },
+    {
+      "title": "Închiriez apartament Gheraesti 350€",
+      "surface": 47,
+      "price": 350
+    },
+    {
+      "title": "Apartament Fiald nou+loc de parcare",
+      "surface": 57,
+      "price": 450
+    },
+    {
+      "title": "Apartament cu 1 camere de închiriat în zona Gara",
+      "surface": 25,
+      "price": 230
+    },
+    {
+      "title": "De inchiriat, apartament 2 camere, zona Bazinului de inot, mobilat ,CT",
+      "surface": 44,
+      "price": 245
+    },
+    {
+      "title": "Ultracentral!!! 2 camere mobilate",
+      "surface": 55,
+      "price": 300
+    },
+    {
+      "title": "Apartament cu 3 camere de inchiriat-Narcisa",
+      "surface": 60,
+      "price": 300
+    },
+    {
+      "title": "Inchiriez garsoniera confort 1, mobilata, zona centrala",
+      "surface": 30,
+      "price": 300
+    },
+    {
+      "title": "Apartament cu 2 camere de închiriat în zona 9 Mai",
+      "surface": 60,
+      "price": 365
+    },
+    {
+      "title": "Inchiriez apartament 2 deco Republicii",
+      "surface": 50,
+      "price": 280
+    },
+    {
+      "title": "De inchiriat apartament 2 camere zona Centrala",
+      "surface": 50,
+      "price": 340
+    },
+    {
+      "title": "Bloc nou-2 camere Fiald",
+      "surface": 53,
+      "price": 350
+    },
+    {
+      "title": "Apartament Ultramodern, 2 camere, Central",
+      "surface": 50,
+      "price": 400
+    },
+    {
+      "title": "3 camere decomandate Lux",
+      "surface": 65,
+      "price": 400
+    },
+    {
+      "title": "Apartament Ultramodern, bloc nou, 3 camere",
+      "surface": 60,
+      "price": 500
+    },
+    {
+      "title": "2 camare decomandate, amenajat",
+      "surface": 56,
+      "price": 300
+    },
+    {
+      "title": "Apartament 3 camere Arena Mall",
+      "surface": 105,
+      "price": 599
+    },
+    {
+      "title": "Apartament 2 camere ultracentral pentru birouri",
+      "surface": 46,
+      "price": 380
+    },
+    {
+      "title": "Apartament 22 Decembrie nr 1",
+      "surface": 40,
+      "price": 300
+    },
+    {
+      "title": "2 camere Tic Tac",
+      "surface": 50,
+      "price": 320
+    },
+    {
+      "title": "Inchiriere ap. 2 camere vis a vis de Universitatea V. Alecsandri Bacau",
+      "surface": 55,
+      "price": 320
+    },
+    {
+      "title": "Apartament cu 2 camere cu gradina de inchiriat-bloc nou",
+      "surface": 56,
+      "price": 400
+    },
+    {
+      "title": "2 camere Orizont",
+      "surface": 50,
+      "price": 300
+    },
+    {
+      "title": "Apartament cu 3 camere de închiriat în zona Nord",
+      "surface": 81,
+      "price": 400
+    },
+    {
+      "title": "Apartament de inchiriat 100% nou Fiald Bacovia",
+      "surface": 50,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere etaj 3, pret 360€+19%TVA,optional parcare 40€+tva",
+      "surface": 56,
+      "price": 360
+    },
+    {
+      "title": "Apartament 2 camere",
+      "surface": 50,
+      "price": 300
+    },
+    {
+      "title": "Apartament nou zona Selgros bloc Fiald",
+      "surface": 50,
+      "price": 500
+    },
+    {
+      "title": "Zona Stefan cel Mare, bloc nou, apartament modern, Cod CE 983",
+      "surface": 50,
+      "price": 350
+    },
+    {
+      "title": "Totul Nou, Primul Chirias- Cod CE491",
+      "surface": 45,
+      "price": 330
+    },
+    {
+      "title": "Primul chirias, bloc nou, parcare privata / Cod CE 861",
+      "surface": 75,
+      "price": 350
+    },
+    {
+      "title": "Apartament de inchiriat Republicii",
+      "surface": 55,
+      "price": 261
+    },
+    {
+      "title": "Bloc nou/ primul chirias / Totul NOU , cod ag CE135",
+      "surface": 50,
+      "price": 400
+    },
+    {
+      "title": "Bloc nou/ centru / primul chirias , cod CE 260",
+      "surface": 38,
+      "price": 300
+    },
+    {
+      "title": "Apartament 2 camere, mobilat complet, utilat , zona catedrala catolica",
+      "surface": 60,
+      "price": 321
+    },
+    {
+      "title": "Apartament spatios si decoamndat, 2 camere / Cod CE 871",
+      "surface": 55,
+      "price": 280
+    },
+    {
+      "title": "Inchiriere ap cu 2cam si Parcare,,,GEMENII,, din Stefan cel Mare 32/C",
+      "surface": 55,
+      "price": 460
+    },
+    {
+      "title": "Neagoe Voda, 2 camere decomandate / Cod CE775",
+      "surface": 60,
+      "price": 300
+    },
+    {
+      "title": "Bloc Nou, 2 camere, zona Neagoe Voda, Cod CE 954",
+      "surface": 50,
+      "price": 350
+    },
+    {
+      "title": "PRIMA INCHIRIERE, 2 decomandate renovat, zona Tic Tac",
+      "surface": 55,
+      "price": 330
+    },
+    {
+      "title": "Apartament Ultracentral, 2 camere, de inchiriat, Bacau",
+      "surface": 45,
+      "price": 350
+    },
+    {
+      "title": "Zona Milcov, 2 camere, renovat, Cod CE 981",
+      "surface": 50,
+      "price": 270
+    },
+    {
+      "title": "Apartament in bloc nou cu parcare privata / Cod CE 931",
+      "surface": 50,
+      "price": 330
+    },
+    {
+      "title": "Ultracentral 2 camere / Mobilat si Utilat - Cod CE 710",
+      "surface": 55,
+      "price": 300
+    },
+    {
+      "title": "Apartament 2 camere mobilat/utilat - Strada Mioritei!",
+      "surface": 43,
+      "price": 260
+    },
+    {
+      "title": "Bloc Nou , 2 camere decomandate cod CE 283",
+      "surface": 50,
+      "price": 330
+    },
+    {
+      "title": "Apartament de închiriat",
+      "surface": 68,
+      "price": 300
+    },
+    {
+      "title": "2 Camere la pret avantajos / Cod CE 1012",
+      "surface": 48,
+      "price": 250
+    },
+    {
+      "title": "Apartament spatios cu o priveliste superba / Cod CE773",
+      "surface": 65,
+      "price": 320
+    },
+    {
+      "title": "Apartament NOU mobilat Lux",
+      "surface": 57,
+      "price": 450
+    },
+    {
+      "title": "Zona Restaurantului Miorita, 2 Camere / Cod CE1011",
+      "surface": 48,
+      "price": 250
+    },
+    {
+      "title": "Ultracentral, decomandat, recent renovat / Cod CE 926",
+      "surface": 58,
+      "price": 400
+    },
+    {
+      "title": "Bloc nou, decomandat, primul chirias / cod CE 1010",
+      "surface": 58,
+      "price": 400
+    },
+    {
+      "title": "Apartament NOU cochet 2 camere – Cod CE 598",
+      "surface": 47,
+      "price": 350
+    },
+    {
+      "title": "Apartament De Inchiriat 2 Camere 300 Euro Zona Cfr",
+      "surface": 60,
+      "price": 300
+    },
+    {
+      "title": "Garsoniera confot 1, Zona foarte buna / Cod CE 979",
+      "surface": 42,
+      "price": 280
+    },
+    {
+      "title": "Apartament 2 camere decomandat, zona CORA cod ag ce147",
+      "surface": 50,
+      "price": 300
+    },
+    {
+      "title": "Apartament de inchiriat, etaj 2, cu centrala, zona Tic Tac",
+      "surface": 32,
+      "price": 241
+    },
+    {
+      "title": "Bloc Nou- 2 camere, Cod CE576",
+      "surface": 60,
+      "price": 300
+    },
+    {
+      "title": "Bloc nou, apartament luminos cu 2 camere / Cod CE803",
+      "surface": 48,
+      "price": 320
+    },
+    {
+      "title": "Sansa ta sa fii primul chirias, Zona Centrala, cod CE 163",
+      "surface": 40,
+      "price": 240
+    },
+    {
+      "title": "Inchiriere Apartament 2 camere mobilat, zona Centru Bacau",
+      "surface": 35,
+      "price": 300
+    },
+    {
+      "title": "Zona Banca Nationala, 2 camere / Cod CE 904",
+      "surface": 50,
+      "price": 250
+    },
+    {
+      "title": "Apartament modern si prosper,SPRE INCHIRIERE. COD CE658",
+      "surface": 48,
+      "price": 320
+    },
+    {
+      "title": "Zona Mioritei, Garsoniera primitoare confort 1 / Cod CE 976",
+      "surface": 42,
+      "price": 241
+    },
+    {
+      "title": "Zona Neagoe Voda, 2 camere, PARTER, Cod CE 965",
+      "surface": 52,
+      "price": 300
+    },
+    {
+      "title": "Bloc nou, 3 camere in zona centrala / Cod CE917",
+      "surface": 78,
+      "price": 500
+    },
+    {
+      "title": "Ultracentral- Apartament Modern/ COD CE680",
+      "surface": 50,
+      "price": 350
+    },
+    {
+      "title": "Apartament de inchiriat pretabil spatiu comercial",
+      "surface": 52,
+      "price": 390
+    },
+    {
+      "title": "Inchiriez apartament cu 3 camere in Bacau, pe strada Tipografilor",
+      "surface": 70,
+      "price": 350
+    },
+    {
+      "title": "APARTAMENT 2 camere, mobilat/utilat, Aleea Parcului, COD CE 74",
+      "surface": 50,
+      "price": 280
+    },
+    {
+      "title": "PRIMA INCHIRIERE, 2 decomandate renovat, zona Tic Tac",
+      "surface": 50,
+      "price": 330
+    },
+    {
+      "title": "Apartament 2 camere, mobilat complet, utilat , zona catedrala catolica",
+      "surface": 60,
+      "price": 321
+    },
+    {
+      "title": "Apartament Lux Fiald",
+      "surface": 65,
+      "price": 420
+    },
+    {
+      "title": "camera de inchiriat pt o fată",
+      "surface": 52,
+      "price": 121
+    },
+    {
+      "title": "Apartament 2 camere decomandate,mobilat complet,totul nou",
+      "surface": 60,
+      "price": 410
+    },
+    {
+      "title": "Spatios, decomandat cu 3 camere / Cod CE828",
+      "surface": 68,
+      "price": 350
+    },
+    {
+      "title": "Zona Tribunal,etajul 1",
+      "surface": 24,
+      "price": 200
+    },
+    {
+      "title": "Apartament de închiriat  mobilat și utilat",
+      "surface": 56,
+      "price": 360
+    },
+    {
+      "title": "Închiriez apartament spațiu mic",
+      "surface": 32,
+      "price": 161
+    },
+    {
+      "title": "Central, 2 camere, mobilat si utilat, 90 mp, loc de parcare",
+      "surface": 90,
+      "price": 500
+    },
+    {
+      "title": "Garsoniera lux",
+      "surface": 45,
+      "price": 300
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat în zona Centrala-bloc nou",
+      "surface": 49,
+      "price": 370
+    },
+    {
+      "title": "2 camere 9 Mai",
+      "surface": 48,
+      "price": 330
+    },
+    {
+      "title": "3 camere Bistrita Lac",
+      "surface": 60,
+      "price": 420
+    },
+    {
+      "title": "Bloc NOU, primul chirias, Modern, cod CE 400",
+      "surface": 50,
+      "price": 350
+    },
+    {
+      "title": "Apartament cu priveliste de milioane,SE INCHIRIAZA COD CE653",
+      "surface": 50,
+      "price": 350
+    },
+    {
+      "title": "Zona Bistrita Lac , 2 camere , modern , cod CE 426",
+      "surface": 50,
+      "price": 290
+    },
+    {
+      "title": "Central, 2 camere decomandat, etajul 1 – Cod CE764",
+      "surface": 54,
+      "price": 300
+    },
+    {
+      "title": "Cel mai frumos tip de apartament / Cod CE 800",
+      "surface": 58,
+      "price": 400
+    },
+    {
+      "title": "Bloc nou, 3 CAMERE et 1 , cod CE 415",
+      "surface": 65,
+      "price": 400
+    },
+    {
+      "title": "Ultracentral Bacau, garsoniera confort 1 sporit, 300 euro",
+      "surface": 38,
+      "price": 300
+    },
+    {
+      "title": "Apartament cu 3 camere decomandate, strada Banatului, Etaj 1",
+      "surface": 70,
+      "price": 300
+    },
+    {
+      "title": "Apartament superb - Totul Nou /COD CE679",
+      "surface": 52,
+      "price": 350
+    },
+    {
+      "title": "Bistrita Lac, 2 Camere- Cod CE484",
+      "surface": 55,
+      "price": 300
+    },
+    {
+      "title": "Inchiriez apartament 3 camere",
+      "surface": 91,
+      "price": 580
+    },
+    {
+      "title": "Apartament 2 camere, Central, de inchiriat",
+      "surface": 42,
+      "price": 261
+    },
+    {
+      "title": "2 camere Ateneu Bacau",
+      "surface": 40,
+      "price": 300
+    },
+    {
+      "title": "Bloc nou - langa Mall - penthouse 180mp - 4 camere si terase",
+      "surface": 122,
+      "price": 750
+    },
+    {
+      "title": "Primul Chirias- 2 Camere, Cod CE553",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Apartament spatios zona Cora",
+      "surface": 70,
+      "price": 400
+    },
+    {
+      "title": "Totul nou- 2 camere intr-un bloc din 2020, cod CE 472",
+      "surface": 55,
+      "price": 400
+    },
+    {
+      "title": "De inchiriat apartament 3 camere, zona Narcisa",
+      "surface": 52,
+      "price": 300
+    },
+    {
+      "title": "GARSONIERA in zona Energiei de închiriat .",
+      "surface": 33,
+      "price": 280
+    },
+    {
+      "title": "Zona Milcov, 2 camere la parter / cod CE914",
+      "surface": 50,
+      "price": 250
+    },
+    {
+      "title": "Bloc Adama , 2 camere luminoase si spatioase/ Cod CE 1001",
+      "surface": 55,
+      "price": 290
+    },
+    {
+      "title": "Decomandat, 2 camere, etaj 3, mobilat si utilat, zona Nord",
+      "surface": 50,
+      "price": 300
+    },
+    {
+      "title": "Apartament 2 camere decomandate de închiriat, zona Piata Centrala",
+      "surface": 54,
+      "price": 400
+    },
+    {
+      "title": "Apartament 2 camere, mobilat complet, utilat , zona catedrala catolica",
+      "surface": 60,
+      "price": 321
+    },
+    {
+      "title": "Primul chirias, TOTUL NOU , zona Miron Costin ,cod CE 1009",
+      "surface": 50,
+      "price": 290
+    },
+    {
+      "title": "Apartament 3 camere, Insula de Agrement",
+      "surface": 90,
+      "price": 390
+    },
+    {
+      "title": "Curtea de Apel Mobilat Utilat NOU loc de parcare",
+      "surface": 50,
+      "price": 500
+    },
+    {
+      "title": "Zona Neagoe Voda, 2 camere decomandate / Cod CE 895",
+      "surface": 52,
+      "price": 300
+    },
+    {
+      "title": "Central (Cascada- 9 Mai) 2 decomandate mobilate",
+      "surface": 50,
+      "price": 300
+    },
+    {
+      "title": "De inchiriat 3 camere Adriatica",
+      "surface": 70,
+      "price": 300
+    },
+    {
+      "title": "Zona Piata Sud, perfect pentru familii / Cod CE 897",
+      "surface": 55,
+      "price": 280
+    },
+    {
+      "title": "Apartament modern, Primul chirias / Cod CE743",
+      "surface": 55,
+      "price": 300
+    },
+    {
+      "title": "Primul CHIRIAS, zona Cornisa -Bistritei , cod CE 1017",
+      "surface": 55,
+      "price": 270
+    },
+    {
+      "title": "Apartament de inchiriat, 2 camere, Bacau",
+      "surface": 55,
+      "price": 221
+    },
+    {
+      "title": "Ap. 3 camere modern-Valea Alba",
+      "surface": 70,
+      "price": 400
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat zona Nord. Etajul 1",
+      "surface": 56,
+      "price": 260
+    },
+    {
+      "title": "Inchiriem 3 Camere Piata Sud Scoala 10 et 2 Modern Mobilat",
+      "surface": 63,
+      "price": 350
+    },
+    {
+      "title": "Ultracentral - Peco Mol - bloc nou - chirie 2 camere - mobilat si util",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "PRIMA INCHIRIERE! Garsoniera CF 1, etaj 1, Renovata, CENTRU!",
+      "surface": 38,
+      "price": 300
+    },
+    {
+      "title": "Apartament de închiriat",
+      "surface": 50,
+      "price": 250
+    },
+    {
+      "title": "Apartament 3 Camere Zona Stefan Cel Mare, 580 Euro",
+      "surface": 91,
+      "price": 580
+    },
+    {
+      "title": "DE INCHIRIAT : apartament 3 cam tip A; 2 CAI DE ACCES;Teren+curte prop",
+      "surface": 71,
+      "price": 1050
+    },
+    {
+      "title": "Ultracentral - LUCEAFARUL, Apart 2 cam, RENOVAT &amp; MOBILAT, totul NOU!",
+      "surface": 42,
+      "price": 350
+    },
+    {
+      "title": "NORD - Bloc NOU 2022 - Apartament 2 camere complet mobilat si utilat!",
+      "surface": 50,
+      "price": 350
+    },
+    {
+      "title": "Inchiriere Apartament 2 Camere Fiald Nord, 350 Euro",
+      "surface": 54,
+      "price": 350
+    },
+    {
+      "title": "Apartament de inchiriat",
+      "surface": 61,
+      "price": 550
+    },
+    {
+      "title": "Cartierul CFR - apartament in vila - etajul 1 - mobilat si utilat comp",
+      "surface": 110,
+      "price": 370
+    },
+    {
+      "title": "Apartament tip studio in centrul orasului / km 0 - COD 691",
+      "surface": 40,
+      "price": 300
+    }
+  ]
+}

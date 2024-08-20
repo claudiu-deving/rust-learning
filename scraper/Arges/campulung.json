@@ -1,0 +1,20 @@
+{
+  "name": "campulung",
+  "apartments": [
+    {
+      "title": "Apartament de închiriat",
+      "surface": 54,
+      "price": 271
+    },
+    {
+      "title": "Apartament de inchiriat",
+      "surface": 42,
+      "price": 221
+    },
+    {
+      "title": "Camere de închiriat Campulung",
+      "surface": 80,
+      "price": 120
+    }
+  ]
+}

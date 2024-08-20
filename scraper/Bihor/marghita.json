@@ -1,0 +1,45 @@
+{
+  "name": "marghita",
+  "apartments": [
+    {
+      "title": "Apartament cu 4 camere de inchiriat",
+      "surface": 81,
+      "price": 500
+    },
+    {
+      "title": "Garsoniera pt folosinta rezidentiala sau comerciala",
+      "surface": 28,
+      "price": 250
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat",
+      "surface": 36,
+      "price": 500
+    },
+    {
+      "title": "Apartament cu 3 camere de inchiriat",
+      "surface": 47,
+      "price": 350
+    },
+    {
+      "title": "De inchiriat apartament cu 5 dormitoare, living, bucatarie si 3 bai",
+      "surface": 224,
+      "price": 1000
+    },
+    {
+      "title": "Apartament de inchiriat Marghita - 2 camere",
+      "surface": 51,
+      "price": 350
+    },
+    {
+      "title": "Apartament cu o camera",
+      "surface": 35,
+      "price": 275
+    },
+    {
+      "title": "Apartament cu 2 camere de închiriat",
+      "surface": 80,
+      "price": 350
+    }
+  ]
+}

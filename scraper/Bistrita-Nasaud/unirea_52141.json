@@ -1,0 +1,10 @@
+{
+  "name": "unirea_52141",
+  "apartments": [
+    {
+      "title": "Apartament nou de inchiriat",
+      "surface": 72,
+      "price": 500
+    }
+  ]
+}

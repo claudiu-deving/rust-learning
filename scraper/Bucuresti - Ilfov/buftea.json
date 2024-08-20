@@ -1,0 +1,25 @@
+{
+  "name": "buftea",
+  "apartments": [
+    {
+      "title": "Inchiriez apartament de 3 camere, complet utilat si mobilat in Buftea",
+      "surface": 80,
+      "price": 450
+    },
+    {
+      "title": "Închiriere apartament, proaspăt renovat și mobilat, Centru Buftea",
+      "surface": 48,
+      "price": 400
+    },
+    {
+      "title": "Inchiriez Apartament in Conacul Castanilor.",
+      "surface": 65,
+      "price": 499
+    },
+    {
+      "title": "Inchiriez apartament 3 camere! Utilat complet!",
+      "surface": 70,
+      "price": 400
+    }
+  ]
+}

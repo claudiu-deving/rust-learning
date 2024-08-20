@@ -1,0 +1,130 @@
+{
+  "name": "resita",
+  "apartments": [
+    {
+      "title": "De inchiriat in Lunca!!!",
+      "surface": 64,
+      "price": 250
+    },
+    {
+      "title": "Resita, 2 Cam, etj 1, Cf 1, Mobilat-Utilat, Micro I",
+      "surface": 56,
+      "price": 220
+    },
+    {
+      "title": "Inchiriez apartament 2 camere+parcare Timișoara",
+      "surface": 30,
+      "price": 350
+    },
+    {
+      "title": "Inchiriez apartament 2 camere",
+      "surface": 60,
+      "price": 250
+    },
+    {
+      "title": "inchiriez apt 3 camere",
+      "surface": 50,
+      "price": 180
+    },
+    {
+      "title": "Apartament cu trei camere de inchiriat.",
+      "surface": 73,
+      "price": 300
+    },
+    {
+      "title": "Inchiriez Garsoniera",
+      "surface": 30,
+      "price": 150
+    },
+    {
+      "title": "Închiriez apartament 3 camere",
+      "surface": 70,
+      "price": 250
+    },
+    {
+      "title": "De inchiriat Aparatament 2 camere zona Politie",
+      "surface": 52,
+      "price": 230
+    },
+    {
+      "title": "Apartament de inchiriat cu 3 camere in Resita.",
+      "surface": 68,
+      "price": 281
+    },
+    {
+      "title": "inchiriez apt 2 camere",
+      "surface": 60,
+      "price": 180
+    },
+    {
+      "title": "Resita, 2 Cam. Conf.1, Semidec.Zona Lunca",
+      "surface": 52,
+      "price": 250
+    },
+    {
+      "title": "Închiriez apartament cu 1 camera",
+      "surface": 30,
+      "price": 140
+    },
+    {
+      "title": "Închiriez apartament cu 3 camere",
+      "surface": 80,
+      "price": 250
+    },
+    {
+      "title": "Apartament de Închiriat central 3 camere renovat recet",
+      "surface": 104,
+      "price": 430
+    },
+    {
+      "title": "Apartament 2 camere semidecomandat et 1 ID 1213",
+      "surface": 45,
+      "price": 180
+    },
+    {
+      "title": "Apartament de închiriat cu 3 camere decomandat",
+      "surface": 74,
+      "price": 320
+    },
+    {
+      "title": "Apartament de inchiriat",
+      "surface": 65,
+      "price": 250
+    },
+    {
+      "title": "Resita Chirie, Apartament Cu O Camera, Mobilat + Utilat, Micro II",
+      "surface": 30,
+      "price": 180
+    },
+    {
+      "title": "Apartament 4 camere, etajul 1, Micro IV, ID 807",
+      "surface": 100,
+      "price": 500
+    },
+    {
+      "title": "Inchiriez Apartament Resita - Prima Inchiriere",
+      "surface": 35,
+      "price": 180
+    },
+    {
+      "title": "Cazare inchiriere apartament echipe de muncitori, Resita",
+      "surface": 60,
+      "price": 250
+    },
+    {
+      "title": "De inchiriat , apartament 2 camere",
+      "surface": 63,
+      "price": 250
+    },
+    {
+      "title": "Apartament de inkiriat zona Muncitoresc o camera",
+      "surface": 45,
+      "price": 200
+    },
+    {
+      "title": "inchiriez apt 2 camere",
+      "surface": 50,
+      "price": 230
+    }
+  ]
+}

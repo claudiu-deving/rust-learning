@@ -1,0 +1,45 @@
+{
+  "name": "ghimbav",
+  "apartments": [
+    {
+      "title": "Comision 0% | 2 camere tip studio | prima inchiriere | Sanpetru",
+      "surface": 43,
+      "price": 449
+    },
+    {
+      "title": "Eleven Residence, langa mall Coresi, garsoniera, disponibila 1 sept 20",
+      "surface": 42,
+      "price": 500
+    },
+    {
+      "title": "inchiriez apartament 2 camere",
+      "surface": 52,
+      "price": 342
+    },
+    {
+      "title": "Apartament 2 camere | 50 mp | mobilat complet | parcare | Sanpetru",
+      "surface": 50,
+      "price": 420
+    },
+    {
+      "title": "Apartament 3 camere | prima inchiriere | parcare subterana",
+      "surface": 108,
+      "price": 950
+    },
+    {
+      "title": "Apartament 2 camere 55mp, Ghimbav Residence",
+      "surface": 55,
+      "price": 490
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 27,
+      "price": 221
+    },
+    {
+      "title": "Apartament | 2 camere | LUX | prima chirie | NOU | Isaran |",
+      "surface": 83,
+      "price": 650
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "name": "braila",
+  "apartments": [
+    {
+      "title": "Închiriez apartament 2 camere",
+      "surface": 49,
+      "price": 350
+    },
+    {
+      "title": "Inchiriez apartament 3 camere",
+      "surface": 76,
+      "price": 450
+    },
+    {
+      "title": "De Inchiriat Apartament 2 Cam.",
+      "surface": 50,
+      "price": 550
+    },
+    {
+      "title": "Apartament 2 camere Radu Negru",
+      "surface": 65,
+      "price": 301
+    },
+    {
+      "title": "Inchiriez apartament !!",
+      "surface": 54,
+      "price": 450
+    },
+    {
+      "title": "Inchiriez apartament 2 camere, modern, zona Progresul",
+      "surface": 47,
+      "price": 271
+    },
+    {
+      "title": "Apartament cu 2 camere de închiriat în zona Buzăului",
+      "surface": 60,
+      "price": 400
+    },
+    {
+      "title": "Apartment 2 camere de inchiriat",
+      "surface": 50,
+      "price": 321
+    },
+    {
+      "title": "Apartament 2camere de inchiriat",
+      "surface": 56,
+      "price": 402
+    },
+    {
+      "title": "Inchiriem apartament 2 camere Buzaului 60 mp",
+      "surface": 60,
+      "price": 400
+    },
+    {
+      "title": "Apartament 1 camera,40 m2,utilat si mobilat,et.2/4,zona Piata Mare",
+      "surface": 40,
+      "price": 4000
+    },
+    {
+      "title": "Apartament  1 Camera Studio Continental",
+      "surface": 47,
+      "price": 450
+    },
+    {
+      "title": "Totul Nou ! Incchiriez Ap 3 camere Lux",
+      "surface": 74,
+      "price": 600
+    },
+    {
+      "title": "Inchiriez ap 2 camere ultracentral",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Buzaului Bloc 2015 la sosea 2 cam mobilat Lux",
+      "surface": 60,
+      "price": 435
+    },
+    {
+      "title": "De inchiriere Garsoniera zona Hipodrom",
+      "surface": 22,
+      "price": 201
+    },
+    {
+      "title": "Închiriere apartament",
+      "surface": 120,
+      "price": 600
+    },
+    {
+      "title": "Apartament 1 camera zona Gării la parter",
+      "surface": 32,
+      "price": 301
+    },
+    {
+      "title": "Apartament 3 camere de inchiriat -str. Rosiorilor",
+      "surface": 60,
+      "price": 370
+    },
+    {
+      "title": "Inch. 1 cam. cf.1 dec. mobilat si utilat, Sos Baldov. - podul Apollo",
+      "surface": 42,
+      "price": 201
+    },
+    {
+      "title": "Inchiriez Apartament confort 2",
+      "surface": 40,
+      "price": 211
+    },
+    {
+      "title": "Apartament cu 2 camere de închiriat în zona Calea Călărașilor",
+      "surface": 65,
+      "price": 485
+    },
+    {
+      "title": "Apartament 2 camere de Închiriat ( Călăraşilor / Concivia)",
+      "surface": 65,
+      "price": 485
+    },
+    {
+      "title": "Inchiriez apartament 2 camere VIDIN",
+      "surface": 50,
+      "price": 250
+    },
+    {
+      "title": "Apartament pe faleza Dunarii",
+      "surface": 57,
+      "price": 700
+    },
+    {
+      "title": "Apartament de inchiriat ultracentral/bd. Independentei",
+      "surface": 70,
+      "price": 502
+    },
+    {
+      "title": "Garsonieră Nouă DeLuxe Hipodrom",
+      "surface": 30,
+      "price": 300
+    },
+    {
+      "title": "Garsoniera in Hipodrom",
+      "surface": 30,
+      "price": 201
+    },
+    {
+      "title": "Garsoniera Hipodrom-Pietatii, Etaj 1",
+      "surface": 30,
+      "price": 241
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 28,
+      "price": 200
+    },
+    {
+      "title": "De închiriat ,ap 1 cam. confort 1",
+      "surface": 39,
+      "price": 261
+    },
+    {
+      "title": "Închiriez Apartament 3 camer",
+      "surface": 65,
+      "price": 420
+    },
+    {
+      "title": "Inchiriez apartamemt 2camere",
+      "surface": 45,
+      "price": 181
+    },
+    {
+      "title": "Inchiriem 3 camere Progresu",
+      "surface": 57,
+      "price": 350
+    },
+    {
+      "title": "De inchiriat Apartament cu 1 camera zona Obor",
+      "surface": 40,
+      "price": 281
+    },
+    {
+      "title": "Ap3 camere Bd-ul Independentei280",
+      "surface": 85,
+      "price": 500
+    },
+    {
+      "title": "Apartament de inchiriat zona buzaului",
+      "surface": 56,
+      "price": 500
+    },
+    {
+      "title": "Închiriez apartament 2 camere",
+      "surface": 49,
+      "price": 350
+    },
+    {
+      "title": "Inchiriez apartament 3 camere",
+      "surface": 76,
+      "price": 450
+    },
+    {
+      "title": "De Inchiriat Apartament 2 Cam.",
+      "surface": 50,
+      "price": 550
+    },
+    {
+      "title": "Apartament 2 camere Radu Negru",
+      "surface": 65,
+      "price": 301
+    },
+    {
+      "title": "Inchiriez apartament !!",
+      "surface": 54,
+      "price": 450
+    },
+    {
+      "title": "Inchiriez apartament 2 camere, modern, zona Progresul",
+      "surface": 47,
+      "price": 271
+    },
+    {
+      "title": "Apartament cu 2 camere de închiriat în zona Buzăului",
+      "surface": 60,
+      "price": 400
+    },
+    {
+      "title": "Apartment 2 camere de inchiriat",
+      "surface": 50,
+      "price": 321
+    },
+    {
+      "title": "Apartament 2camere de inchiriat",
+      "surface": 56,
+      "price": 402
+    },
+    {
+      "title": "Inchiriem apartament 2 camere Buzaului 60 mp",
+      "surface": 60,
+      "price": 400
+    },
+    {
+      "title": "Apartament 1 camera,40 m2,utilat si mobilat,et.2/4,zona Piata Mare",
+      "surface": 40,
+      "price": 4000
+    },
+    {
+      "title": "Apartament  1 Camera Studio Continental",
+      "surface": 47,
+      "price": 450
+    },
+    {
+      "title": "Totul Nou ! Incchiriez Ap 3 camere Lux",
+      "surface": 74,
+      "price": 600
+    },
+    {
+      "title": "Inchiriez ap 2 camere ultracentral",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Buzaului Bloc 2015 la sosea 2 cam mobilat Lux",
+      "surface": 60,
+      "price": 435
+    },
+    {
+      "title": "De inchiriere Garsoniera zona Hipodrom",
+      "surface": 22,
+      "price": 201
+    },
+    {
+      "title": "Închiriere apartament",
+      "surface": 120,
+      "price": 600
+    },
+    {
+      "title": "Apartament 1 camera zona Gării la parter",
+      "surface": 32,
+      "price": 301
+    },
+    {
+      "title": "Apartament 3 camere de inchiriat -str. Rosiorilor",
+      "surface": 60,
+      "price": 370
+    },
+    {
+      "title": "Inch. 1 cam. cf.1 dec. mobilat si utilat, Sos Baldov. - podul Apollo",
+      "surface": 42,
+      "price": 201
+    },
+    {
+      "title": "Inchiriez Apartament confort 2",
+      "surface": 40,
+      "price": 211
+    },
+    {
+      "title": "Apartament cu 2 camere de închiriat în zona Calea Călărașilor",
+      "surface": 65,
+      "price": 485
+    },
+    {
+      "title": "Apartament 2 camere de Închiriat ( Călăraşilor / Concivia)",
+      "surface": 65,
+      "price": 485
+    },
+    {
+      "title": "Inchiriez apartament 2 camere VIDIN",
+      "surface": 50,
+      "price": 250
+    },
+    {
+      "title": "Apartament pe faleza Dunarii",
+      "surface": 57,
+      "price": 700
+    },
+    {
+      "title": "Apartament de inchiriat ultracentral/bd. Independentei",
+      "surface": 70,
+      "price": 502
+    },
+    {
+      "title": "Garsonieră Nouă DeLuxe Hipodrom",
+      "surface": 30,
+      "price": 300
+    },
+    {
+      "title": "Garsoniera in Hipodrom",
+      "surface": 30,
+      "price": 201
+    },
+    {
+      "title": "Garsoniera Hipodrom-Pietatii, Etaj 1",
+      "surface": 30,
+      "price": 241
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 28,
+      "price": 200
+    },
+    {
+      "title": "De închiriat ,ap 1 cam. confort 1",
+      "surface": 39,
+      "price": 261
+    },
+    {
+      "title": "Închiriez Apartament 3 camer",
+      "surface": 65,
+      "price": 420
+    },
+    {
+      "title": "Inchiriez apartamemt 2camere",
+      "surface": 45,
+      "price": 181
+    },
+    {
+      "title": "Inchiriem 3 camere Progresu",
+      "surface": 57,
+      "price": 350
+    },
+    {
+      "title": "De inchiriat Apartament cu 1 camera zona Obor",
+      "surface": 40,
+      "price": 281
+    },
+    {
+      "title": "Ap3 camere Bd-ul Independentei280",
+      "surface": 85,
+      "price": 500
+    },
+    {
+      "title": "Apartament de inchiriat zona buzaului",
+      "surface": 56,
+      "price": 500
+    },
+    {
+      "title": "De Inchiriat Apartament 2 Cam.",
+      "surface": 50,
+      "price": 550
+    },
+    {
+      "title": "Apartament 1 camera,40 m2,utilat si mobilat,et.2/4,zona Piata Mare",
+      "surface": 40,
+      "price": 4000
+    }
+  ]
+}

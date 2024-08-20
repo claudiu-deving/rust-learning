@@ -1,0 +1,25 @@
+{
+  "name": "lacurile_72391",
+  "apartments": [
+    {
+      "title": "Apartament 2 camere",
+      "surface": 50,
+      "price": 352
+    },
+    {
+      "title": "Inchiriez apartament 2 camere",
+      "surface": 52,
+      "price": 332
+    },
+    {
+      "title": "Apartament 2 camere de inchiriat",
+      "surface": 57,
+      "price": 281
+    },
+    {
+      "title": "Închiriez apartament( spațiu comercial)",
+      "surface": 70,
+      "price": 502
+    }
+  ]
+}

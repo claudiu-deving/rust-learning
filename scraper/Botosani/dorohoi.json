@@ -1,0 +1,20 @@
+{
+  "name": "dorohoi",
+  "apartments": [
+    {
+      "title": "Închiriez apartament  și garsoniera",
+      "surface": 46,
+      "price": 250
+    },
+    {
+      "title": "Apartament cu o camera",
+      "surface": 36,
+      "price": 200
+    },
+    {
+      "title": "Închiriez apartament cu 2 camere în zona centrală",
+      "surface": 52,
+      "price": 300
+    }
+  ]
+}

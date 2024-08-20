@@ -1,0 +1,810 @@
+{
+  "name": "pitesti",
+  "apartments": [
+    {
+      "title": "Proprietar- apartament  2 cam semicentral fond nou AC mobilat lux",
+      "surface": 50,
+      "price": 380
+    },
+    {
+      "title": "Apartament 2 camere decomandat",
+      "surface": 56,
+      "price": 201
+    },
+    {
+      "title": "De închiriat apartament bloc nou Gavana",
+      "surface": 57,
+      "price": 350
+    },
+    {
+      "title": "Ap. 2 camere (transformat in 3 cam.) Tudor Vladimirescu",
+      "surface": 60,
+      "price": 350
+    },
+    {
+      "title": "Apartament 3 camere, Gavana 3, fond nou, etaj 1, centrala, mobilat",
+      "surface": 70,
+      "price": 400
+    },
+    {
+      "title": "Penthouse Gavana 350 euro",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Apartament 4 camere Tache Ionescu",
+      "surface": 90,
+      "price": 500
+    },
+    {
+      "title": "Apartament 3 camere Nord",
+      "surface": 68,
+      "price": 300
+    },
+    {
+      "title": "apartament 2 camere, Centru, etaj 1, mobilat, centrala",
+      "surface": 53,
+      "price": 300
+    },
+    {
+      "title": "Închiriez garsoniera gavana 2",
+      "surface": 34,
+      "price": 301
+    },
+    {
+      "title": "Garsoniera Gavana 3, mobilata, utilata",
+      "surface": 30,
+      "price": 201
+    },
+    {
+      "title": "Apartament 2 camere Nordmark Residence",
+      "surface": 70,
+      "price": 450
+    },
+    {
+      "title": "Apartament Gavana 2 decomandat centrala termica etaj 1",
+      "surface": 45,
+      "price": 201
+    },
+    {
+      "title": "De inchiriat apartament cu 3 camere conf 1 dec Tancodrom Montanstar",
+      "surface": 85,
+      "price": 450
+    },
+    {
+      "title": "Închiriez Studio Garsoniera / loc parcare privat",
+      "surface": 40,
+      "price": 390
+    },
+    {
+      "title": "Garsoniera de inchiriat",
+      "surface": 27,
+      "price": 181
+    },
+    {
+      "title": "Inchiriere garsoniera Trivale,bloc nou",
+      "surface": 45,
+      "price": 280
+    },
+    {
+      "title": "2 camere fond nou / mobilat si utilat complet / etaj 1",
+      "surface": 70,
+      "price": 290
+    },
+    {
+      "title": "Apartament 4 camere Prundu",
+      "surface": 90,
+      "price": 450
+    },
+    {
+      "title": "Apartament doua camere, decomandat, Banat",
+      "surface": 50,
+      "price": 270
+    },
+    {
+      "title": "Garsoniera Exercitiu Piata Traian",
+      "surface": 25,
+      "price": 180
+    },
+    {
+      "title": "Apartament modern 2 camere in vila",
+      "surface": 100,
+      "price": 500
+    },
+    {
+      "title": "3 camere Nordmark/ inclusiv activitati comerciale",
+      "surface": 90,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere Razboieni",
+      "surface": 52,
+      "price": 321
+    },
+    {
+      "title": "Apartament 2 camere decomandat Popa Sapca",
+      "surface": 55,
+      "price": 300
+    },
+    {
+      "title": "Apartament 2 camere Trivale, confort 1, stradal",
+      "surface": 46,
+      "price": 260
+    },
+    {
+      "title": "Apartament 3 camere Trivale",
+      "surface": 45,
+      "price": 321
+    },
+    {
+      "title": "De închiriat 2 camere",
+      "surface": 65,
+      "price": 301
+    },
+    {
+      "title": "Apartament 3 camere Calea Bucuresti",
+      "surface": 62,
+      "price": 349
+    },
+    {
+      "title": "Închiriez apartament ULTRACENTRAL-proprietar!",
+      "surface": 43,
+      "price": 300
+    },
+    {
+      "title": "Închiriez apartament 2 camere cartier Exercițiu",
+      "surface": 53,
+      "price": 241
+    },
+    {
+      "title": "Proprietar- apartament  2 cam semicentral fond nou AC mobilat lux",
+      "surface": 50,
+      "price": 380
+    },
+    {
+      "title": "Apartament Gavana Platou - Comision 0 %",
+      "surface": 60,
+      "price": 325
+    },
+    {
+      "title": "Inchiriez apartament 3 camere",
+      "surface": 73,
+      "price": 300
+    },
+    {
+      "title": "Garsoniera Nord disponibila imediat",
+      "surface": 21,
+      "price": 3200
+    },
+    {
+      "title": "Proprietar- apartament  2 cam semicentral fond nou AC mobilat lux",
+      "surface": 50,
+      "price": 380
+    },
+    {
+      "title": "Apartament 2 camere decomandat",
+      "surface": 56,
+      "price": 201
+    },
+    {
+      "title": "De închiriat apartament bloc nou Gavana",
+      "surface": 57,
+      "price": 350
+    },
+    {
+      "title": "Ap. 2 camere (transformat in 3 cam.) Tudor Vladimirescu",
+      "surface": 60,
+      "price": 350
+    },
+    {
+      "title": "Apartament 3 camere, Gavana 3, fond nou, etaj 1, centrala, mobilat",
+      "surface": 70,
+      "price": 400
+    },
+    {
+      "title": "Penthouse Gavana 350 euro",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Apartament 4 camere Tache Ionescu",
+      "surface": 90,
+      "price": 500
+    },
+    {
+      "title": "Apartament 3 camere Nord",
+      "surface": 68,
+      "price": 300
+    },
+    {
+      "title": "apartament 2 camere, Centru, etaj 1, mobilat, centrala",
+      "surface": 53,
+      "price": 300
+    },
+    {
+      "title": "Închiriez garsoniera gavana 2",
+      "surface": 34,
+      "price": 301
+    },
+    {
+      "title": "Garsoniera Gavana 3, mobilata, utilata",
+      "surface": 30,
+      "price": 201
+    },
+    {
+      "title": "Apartament 2 camere Nordmark Residence",
+      "surface": 70,
+      "price": 450
+    },
+    {
+      "title": "Apartament Gavana 2 decomandat centrala termica etaj 1",
+      "surface": 45,
+      "price": 201
+    },
+    {
+      "title": "De inchiriat apartament cu 3 camere conf 1 dec Tancodrom Montanstar",
+      "surface": 85,
+      "price": 450
+    },
+    {
+      "title": "Închiriez Studio Garsoniera / loc parcare privat",
+      "surface": 40,
+      "price": 390
+    },
+    {
+      "title": "Garsoniera de inchiriat",
+      "surface": 27,
+      "price": 181
+    },
+    {
+      "title": "Inchiriere garsoniera Trivale,bloc nou",
+      "surface": 45,
+      "price": 280
+    },
+    {
+      "title": "2 camere fond nou / mobilat si utilat complet / etaj 1",
+      "surface": 70,
+      "price": 290
+    },
+    {
+      "title": "Apartament 4 camere Prundu",
+      "surface": 90,
+      "price": 450
+    },
+    {
+      "title": "Apartament doua camere, decomandat, Banat",
+      "surface": 50,
+      "price": 270
+    },
+    {
+      "title": "Garsoniera Exercitiu Piata Traian",
+      "surface": 25,
+      "price": 180
+    },
+    {
+      "title": "Apartament modern 2 camere in vila",
+      "surface": 100,
+      "price": 500
+    },
+    {
+      "title": "3 camere Nordmark/ inclusiv activitati comerciale",
+      "surface": 90,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere Razboieni",
+      "surface": 52,
+      "price": 321
+    },
+    {
+      "title": "Apartament 2 camere decomandat Popa Sapca",
+      "surface": 55,
+      "price": 300
+    },
+    {
+      "title": "Apartament 2 camere Trivale, confort 1, stradal",
+      "surface": 46,
+      "price": 260
+    },
+    {
+      "title": "Apartament 3 camere Trivale",
+      "surface": 45,
+      "price": 321
+    },
+    {
+      "title": "De închiriat 2 camere",
+      "surface": 65,
+      "price": 301
+    },
+    {
+      "title": "Apartament 3 camere Calea Bucuresti",
+      "surface": 62,
+      "price": 349
+    },
+    {
+      "title": "Închiriez apartament ULTRACENTRAL-proprietar!",
+      "surface": 43,
+      "price": 300
+    },
+    {
+      "title": "Închiriez apartament 2 camere cartier Exercițiu",
+      "surface": 53,
+      "price": 241
+    },
+    {
+      "title": "Proprietar- apartament  2 cam semicentral fond nou AC mobilat lux",
+      "surface": 50,
+      "price": 380
+    },
+    {
+      "title": "Apartament Gavana Platou - Comision 0 %",
+      "surface": 60,
+      "price": 325
+    },
+    {
+      "title": "Inchiriez apartament 3 camere",
+      "surface": 73,
+      "price": 300
+    },
+    {
+      "title": "Garsoniera Nord disponibila imediat",
+      "surface": 21,
+      "price": 3200
+    },
+    {
+      "title": "Proprietar- apartament  2 cam semicentral fond nou AC mobilat lux",
+      "surface": 50,
+      "price": 380
+    },
+    {
+      "title": "Inchiriez garsoniera Negru Voda Pitesti",
+      "surface": 35,
+      "price": 250
+    },
+    {
+      "title": "Inchiriez garsoniera bloc nou - gavana",
+      "surface": 30,
+      "price": 300
+    },
+    {
+      "title": "2 camere Fratii Golesti Arges Mall",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Ofer inchiriere ap 3 cam, ultracentral, 90 mp, mobilat, 500 euro",
+      "surface": 82,
+      "price": 500
+    },
+    {
+      "title": "2 camere cartier Fratii Golesti / PITESTI , mobilat / utilat / PARCARE",
+      "surface": 65,
+      "price": 650
+    },
+    {
+      "title": "2 camere Popa Sapca , Decomandat / centrala , mobilat / utilat !",
+      "surface": 54,
+      "price": 299
+    },
+    {
+      "title": "apartament/spatiu",
+      "surface": 85,
+      "price": 462
+    },
+    {
+      "title": "Apartament 2 camere in Prundu Pitesti",
+      "surface": 57,
+      "price": 261
+    },
+    {
+      "title": "Apartament 2 camere Ultracentral",
+      "surface": 50,
+      "price": 350
+    },
+    {
+      "title": "Apartament 3 camere Ultracentral",
+      "surface": 75,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 camere Gavana 3",
+      "surface": 60,
+      "price": 380
+    },
+    {
+      "title": "Apartament 3 camere Gavana Platou",
+      "surface": 80,
+      "price": 400
+    },
+    {
+      "title": "Inchiriez apartament 3 camere Trivale, fond nou, etajul 1, utilat com",
+      "surface": 94,
+      "price": 369
+    },
+    {
+      "title": "Apartament 3 camere, Restaurant Capitol - complex Montanstar,  Trivale",
+      "surface": 95,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere decomandat Craiovei",
+      "surface": 64,
+      "price": 350
+    },
+    {
+      "title": "Apartament 3 camere de închiriat",
+      "surface": 130,
+      "price": 700
+    },
+    {
+      "title": "Apartament complet Eremia Grigorescu de inchiriat",
+      "surface": 66,
+      "price": 400
+    },
+    {
+      "title": "NORD KAUFLAND  // garsonieră  , 25 mp , parter  , mobilat  + utilat",
+      "surface": 26,
+      "price": 151
+    },
+    {
+      "title": "0% Comision De Inchiriat- Garsoniera Pitesti -bloc nou-Zona Prundu-Cra",
+      "surface": 30,
+      "price": 300
+    },
+    {
+      "title": "Apartament 3 camere, Prundu",
+      "surface": 68,
+      "price": 201
+    },
+    {
+      "title": "Apartament 2 Camere Etaj 1 Strada Teilor",
+      "surface": 53,
+      "price": 250
+    },
+    {
+      "title": "Apartament 2 camere Gavana Platou , bloc nou, parcare privata",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere bloc nou Eremia Grigorescu",
+      "surface": 75,
+      "price": 400
+    },
+    {
+      "title": "Apartament 2 camere bloc nou prima inchiriere zona stadion",
+      "surface": 70,
+      "price": 450
+    },
+    {
+      "title": "Închiriez apartament pe termen lung sau în regim hotelier",
+      "surface": 80,
+      "price": 402
+    },
+    {
+      "title": "Apartament 3 camere Razboieni Piata",
+      "surface": 50,
+      "price": 241
+    },
+    {
+      "title": "Apartament 2 camere, Trivale",
+      "surface": 48,
+      "price": 240
+    },
+    {
+      "title": "Închiriez apartament cu doua camere ,Găvana II",
+      "surface": 46,
+      "price": 251
+    },
+    {
+      "title": "Închiriere apartament 3 camere Ultracentral",
+      "surface": 95,
+      "price": 250
+    },
+    {
+      "title": "Apartament 3 camere Ultracentral de inchiriat etajul 2",
+      "surface": 55,
+      "price": 300
+    },
+    {
+      "title": "Apartament 3 camere Trivale, bloc nou, prima inchiriere, langa padure",
+      "surface": 70,
+      "price": 500
+    },
+    {
+      "title": "Inchiriez apartament",
+      "surface": 72,
+      "price": 321
+    },
+    {
+      "title": "Inchiriez Apartament Excercitiu",
+      "surface": 60,
+      "price": 400
+    },
+    {
+      "title": "Inchiriez apartament cu  3 camere",
+      "surface": 65,
+      "price": 301
+    },
+    {
+      "title": "Inchiriez garsoniera",
+      "surface": 24,
+      "price": 300
+    },
+    {
+      "title": "Inchiriez apartamnet cu 3 camere Pitesti -Razboieni.",
+      "surface": 52,
+      "price": 321
+    },
+    {
+      "title": "2 camere decomandat",
+      "surface": 54,
+      "price": 350
+    },
+    {
+      "title": "Proprietar- apartament  2 cam semicentral fond nou AC mobilat lux",
+      "surface": 50,
+      "price": 380
+    },
+    {
+      "title": "Apartament de închiriat 2 camere Tudor Vladimirescu",
+      "surface": 55,
+      "price": 301
+    },
+    {
+      "title": "Inchiriere apartament modern, Ultracentral, totul nou",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "Inchiriere apartament 2 camere, Exercitiu, stradal",
+      "surface": 50,
+      "price": 300
+    },
+    {
+      "title": "2 camere Eremia , Decomandat / centrală , partial mobilat!",
+      "surface": 54,
+      "price": 250
+    },
+    {
+      "title": "2 camere UltraCentral / Teatrul Davilla , mobilat / utilat , modern!",
+      "surface": 48,
+      "price": 420
+    },
+    {
+      "title": "Oferte spre închiriere apartament bloc nou Pitești",
+      "surface": 60,
+      "price": 550
+    },
+    {
+      "title": "Închiriez ap in ultracentral",
+      "surface": 75,
+      "price": 241
+    },
+    {
+      "title": "Inchiriez apartament 3 camere Negru Voda",
+      "surface": 65,
+      "price": 221
+    },
+    {
+      "title": "Închiriez apartament 3 camere",
+      "surface": 45,
+      "price": 321
+    },
+    {
+      "title": "Apartament 3 camere Calea Bucuresti stradal",
+      "surface": 55,
+      "price": 300
+    },
+    {
+      "title": "Garsoniera Gavana, bloc 2010, mobilata si utilata, etaj 2",
+      "surface": 40,
+      "price": 300
+    },
+    {
+      "title": "Apartament 2 camere Craiovei, mobilat si utilat",
+      "surface": 48,
+      "price": 350
+    },
+    {
+      "title": "Inchiriez ap 2 camere in Prundu, mobilat si utilat, 900 lei",
+      "surface": 60,
+      "price": 201
+    },
+    {
+      "title": "Inchiriere apartament.",
+      "surface": 60,
+      "price": 261
+    },
+    {
+      "title": "Apartament 3 camere, in vila cartier Trivale, cu loc de parcare",
+      "surface": 92,
+      "price": 281
+    },
+    {
+      "title": "Apartament cu 3 camere de inchiriat",
+      "surface": 98,
+      "price": 362
+    },
+    {
+      "title": "Pitesti, Inchiriez Apartament 2 camere zona Tudor Vladimirescu.",
+      "surface": 55,
+      "price": 350
+    },
+    {
+      "title": "Inchiriez Garsoniera Prima Inchirier",
+      "surface": 32,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 Camere Gavana 3 Bloc Nou Parter",
+      "surface": 70,
+      "price": 321
+    },
+    {
+      "title": "Apartament 3 camere de lux Semicentral",
+      "surface": 100,
+      "price": 700
+    },
+    {
+      "title": "Apartament 3 camere Ultracentral Modern",
+      "surface": 90,
+      "price": 800
+    },
+    {
+      "title": "Inchiriem ap 2 cam decomandat ultracentral , mobilat utilat lux",
+      "surface": 50,
+      "price": 450
+    },
+    {
+      "title": "Apartament 3 camere Ultracentral , mobilat si utilat",
+      "surface": 80,
+      "price": 550
+    },
+    {
+      "title": "Inchiriez apartament 2 camere zona centrala",
+      "surface": 40,
+      "price": 342
+    },
+    {
+      "title": "Apartament 2 camere, Teilor, etaj 3",
+      "surface": 56,
+      "price": 300
+    },
+    {
+      "title": "Garsoniera Razboieni, D2, etaj 1",
+      "surface": 27,
+      "price": 230
+    },
+    {
+      "title": "Apartament 4 camere Ultracentral",
+      "surface": 100,
+      "price": 590
+    },
+    {
+      "title": "inchiriez ap unei doamne serioase fara animale companie, anunt valabil",
+      "surface": 40,
+      "price": 161
+    },
+    {
+      "title": "3 camere, CENTRAL, mobilat/ utilat / GARAJ, finisaje moderne!",
+      "surface": 77,
+      "price": 499
+    },
+    {
+      "title": "Ofer inchiriere ap 2 cam, cf 1, Razboieni, mobilat si utilat, 250 euro",
+      "surface": 49,
+      "price": 250
+    },
+    {
+      "title": "Apartament 3 camere Popa Sapca, confort 1 decomandat",
+      "surface": 68,
+      "price": 500
+    },
+    {
+      "title": "Inchiriez apartament CENTRAL 4 camere decomandate.",
+      "surface": 112,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere Eremia",
+      "surface": 72,
+      "price": 400
+    },
+    {
+      "title": "Proprietar- apartament  2 cam semicentral fond nou AC mobilat lux",
+      "surface": 50,
+      "price": 380
+    },
+    {
+      "title": "Facultatea Brâncoveanu  // garsonieră  cf2 , parter  , mobilata   !!!",
+      "surface": 25,
+      "price": 151
+    },
+    {
+      "title": "Apartament 2 camere Exercitiu, bloc nou",
+      "surface": 55,
+      "price": 450
+    },
+    {
+      "title": "De inchiriat - Apartament 3 camere Popa Șapca",
+      "surface": 70,
+      "price": 440
+    },
+    {
+      "title": "Apartament 3 camere Popa Sapca",
+      "surface": 70,
+      "price": 440
+    },
+    {
+      "title": "Inchiriez apartament de lux in BLOC NOU, vis-a-vis de Arges Mall",
+      "surface": 65,
+      "price": 650
+    },
+    {
+      "title": "Inchiriez Apartament 3 camere Popa Sapca",
+      "surface": 70,
+      "price": 440
+    },
+    {
+      "title": "Apartament 3 camere, EXPO - PARC, bloc nou, mobilat, loc parcare",
+      "surface": 86,
+      "price": 700
+    },
+    {
+      "title": "De închiriat apartament ultracentral (disponibil din 15.08)",
+      "surface": 60,
+      "price": 342
+    },
+    {
+      "title": "Garsoniera închiriat",
+      "surface": 40,
+      "price": 241
+    },
+    {
+      "title": "2 camere Exercitiu , renovat / mobilat / utilat , finisaje moderne !",
+      "surface": 60,
+      "price": 399
+    },
+    {
+      "title": "Apartament 3 camere, mobilat complet, menaj inclus",
+      "surface": 75,
+      "price": 750
+    },
+    {
+      "title": "Apartament 2 camere, mobilat complet, menaj inclus",
+      "surface": 60,
+      "price": 750
+    },
+    {
+      "title": "Inchiriez garsoniere GAVANA  bloc nou ULTRAMODERNA",
+      "surface": 40,
+      "price": 285
+    },
+    {
+      "title": "inchiriere   ap cu 2 cam cf 1  BANAT  centrala proprie la cheie",
+      "surface": 50,
+      "price": 271
+    },
+    {
+      "title": "de inchiriat ap modern 2 camere BANAT",
+      "surface": 45,
+      "price": 321
+    },
+    {
+      "title": "Apartament 3 camere bloc nou, finisaje de lux",
+      "surface": 90,
+      "price": 700
+    },
+    {
+      "title": "Studio Eremia, bloc nou",
+      "surface": 38,
+      "price": 320
+    },
+    {
+      "title": "2 camere Pitești , mobilat / utilat / Garaj , finisaje moderne !",
+      "surface": 75,
+      "price": 550
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "name": "bistrita_51539",
+  "apartments": [
+    {
+      "title": "Inchiriez apartament in Bistrita, Aleea Greuceanu",
+      "surface": 65,
+      "price": 420
+    },
+    {
+      "title": "Ofer spre inchiriere apartament NOU cu 2 camere",
+      "surface": 61,
+      "price": 402
+    },
+    {
+      "title": "apartament zona centrala",
+      "surface": 100,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 camere",
+      "surface": 60,
+      "price": 301
+    },
+    {
+      "title": "Apartament 2 camere- Zona Sens",
+      "surface": 57,
+      "price": 300
+    },
+    {
+      "title": "Ap 3 camere, ultracentral, 90 mp, etaj I, utilatmobilat",
+      "surface": 90,
+      "price": 460
+    },
+    {
+      "title": "Inchiriere garsoniera",
+      "surface": 27,
+      "price": 135
+    },
+    {
+      "title": "Apartament la casa",
+      "surface": 45,
+      "price": 181
+    },
+    {
+      "title": "Inchiriez ap 2 cam",
+      "surface": 50,
+      "price": 200
+    },
+    {
+      "title": "Apartament,",
+      "surface": 65,
+      "price": 350
+    },
+    {
+      "title": "Apartament spatios , zona KAUFLAND SUD !",
+      "surface": 100,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere 60 mp-renovat-etaj 1-Zona Viisoara",
+      "surface": 60,
+      "price": 300
+    },
+    {
+      "title": "Apartament spatios , etaj 1 , zona Stefan cel Mare",
+      "surface": 86,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere decomandat",
+      "surface": 65,
+      "price": 281
+    },
+    {
+      "title": "Inchiriez apartam.cu 2 camere in bloc Nou",
+      "surface": 60,
+      "price": 390
+    },
+    {
+      "title": "Apartament 2 camere , zona Bulevardul Republicii !",
+      "surface": 80,
+      "price": 300
+    },
+    {
+      "title": "Se închiriază apartament cu trei camere",
+      "surface": 75,
+      "price": 400
+    },
+    {
+      "title": "Apartament 2 camere // Zona Isu",
+      "surface": 60,
+      "price": 350
+    },
+    {
+      "title": "Inchiriez apartament 3 camere la casa intrare separat 280 Euro",
+      "surface": 85,
+      "price": 280
+    },
+    {
+      "title": "Închiriez apartament",
+      "surface": 54,
+      "price": 280
+    },
+    {
+      "title": "Agentie inchiriem Ap.1 camera mobilat, et.1 - zona Pasarela Libertatii",
+      "surface": 45,
+      "price": 200
+    },
+    {
+      "title": "Ap de inchiriat 3 camere ultracentral",
+      "surface": 72,
+      "price": 370
+    },
+    {
+      "title": "Apartament 3 camere zona Lama",
+      "surface": 61,
+      "price": 270
+    },
+    {
+      "title": "Ap. de inchiriat - 2 camere / parcare privata",
+      "surface": 70,
+      "price": 422
+    },
+    {
+      "title": "Apartament 2 camere, zona Stefan cel Mare",
+      "surface": 50,
+      "price": 250
+    },
+    {
+      "title": "Apartament 3 camere de închiriat",
+      "surface": 98,
+      "price": 300
+    },
+    {
+      "title": "Anunț de închiriere apartament Ștefan cel Mare",
+      "surface": 82,
+      "price": 420
+    },
+    {
+      "title": "Apartamente 3-4 camere, prima inchiriere, Panoramic Rezidence",
+      "surface": 90,
+      "price": 350
+    },
+    {
+      "title": "Ap. 3 camere mobilat - zona Calea Moldovei, Bistrita",
+      "surface": 90,
+      "price": 280
+    },
+    {
+      "title": "Inchiriez spatiu comercial zona Gării",
+      "surface": 45,
+      "price": 500
+    },
+    {
+      "title": "Dau in chirie ap 2 camere Bistrița Decebal",
+      "surface": 60,
+      "price": 280
+    },
+    {
+      "title": "Apartament de inchiriat, Viisoara",
+      "surface": 60,
+      "price": 300
+    },
+    {
+      "title": "Inchiriez apartament in Bistrita, Aleea Greuceanu",
+      "surface": 65,
+      "price": 420
+    },
+    {
+      "title": "Ofer spre inchiriere apartament NOU cu 2 camere",
+      "surface": 61,
+      "price": 402
+    },
+    {
+      "title": "apartament zona centrala",
+      "surface": 100,
+      "price": 500
+    },
+    {
+      "title": "Apartament 2 camere",
+      "surface": 60,
+      "price": 301
+    },
+    {
+      "title": "Apartament 2 camere- Zona Sens",
+      "surface": 57,
+      "price": 300
+    },
+    {
+      "title": "Ap 3 camere, ultracentral, 90 mp, etaj I, utilatmobilat",
+      "surface": 90,
+      "price": 460
+    },
+    {
+      "title": "Inchiriere garsoniera",
+      "surface": 27,
+      "price": 135
+    },
+    {
+      "title": "Apartament la casa",
+      "surface": 45,
+      "price": 181
+    },
+    {
+      "title": "Inchiriez ap 2 cam",
+      "surface": 50,
+      "price": 200
+    },
+    {
+      "title": "Apartament,",
+      "surface": 65,
+      "price": 350
+    },
+    {
+      "title": "Apartament spatios , zona KAUFLAND SUD !",
+      "surface": 100,
+      "price": 350
+    },
+    {
+      "title": "Apartament 2 camere 60 mp-renovat-etaj 1-Zona Viisoara",
+      "surface": 60,
+      "price": 300
+    },
+    {
+      "title": "Apartament spatios , etaj 1 , zona Stefan cel Mare",
+      "surface": 86,
+      "price": 400
+    },
+    {
+      "title": "Apartament 3 camere decomandat",
+      "surface": 65,
+      "price": 281
+    },
+    {
+      "title": "Inchiriez apartam.cu 2 camere in bloc Nou",
+      "surface": 60,
+      "price": 390
+    },
+    {
+      "title": "Apartament 2 camere , zona Bulevardul Republicii !",
+      "surface": 80,
+      "price": 300
+    },
+    {
+      "title": "Se închiriază apartament cu trei camere",
+      "surface": 75,
+      "price": 400
+    },
+    {
+      "title": "Apartament 2 camere // Zona Isu",
+      "surface": 60,
+      "price": 350
+    },
+    {
+      "title": "Inchiriez apartament 3 camere la casa intrare separat 280 Euro",
+      "surface": 85,
+      "price": 280
+    },
+    {
+      "title": "Închiriez apartament",
+      "surface": 54,
+      "price": 280
+    },
+    {
+      "title": "Agentie inchiriem Ap.1 camera mobilat, et.1 - zona Pasarela Libertatii",
+      "surface": 45,
+      "price": 200
+    },
+    {
+      "title": "Ap de inchiriat 3 camere ultracentral",
+      "surface": 72,
+      "price": 370
+    },
+    {
+      "title": "Apartament 3 camere zona Lama",
+      "surface": 61,
+      "price": 270
+    },
+    {
+      "title": "Ap. de inchiriat - 2 camere / parcare privata",
+      "surface": 70,
+      "price": 422
+    },
+    {
+      "title": "Apartament 2 camere, zona Stefan cel Mare",
+      "surface": 50,
+      "price": 250
+    },
+    {
+      "title": "Apartament 3 camere de închiriat",
+      "surface": 98,
+      "price": 300
+    },
+    {
+      "title": "Anunț de închiriere apartament Ștefan cel Mare",
+      "surface": 82,
+      "price": 420
+    },
+    {
+      "title": "Apartamente 3-4 camere, prima inchiriere, Panoramic Rezidence",
+      "surface": 90,
+      "price": 350
+    },
+    {
+      "title": "Ap. 3 camere mobilat - zona Calea Moldovei, Bistrita",
+      "surface": 90,
+      "price": 280
+    },
+    {
+      "title": "Inchiriez spatiu comercial zona Gării",
+      "surface": 45,
+      "price": 500
+    },
+    {
+      "title": "Dau in chirie ap 2 camere Bistrița Decebal",
+      "surface": 60,
+      "price": 280
+    },
+    {
+      "title": "Apartament de inchiriat, Viisoara",
+      "surface": 60,
+      "price": 300
+    },
+    {
+      "title": "Ofer spre inchiriere apartament NOU cu 2 camere",
+      "surface": 61,
+      "price": 402
+    },
+    {
+      "title": "Inchiriez apartament in Bistrita, Aleea Greuceanu",
+      "surface": 65,
+      "price": 420
+    },
+    {
+      "title": "Inchiriez apartament 2 camere, etaj 1, zona Decebal",
+      "surface": 50,
+      "price": 260
+    },
+    {
+      "title": "Apartament 1 Cameră / Zefirului",
+      "surface": 40,
+      "price": 180
+    },
+    {
+      "title": "Inchiriere 3 camere mobilat, et. 3, parcare - str Petru Maior",
+      "surface": 75,
+      "price": 240
+    },
+    {
+      "title": "apartament nou",
+      "surface": 70,
+      "price": 400
+    },
+    {
+      "title": "Apartament 5 camere, etajul 4, zona de Sud",
+      "surface": 100,
+      "price": 350
+    },
+    {
+      "title": "Apartamente/Spatiu comercial la parter, Panoramic Rezidence",
+      "surface": 72,
+      "price": 350
+    },
+    {
+      "title": "Apartament de închiriat decomandat 2 camere",
+      "surface": 60,
+      "price": 320
+    },
+    {
+      "title": "Ap 2 camere, ultracentral etaj 3",
+      "surface": 60,
+      "price": 320
+    }
+  ]
+}

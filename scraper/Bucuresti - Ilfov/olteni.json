@@ -1,0 +1,20 @@
+{
+  "name": "olteni",
+  "apartments": [
+    {
+      "title": "Apartament de închiriat",
+      "surface": 60,
+      "price": 300
+    },
+    {
+      "title": "Apartament 110 m2 in Cartierul Latin, Bragadiru, Ilfov,langa sector 6",
+      "surface": 110,
+      "price": 800
+    },
+    {
+      "title": "Inchiriez apartament 3 camere utilat, mobilat complet EXCLUS agentie",
+      "surface": 80,
+      "price": 502
+    }
+  ]
+}

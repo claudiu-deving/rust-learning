@@ -1,0 +1,10 @@
+{
+  "name": "ostratu",
+  "apartments": [
+    {
+      "title": "Apartament 4 camere Corbeanca",
+      "surface": 125,
+      "price": 800
+    }
+  ]
+}

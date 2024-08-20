@@ -1,0 +1,10 @@
+{
+  "name": "rupea",
+  "apartments": [
+    {
+      "title": "inchiriez apartament 3 camere",
+      "surface": 75,
+      "price": 400
+    }
+  ]
+}

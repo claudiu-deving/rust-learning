@@ -1,0 +1,15 @@
+{
+  "name": "moinesti",
+  "apartments": [
+    {
+      "title": "Apartament 3 camere de inchiriat central!",
+      "surface": 56,
+      "price": 330
+    },
+    {
+      "title": "Apartament cu 2 camere de inchiriat in Moinesti",
+      "surface": 39,
+      "price": 280
+    }
+  ]
+}
